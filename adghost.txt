@@ -14,6 +14,15 @@
 
 
 
+||log.ireader.com^
+||logv2.ireader.com^
+||saad.ms.zhangyue.net^
+||smad.ms.zhangyue.net^
+||token-ad.com^
+||img.ad.zhangyue.com^
+||m.ad.zhangyue.com^
+||push.zhangyue.com^
+||sys.zhangyue.com^
 ||un.0098118.com^
 ||cp.0098118.com^
 ||hh.zhhbqg.com^
@@ -37,8 +46,15 @@
 ||sclick.baidu.com^
 ||nsclick.baidu.com^
 ||click-bes.baidu.com^
+||jrclick.jd.com^
+||stat.m.jd.com^
+||ads.union.jd.com^
+||ads-union.jd.com^
+||du.jd.com^
+||cm.jd.com^
 ||x.jd.com^
 ||u-x.jd.com^
+||u.x.jd.com^
 ||im-x.jd.com^
 ||img-x.jd.com^
 ||js-ad.a.yximgs.com^
