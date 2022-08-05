@@ -1,4 +1,4 @@
-!     20220712
+!     20220805
 ! Title: shiyu
 
 
@@ -14,6 +14,7 @@
 
 
 
+||amdcopen.m.taobao.com^
 ||log.ireader.com^
 ||logv2.ireader.com^
 ||saad.ms.zhangyue.net^
