@@ -1,4 +1,4 @@
-!     20220805
+!     20220810
 ! Title: shiyu
 
 
@@ -156,6 +156,7 @@
 ||qfy.innotechx.com^
 ||ctobsnssdk.com^
 ||mobads.baidu.com^
+||e.kuaishou.cn^
 ||e.kuaishou.com^
 ||astertour.fun^
 ||d18t35yyry2k49.cloudfront.net^
