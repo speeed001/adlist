@@ -6,6 +6,7 @@
 
 /^d[1-9]\.sina\.com\.cn/
 /^sf[1-6]-fe-tos\.pglstatp-toutiao\.com/
+/^[a-z]+-ad\.a\.yximgs\.com/
 
 ||vs*.gzcu.u3.ucweb.com^
 ||www.jfsdiwmnbsk*.top^
@@ -58,8 +59,6 @@
 ||u.x.jd.com^
 ||im-x.jd.com^
 ||img-x.jd.com^
-||js-ad.a.yximgs.com^
-||tx-ad.a.yximgs.com^
 ||ugdtimg.com^
 ||adtalos.com^
 ||1rtb.com^
