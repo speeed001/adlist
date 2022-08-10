@@ -44,6 +44,7 @@
 ||wq.91ishare.cn^
 ||pingma.qq.com^
 ||voiceads.cn^
+||hmma.baidu.com^
 ||mssp.baidu.com^
 ||sclick.baidu.com^
 ||nsclick.baidu.com^
