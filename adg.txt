@@ -1,4 +1,4 @@
-!     20220810
+!     20220916
 ! Title: shiyu
 
 
@@ -15,6 +15,7 @@
 
 
 
+||jmr.nnxiant.cn^
 ||amdcopen.m.taobao.com^
 ||log.ireader.com^
 ||logv2.ireader.com^
