@@ -1,3 +1,6 @@
+! TimeUpdated: 2023-07-14
+! Title: shiyu
+
 xbyouni37.xyz$replace=/limitVisits = 3;/limitVisits = 0;/
 https://api.kinh.cc/HtmlStatic/line.js
 https://api.kinh.cc/HtmlStatic/painting.js
