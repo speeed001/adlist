@@ -1,4 +1,4 @@
-! TimeUpdated: 2023-07-29
+! TimeUpdated: 2023-08-24
 ! Title: shiyu
 
 xbyouni37.xyz$replace=/limitVisits = 3;/limitVisits = 0;/
@@ -72,8 +72,6 @@ douyu.com##+js(aeld,visibilitychange)
 iqiyi.com##+js(set, param.isSupportAI, false)
 ||static.iqiyi.com/js/player_vt20220422/skin.pc.mini.*.js
 !||stc.iqiyipic.com/gaze/pcw/ssr/app.*.js
-javbus.com#$#div[class="movie"] { transform: translateY(50%)!important; }
-javbus.com#$#div[id="sample-waterfall"] { transform: translateY(-240%)!important; }
 hinmeng.com$$script[wildcard="*document.oncontextmenu*document.onkeydown*"]
 www.tianyancha.com##+js(aeld, compositionend) 
 4399.com/antijs/Antiindulgence.js$replace=/setInterval\(function\(\)//
