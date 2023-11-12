@@ -15,6 +15,10 @@
 
 
 
+
+||api-htp.beizi.biz^
+||sdk.beizi.biz^
+||sdktmp.hubcloud.com.cn^
 ||api.callget.cn^
 ||juicyads.com^
 ||mediav.com^
