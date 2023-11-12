@@ -1,4 +1,4 @@
-! TimeUpdated: 2023-05-06
+! TimeUpdated: 2023-11-13
 ! Title: shiyu
 
 
@@ -15,6 +15,7 @@
 
 
 
+||api.callget.cn^
 ||juicyads.com^
 ||mediav.com^
 ||gfxjjpo.cn^
@@ -95,6 +96,8 @@
 ||sclick.baidu.com^
 ||nsclick.baidu.com^
 ||click-bes.baidu.com^
+||xlog.jd.com^
+||dsp-x.jd.com^
 ||jrclick.jd.com^
 ||stat.m.jd.com^
 ||ads.union.jd.com^
@@ -273,6 +276,7 @@
 ||haireig.com^
 ||static.sinawap.com^
 ||img.sinawap.com^
+||api-access.pangolin-sdk-toutiao1.com^
 ||api-access.pangolin-sdk-toutiao.com^
 ||api-access.pangolin-sdk-toutiao-b.com^
 ||log-api.pangolin-sdk-toutiao.com^
