@@ -1,4 +1,4 @@
-! TimeUpdated: 2023-11-16
+! TimeUpdated: 2024-01-11
 ! Title: shiyu
 
 
@@ -123,7 +123,7 @@
 ||mobads-logs.baidu.com^
 ||log.voicecloud.cn^
 ||mwzbp.iask.com.cn^
-||heytapmobi.com^
+||ads.heytapmobi.com^
 ||lanm.huliyinzi.com^
 ||maplehaze.cn^
 ||livemz.com^
