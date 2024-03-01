@@ -17,6 +17,14 @@
 
 
 
+huichuan.sm.cn^
+||cdn-new-ad.wtzw.com^
+||adukwai.com^
+||a6-remad.qm989.com^
+||qm-ab.wtzw.com^
+||fp-it.fengkongcloud.com^
+||fp-retry-bj.fengkongcloud.com^
+||jietuhb.com
 ||adnet.vivo.com.cn^
 ||adlog.vivo.com.cn^
 ||adreq.vivo.com.cn^
