@@ -17,7 +17,7 @@
 
 
 
-huichuan.sm.cn^
+||huichuan.sm.cn^
 ||cdn-new-ad.wtzw.com^
 ||adukwai.com^
 ||a6-remad.qm989.com^
