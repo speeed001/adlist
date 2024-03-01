@@ -1,4 +1,4 @@
-! TimeUpdated: 2024-01-11
+! TimeUpdated: 2024-03-02
 ! Title: shiyu
 
 
@@ -17,6 +17,10 @@
 
 
 
+||adnet.vivo.com.cn^
+||adlog.vivo.com.cn^
+||adreq.vivo.com.cn^
+||adsdk.vivo.com.cn^
 ||mmjs.adutp.com^
 ||ymjs.adutp.com^
 ||c.sayhi.360.cn^
