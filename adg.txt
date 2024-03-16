@@ -1,4 +1,4 @@
-! TimeUpdated: 2024-03-02
+! TimeUpdated: 2024-03-16
 ! Title: shiyu
 
 
@@ -16,6 +16,13 @@
 
 
 
+
+||tnc3-aliec1.toutiaoapi.com^
+||tnc3-aliec2.bytedance.com^
+||tnc3-aliec2.toutiaoapi.com^
+||tnc3-alisc1.bytedance.com^
+||tnc3-bjlgy.bytedance.com^
+||tnc3-bjlgy.toutiaoapi.com^
 ||hc-ssp.sm.cn^
 ||huichuan.sm.cn^
 ||huichuan-mc.sm.cn^
@@ -141,6 +148,10 @@
 ||maplehaze.cn^
 ||livemz.com^
 ||jpush.io^
+||ad.zijieapi.com^
+||mssdk.zijieapi.com^
+||ads*-normal-lq.zijieapi.com^
+||ads*-normal-lf.zijieapi.com^
 ||ads*-normal-hl.zijieapi.com^
 ||pglstatp-toutiao.com^
 ||adash.man.aliyuncs.com^
