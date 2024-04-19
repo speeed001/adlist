@@ -1,4 +1,4 @@
-! TimeUpdated: 2024-04-07
+! TimeUpdated: 2024-04-19
 ! Title: shiyu
 
 
@@ -17,6 +17,29 @@
 
 
 
+||dig.bdurl.net^
+||ef-dongfeng.tanx.com^
+||ifs.tanx.com^
+||a.tanx.com^
+||cdn.tanx.com^
+||click.tanx.com^
+||cmc.tanx.com^
+||cms.opendsp.tanx.com^
+||cms.tanx.com^
+||df.tanx.com^
+||ecpm.tanx.com^
+||ef.opendsp.tanx.com^
+||ef.tanx.com^
+||et.tanx.com^
+||ex.tanx.com^
+||ifsk2.tanx.com^
+||ope.tanx.com^
+||opehs.tanx.com^
+||p.tanx.com^
+||pcookie.tanx.com^
+||phs.tanx.com^
+||rdstat.tanx.com^
+||toruk.tanx.com^
 ||sogowan.com^
 ||ylyujsmgs.com^
 ||tnc3-aliec1.toutiaoapi.com^
@@ -128,6 +151,7 @@
 ||click-bes.baidu.com^
 ||xlog.jd.com^
 ||dsp-x.jd.com^
+||janapi.jd.com^
 ||jrclick.jd.com^
 ||stat.m.jd.com^
 ||ads.union.jd.com^
