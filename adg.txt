@@ -1,4 +1,4 @@
-! TimeUpdated: 2024-04-19
+! TimeUpdated: 2024-04-20
 ! Title: shiyu
 
 
@@ -58,6 +58,7 @@
 ||fp-it.fengkongcloud.com^
 ||fp-retry-bj.fengkongcloud.com^
 ||jietuhb.com
+||adxlog-adnet.vivo.com.cn^
 ||adnet.vivo.com.cn^
 ||adlog.vivo.com.cn^
 ||adreq.vivo.com.cn^
