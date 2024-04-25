@@ -2,6 +2,7 @@
 !sdk.e.qq.com^$important
 !adsmind.gdtimg.com^$important
 !--------------------------------
+||ad.vivo.com.cn^
 bj.bcebos.com
 ||snssdk.com
 ||sf*-ttcdn-tos.pstatp.com
