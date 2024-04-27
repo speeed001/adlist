@@ -1,4 +1,4 @@
-! TimeUpdated: 2023-08-24
+! TimeUpdated: 2024-04-27
 ! Title: shiyu
 
 xbyouni37.xyz$replace=/limitVisits = 3;/limitVisits = 0;/
@@ -96,3 +96,4 @@ http://www.zztongyun.com/static/js/sh.min.js
 xiaoheimi.net$$script[wildcard="document.onkeydown=function*window.setInterval*"]
 ||juicyads.com
 kaizty.com$$script[wildcard="*adConfig*adConfig*"]
+voflix.vip#%#//scriptlet('m3u-prune', '/video/adjump/time/', 'index.m3u8')
