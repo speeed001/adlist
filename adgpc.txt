@@ -27,9 +27,7 @@ drymiss.com$$script[wildcard="*system.win*missfun.xyz"]
 |https://webapi.ctfile.com/assets/js/other.js$replace=/myWindow=window.open//
 ||sofire.bdstatic.com/js/dfxaf.js
 |https://game.gtimg.cn/images/cf/cp/*/video.mp4$domain=cf.qq.com
-423down.com$$script[wildcard="*slice*indexOf"]
 http://www.huabiaosz.com/pingbi.js
-myqqjd.com$$script[wildcard="*slice*indexOf"]
 ||graph.qq.com$replace=/<\/html>/<script>document.getElementById('select_all').click();<\/script><\/html>/
 javlibrary.com$$div[id="video_comments"]
 avbebe.com##[id="commentlist"],[id="respond"]
@@ -38,24 +36,18 @@ avbebe.com##[id="commentlist"],[id="respond"]
 |http://www.4399.com/jss/commonJsForPlay2_s_t.js$replace=/\(\)"\, 1000\);/\(\)"\, 0\);/
 haokan.baidu.com##div[class="player-pause-code player-pause-code"]
 !---
-rjno1.com$replace=/after body开始([\s\S]*after body结束)//
 douyu.com##div[class="FirePowerChatModal-Notice "]
 douyu.com##div[style="display: inline-block; position: absolute; right: 0px; top: 0px;"],div[class="PlayerToolbar-ContentCell"]
 douyu.com##+js(aeld,visibilitychange)
-iqiyi.com##+js(set, param.isSupportAI, false)
-||static.iqiyi.com/js/player_vt20220422/skin.pc.mini.*.js
-!||stc.iqiyipic.com/gaze/pcw/ssr/app.*.js
-hinmeng.com$$script[wildcard="*document.oncontextmenu*document.onkeydown*"]
 www.tianyancha.com##+js(aeld, compositionend) 
 4399.com/antijs/Antiindulgence.js$replace=/setInterval\(function\(\)//
 52asus.com$replace=/remain_time//
 ||images.client.vip.xunlei.com/mini/xlx/tips_300x310/ssi_html/xds_common.js
-pcbeta.com##[class^="_jc"]:upward(4)
 ||hh.zhhbqg.com^
-tp109.cc#%#//scriptlet("set-constant", "avshow.config.ads", "null")
-tp109.cc#%#//scriptlet("set-constant", "avshow.user.is_vip", "true")
-tp109.cc#%#//scriptlet("set-constant", "av_response.vip", "null")
-tp109.cc#?#.q-img,.gg-config,.toolbar-gg,#vip_only
+theporn.cc#%#//scriptlet("set-constant", "avshow.config.ads", "null")
+theporn.cc#%#//scriptlet("set-constant", "avshow.user.is_vip", "true")
+theporn.cc#%#//scriptlet("set-constant", "av_response.vip", "null")
+theporn.cc#?#.q-img,.gg-config,.toolbar-gg,#vip_only
 bbs.colg.cn##div[class="hm cl"]
 v0k83j2i.com#%#//scriptlet("set-constant", "vip_level", "true")
 ||ypapi.hgdd14.app/userHome/user_info$replace=/vip_type":0\,/vip_type":1\,/
