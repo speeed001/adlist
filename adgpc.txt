@@ -56,14 +56,6 @@ bbs.colg.cn##div[align="center"]>[width="640"][height="360"]
 haokan.baidu.com##div[class="player-pause-code player-pause-code"]
 javlove.club$$script[wildcard="*debugger*setTimeout(devtoolIsOpening*"]
 jwatchsb.com$$script[wildcard="*tryCount*debugger*"]
-!迅雷
-||api-shoulei-ssl.xunlei.com/flowhub/v1/slots:batchGet$replace=/\,"slots".*{}}]//
-||advertpay.vip.xunlei.com/xl11/advertisement*
-http://static-xl.a.88cdn.com/json/login_icon.json
-https://static-xl.a.88cdn.com/json/hotwords.json
-https://static-xl.a.88cdn.com/json/thunder_search_bar_footer.json
-https://static-xl.a.88cdn.com/json/thunderx_search_bar_v2.json
-||images.client.vip.xunlei.com/mini/xlx/tips_300x310/ssi_html/xdsxfbtnconf.js
 !---
 rjno1.com$replace=/after body开始([\s\S]*after body结束)//
 douyu.com##div[class="FirePowerChatModal-Notice "]
@@ -96,4 +88,5 @@ http://www.zztongyun.com/static/js/sh.min.js
 xiaoheimi.net$$script[wildcard="document.onkeydown=function*window.setInterval*"]
 ||juicyads.com
 kaizty.com$$script[wildcard="*adConfig*adConfig*"]
+voflix.vip##[id="LowerRightAd"]
 voflix.vip#%#//scriptlet('m3u-prune', '/video/adjump/time/', 'index.m3u8')
