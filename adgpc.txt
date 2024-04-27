@@ -1,10 +1,6 @@
 ! TimeUpdated: 2024-04-27
 ! Title: shiyu
 
-xbyouni37.xyz$replace=/limitVisits = 3;/limitVisits = 0;/
-https://api.kinh.cc/HtmlStatic/line.js
-https://api.kinh.cc/HtmlStatic/painting.js
-btbdys.com##+js(nano-sib, clearInterval,,0)
 !blog.aming.info#%#//scriptlet("prevent-window-open")//阻挠弹窗
 ||fieldofbachus.com
 https://ddrk.me/wp-includes/js/mediaelement/wp-playlist.min.js$replace=/adsready/noadsready/
@@ -19,19 +15,12 @@ https://ddrk.me/mtp/$image
 /slim-*.min.js$replace=/var __.={(\s\S*)+((?:type:'.*'|country:'.*'|timer:.*\,)([\s\S]*.*__..init\(\);))//
 /jquery-*min.js$replace=/var __.={(\s\S*)+((?:type:'.*'|country:'.*'|timer:.*\,)([\s\S]*.*__..init\(\);))//
 /jquery/slim-*.min.js$replace=/var __.={(\s\S*)+((?:type:'.*'|country:'.*'|timer:.*\,)([\s\S]*.*__..init\(\);))//
-pcbeta.com$$script[wildcard="*function showADialog*showADialog*"]
 acfun.cn##.pause-display
-https://bbs.pcbeta.com/data/cache/*.js$replace=/B="#"\+b.id\+"*.*"\+E.id\+"/B="#"\+b.id\+" #"+E.id+"/
-switch520.com$$script[wildcard="*callbacks*window.stop*"]
-switch520.com$$script[wildcard="var caozhuti"]
-switch520.com$$script[wildcard="split"]
 javlibrary.com###video_comments
 javlibrary.com###video_reviews
 51byl.com$replace=/adsUp\,5000/adsUp\,0/
 drymiss.com$$script[wildcard="*system.win*missfun.xyz"]
 ||open.douyu.com$domain=qq.com
-|https://node.video.qq.com/x/api/vdefault_word?
-|https://pbaccess.video.qq.com/trpc.universal_backend_service.hot_word
 ||workarea7.live/videojs/nuevo.min.js$replace=/if\(r>0\)/if\(r>1\)/
 627.workarea7.live$replace=/skipTime:5/skipTime:-1/
 |https://baikevideo.cdn.bcebos.com/media/*.m3u8$domain=baike.baidu.com
@@ -42,20 +31,12 @@ drymiss.com$$script[wildcard="*system.win*missfun.xyz"]
 http://www.huabiaosz.com/pingbi.js
 myqqjd.com$$script[wildcard="*slice*indexOf"]
 ||graph.qq.com$replace=/<\/html>/<script>document.getElementById('select_all').click();<\/script><\/html>/
-hinmeng.com$$script[wildcard="*window.getSelection*document.body.removeChild"]
-hinmeng.com$$div[class="ad-m ad-site"]
 javlibrary.com$$div[id="video_comments"]
-rjno1.com$replace=/setTimeout\(function([\s\S]*.*)//
-xbiquge.la##div[class="box_con"] > div[id="content"] > p
-xbiquge.la##[style="width:100%; text-align:center;"]
 avbebe.com##[id="commentlist"],[id="respond"]
 ||vthumb.killcovid2021.com/*.mp4$redirect=empty
 |http://www.4399.com/antijs/Antiindulgence.js$replace=/2000\);(\s\S*)*//
 |http://www.4399.com/jss/commonJsForPlay2_s_t.js$replace=/\(\)"\, 1000\);/\(\)"\, 0\);/
-bbs.colg.cn##div[align="center"]>[width="640"][height="360"]
 haokan.baidu.com##div[class="player-pause-code player-pause-code"]
-javlove.club$$script[wildcard="*debugger*setTimeout(devtoolIsOpening*"]
-jwatchsb.com$$script[wildcard="*tryCount*debugger*"]
 !---
 rjno1.com$replace=/after body开始([\s\S]*after body结束)//
 douyu.com##div[class="FirePowerChatModal-Notice "]
