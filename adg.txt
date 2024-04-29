@@ -6,10 +6,8 @@
 
 /^d[1-9]\.sina\.com\.cn/
 /^ad[1-9]\.sina\.com\.cn/
-/^sax[1-9]\.sina\.com\.cn/
 /^sf[1-6]-fe-tos\.pglstatp-toutiao\.com/
 /^[a-z]+-ad\.a\.yximgs\.com/
-
 ||vs*.gzcu.u3.ucweb.com^
 ||www.jfsdiwmnbsk*.top^
 ||gromore.pangolin-sdk-toutiao.com^
@@ -19,9 +17,8 @@
 
 
 
-||sax.sina.com.cn^
+
 ||beacon.sina.com.cn^
-||ads.sina.com^
 ||dig.bdurl.net^
 ||ef-dongfeng.tanx.com^
 ||ifs.tanx.com^
