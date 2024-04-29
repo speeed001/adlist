@@ -1,10 +1,11 @@
-! TimeUpdated: 2024-04-20
+! TimeUpdated: 2024-04-30
 ! Title: shiyu
 
 
 
 
 /^d[1-9]\.sina\.com\.cn/
+/^sax[1-9]\.sina\.com\.cn/
 /^sf[1-6]-fe-tos\.pglstatp-toutiao\.com/
 /^[a-z]+-ad\.a\.yximgs\.com/
 
@@ -17,6 +18,9 @@
 
 
 
+||sax.sina.com.cn^
+||beacon.sina.com.cn^
+||ads.sina.com^
 ||dig.bdurl.net^
 ||ef-dongfeng.tanx.com^
 ||ifs.tanx.com^
