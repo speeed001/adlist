@@ -5,6 +5,7 @@
 
 
 /^d[1-9]\.sina\.com\.cn/
+/^ad[1-9]\.sina\.com\.cn/
 /^sax[1-9]\.sina\.com\.cn/
 /^sf[1-6]-fe-tos\.pglstatp-toutiao\.com/
 /^[a-z]+-ad\.a\.yximgs\.com/
