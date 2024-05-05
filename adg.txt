@@ -1,4 +1,4 @@
-! TimeUpdated: 2024-05-01
+! TimeUpdated: 2024-05-06
 ! Title: shiyu
 
 
@@ -7,7 +7,9 @@
 /^d[1-9]\.sina\.com\.cn/
 /^ad[1-9]\.sina\.com\.cn/
 /^sf[1-6]-fe-tos\.pglstatp-toutiao\.com/
-/^[a-z]+-ad\.a\.yximgs\.com/
+/^v[1-9]-ad\.video\.yximgs\.com/
+/^[a-z]{1,3}-adaptive\.pull\.yximgs\.com/
+/^[a-z]+(?:-[a-z]+)?-ad\.a\.yximgs\.com/
 ||vs*.gzcu.u3.ucweb.com^
 ||www.jfsdiwmnbsk*.top^
 ||gromore.pangolin-sdk-toutiao.com^
@@ -18,6 +20,9 @@
 
 
 
+
+||etoote.com^
+||youjingnetwork.com^
 ||stgowan.com^
 ||fv.hqzyp.com^
 ||beacon.sina.com.cn^
