@@ -1,12 +1,15 @@
-! TimeUpdated: 2024-04-30
+! TimeUpdated: 2024-05-06
 ! Title: 
-
 
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||154.7.80.158^
+||194.59.220.161^
+||205.209.138.102^
+||23.231.151.252^
 ||0322cfmtl.cc^
 ||0940088.com^
 ||0j775d.cn^
@@ -73,6 +76,7 @@
 ||arqvm.cn^
 ||atzhcjv.xyz^
 ||awuvcq.xyz^
+||azkrya.xyz^
 ||azyuuk.xyz^
 ||b37r5.cyou^
 ||batijian.com^
@@ -128,6 +132,7 @@
 ||cfugrnc.icu^
 ||chayassa.com^
 ||cherylssb.com^
+||chinaslauras.com^
 ||cijianggun.com^
 ||cliffnsc.xyz^
 ||clmkwi.xyz^
@@ -148,11 +153,13 @@
 ||cvnxetmq.xyz^
 ||cvudqzoa.xyz^
 ||cweriof.top^
+||cwiuhtp.icu^
 ||cwssfg632.shop^
 ||cxlvlbx.xyz^
 ||cyuwkbf.top^
 ||czxvgod.xyz^
 ||d3g4a.cyou^
+||dadxnl.xyz^
 ||damiul.icu^
 ||dataryon.com^
 ||dawdlealmonry.com^
@@ -187,6 +194,7 @@
 ||dzdnffs.xyz^
 ||dzfzak.cn^
 ||dzuht.cn^
+||eabvmue.cn^
 ||eaezoi.xyz^
 ||eaqlos.xyz^
 ||ebgwdon.cn^
@@ -214,9 +222,11 @@
 ||ersjnpwf837.shop^
 ||esqhsm.xyz^
 ||etyusiw.top^
+||eweriow.top^
 ||ewjhic.cn^
 ||ewxufqs.cn^
 ||execuri.com^
+||eyuwkbw.top^
 ||f7fe0.cyou^
 ||fadhvz.xyz^
 ||fbfrbt.xyz^
@@ -226,6 +236,8 @@
 ||ferriesendless.com^
 ||fhtfnb.xyz^
 ||fidelius.cn^
+||fkhxlz.xyz^
+||fluxy.cn^
 ||fmfnrf.xyz^
 ||fmssoj.icu^
 ||fmvzzh.xyz^
@@ -241,12 +253,14 @@
 ||fxgkktj.icu^
 ||fxjnfn.xyz^
 ||fztyrv.xyz^
+||gamdus.xyz^
 ||gblxtlo.xyz^
 ||gccnntq.cn^
 ||gcomwx.icu^
 ||gcumgu.xyz^
 ||gfjn5.xyz^
 ||gfylyw.xyz^
+||ghabnq.xyz^
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
 ||gicjtss.cn^
@@ -281,6 +295,7 @@
 ||hitchun.com^
 ||hjshal.com^
 ||hkbumv.icu^
+||hlegsdh.icu^
 ||hmrwkcx.cn^
 ||hnalzlu.top^
 ||hnartcqab847.live^
@@ -299,6 +314,7 @@
 ||hweriou.top^
 ||hyusnisu.top^
 ||hyuwkbu.top^
+||icqeou.xyz^
 ||idffhq.cn^
 ||ievvo.xyz^
 ||ihwlek.com^
@@ -310,6 +326,7 @@
 ||inalzlo.top^
 ||inifdlao.top^
 ||inworket.com^
+||ipsoazr.icu^
 ||irayedo.cn^
 ||irmbyu.xyz^
 ||ityusio.top^
@@ -332,6 +349,7 @@
 ||jgmywh.icu^
 ||jhfcll.cn^
 ||jioed.cyou^
+||jivvjl.xyz^
 ||jmesxbe.icu^
 ||jnalzla.top^
 ||jnifdlaa.top^
@@ -339,6 +357,7 @@
 ||jqbddp.xyz^
 ||jqpejp.xyz^
 ||js131.cn^
+||jsxwfb.xyz^
 ||jtyusia.top^
 ||jtzdld.xyz^
 ||jubnpx.xyz^
@@ -365,12 +384,14 @@
 ||knifdlad.top^
 ||knpkxgfp.xyz^
 ||koqjok.xyz^
+||kovvild.com^
 ||kpmose.xyz^
 ||kssolo.com^
 ||ktoioo.xyz^
 ||ktvjpmi.xyz^
 ||ktyusid.top^
 ||kvyyyde.cn^
+||kweriod.top^
 ||kwqnki.xyz^
 ||kyaywy.xyz^
 ||kyuwkbd.top^
@@ -412,6 +433,7 @@
 ||mdhv3.icu^
 ||mdzwjra.cn^
 ||meqanhm.icu^
+||mercor.cn^
 ||miningzhizhong.top^
 ||misjgy.xyz^
 ||mldzwmt.xyz^
@@ -462,6 +484,7 @@
 ||onagsc.xyz^
 ||onalzlk.top^
 ||onifdlak.top^
+||onosyej.icu^
 ||oojjsa.com^
 ||oppnfev.xyz^
 ||oqnkur.icu^
@@ -497,6 +520,7 @@
 ||polepole.cn^
 ||polyfill.io^
 ||pp1hl.xyz^
+||pqzjki.cn^
 ||pressit.cn^
 ||prhfziq.xyz^
 ||przbzr.xyz^
@@ -514,6 +538,7 @@
 ||qcohkm.xyz^
 ||qcsvku.xyz^
 ||qdtzbbh.xyz^
+||qescaen.com^
 ||qetskupch581.shop^
 ||qetskupyka61.shop^
 ||qhemphox.com^
@@ -534,6 +559,7 @@
 ||qvnbjjd.xyz^
 ||qvonje.cn^
 ||qw9cu.cyou^
+||qwerioy.top^
 ||qyuwkby.top^
 ||qzalsk.xyz^
 ||qziuwzn.cn^
@@ -544,18 +570,21 @@
 ||rbfxoex.xyz^
 ||rbhunp.xyz^
 ||rcyzsh.icu^
+||rczudr.xyz^
 ||rdiono.cn^
 ||regwiuv.cn^
 ||retinaesprent.com^
 ||rfnvqpo.xyz^
 ||rghqrj.xyz^
 ||rhzvlcu.xyz^
+||ringingneo.com^
 ||riscil.com^
 ||rjhbjv.xyz^
 ||rkgbqn.icu^
 ||rktddv.xyz^
 ||rlw86.cyou^
 ||rlxhbff.cn^
+||rmbvzh.xyz^
 ||rndcdb.xyz^
 ||rnkzhsi.cn^
 ||rnpkxgfp.xyz^
@@ -564,7 +593,9 @@
 ||romiyee.icu^
 ||rouqiuqq.cn^
 ||rpnufv.xyz^
+||rupmlh.cn^
 ||ruqwgb.icu^
+||rxfygd.cn^
 ||rydyvv.xyz^
 ||ryhkft.xyz^
 ||ryrmvd.xyz^
@@ -581,6 +612,7 @@
 ||shnpetdb638.shop^
 ||shnpetdn185.shop^
 ||shuocyw.cn^
+||sifuwei.com^
 ||sjaaquj.cn^
 ||sjgsgy.xyz^
 ||skdncksklsv.com^
@@ -600,6 +632,7 @@
 ||styusib.top^
 ||superjj.online^
 ||svncowt.cn^
+||sweriob.top^
 ||swsegi.xyz^
 ||syiwgwsqwngrdw.xyz^
 ||syuwkbb.top^
@@ -646,6 +679,7 @@
 ||tnvnnn.xyz^
 ||toutanymm.asia^
 ||tptgvh.xyz^
+||tquspo.com^
 ||tqvnzj.xyz^
 ||tsrvrr.xyz^
 ||tu2024020388.com^
@@ -656,17 +690,22 @@
 ||tyzfoej.cn^
 ||uctutu3789.xyz^
 ||udkpcc.xyz^
+||udxhzqg.cn^
 ||udykkl.cn^
 ||ugtbit.icu^
 ||uigxgg.xyz^
 ||uiqcf.cn^
 ||ujovcb.cn^
+||ukgfniu.cn^
 ||uljoifw.cn^
 ||ulktyi.xyz^
 ||ulwfys.xyz^
 ||unalzlt.top^
 ||unifdlat.top^
 ||uohvxrvd.xyz^
+||uoosqk.xyz^
+||uosxdmk.cn^
+||upailek.cn^
 ||upytsgo.cn^
 ||uqrcuxp.cn^
 ||uqwbcm.xyz^
@@ -677,6 +716,7 @@
 ||uu22662.com^
 ||uunfybw.cn^
 ||uuvzmba.cn^
+||uvklgw.xyz^
 ||uxlvk.cn^
 ||uxrdg.cn^
 ||uxzvjoj.cn^
@@ -698,11 +738,13 @@
 ||vioyugo.cn^
 ||vipgogo123.site^
 ||vkdgdt.xyz^
+||vkguvyg.cn^
 ||vmnlkr.icu^
 ||vpzohx.xyz^
 ||vqbzpv.xyz^
 ||vszzzj.xyz^
 ||vuvnix.icu^
+||vuyibsm.icu^
 ||vwyycnq.cn^
 ||vxfdepn.cn^
 ||vyrpoe.cn^
@@ -726,6 +768,7 @@
 ||wtyusie.top^
 ||wubizigeng.com^
 ||wvwqywz.cn^
+||wwerioe.top^
 ||wwjtdjj.cn^
 ||wxfdmri.xyz^
 ||wxymag.xyz^
@@ -762,6 +805,7 @@
 ||xvyugqj.icu^
 ||xwvnhe.cn^
 ||xxle.cn^
+||xxsmad1.com^
 ||xylhwdu.com^
 ||xzrhvv.xyz^
 ||ybrrvck.xyz^
@@ -803,6 +847,17 @@
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
+||zxqiwe.cn^
+||zwdtvx.xyz^
+||zeuqmpe.icu^
+||twerioi.top^
+||mlicci.xyz^
+||bgidskiv.top^
+||dflkndkzf.com^
+||mepupr486.top^
+||cooann.top^
+||555bbb555www.com^
+||kkjhgfds.top^
 ||zuvbzl.xyz^
 ||zwxxcb.icu^
 ||zxfdbr.xyz^
