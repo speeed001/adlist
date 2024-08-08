@@ -1,4 +1,4 @@
-! TimeUpdated: 2024-08-04
+! TimeUpdated: 2024-08-08
 ! Title: 
 
 ||asd8900.oss-*.aliyuncs.com^
@@ -12,11 +12,30 @@
 ||194.59.220.161^
 ||205.209.138.102^
 ||23.231.151.252^
+||nxrajr.xyz^
+||fdyacma.icu^
+||wiixqm.xyz^
+||xfqynrp.cn^
+||bytmfj.xyz^
+||ywokwlx.icu^
+||ihgluu.xyz^
+||ehmhqcn.cn^
+||baijs04.shop^
+||doujs04.shop^
+||kwumme.xyz^
+||mfemiac.icu^
+||qedgcxi.cn^
+||w0054.com^
+||xlmdtiyqbkygtfkh.com^
+||uvyuqzx.cn^
 ||letlwsl.top^
 ||twerilxi.top^
 ||eyyngo.xyz^
 ||ttad125.com^
 ||tzyzlow.cn^
+||abjalrq.cn^
+||ykwykw.xyz^
+||tmoclbf.icu^
 ||script302.top^
 ||vecggfp.icu^
 ||ubeaui.xyz^
