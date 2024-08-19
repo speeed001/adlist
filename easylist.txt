@@ -1,4 +1,4 @@
-! TimeUpdated: 2024-08-18
+! TimeUpdated: 2024-08-19
 ! Title: 
 
 ||asd8900.oss-*.aliyuncs.com^
@@ -12,6 +12,13 @@
 ||194.59.220.161^
 ||205.209.138.102^
 ||23.231.151.252^
+||xmlgzr.xyz^
+||swarku.xyz^
+||iaindu.cn^
+||dqlrfmwp.icu^
+||cewrutf.top^
+||grihaith.com^
+||cb61190372.com^
 ||uloscw.xyz^
 ||gahejiao.com^
 ||nbfsvreu.icu^
@@ -28,6 +35,8 @@
 ||fywaaox.icu^
 ||mumnxiex.top^
 ||shbzhgs.cn^
+||btvbnrwo.icu^
+||uusjaq.top^
 ||nmtcxz.xyz^
 ||doujs07.shop^
 ||izqeyo.xyz^
