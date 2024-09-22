@@ -43,8 +43,6 @@ theporn.cc#%#//scriptlet("set-constant", "avshow.config.ads", "null")
 theporn.cc#%#//scriptlet("set-constant", "avshow.user.is_vip", "true")
 theporn.cc#%#//scriptlet("set-constant", "av_response.vip", "null")
 theporn.cc#?#.q-img,.gg-config,.toolbar-gg,#vip_only
-bbs.colg.cn##div[class="hm cl"]
-v0k83j2i.com#%#//scriptlet("set-constant", "vip_level", "true")
 ||ypapi.hgdd14.app/userHome/user_info$replace=/vip_type":0\,/vip_type":1\,/
 jable.tv##[class="comments pb-3 pb-lg-4"]
 wuzhuiso.com##div[class="extension-tip"],div[class="app-tip"]
