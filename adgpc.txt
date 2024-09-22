@@ -1,10 +1,8 @@
-! TimeUpdated: 2024-04-27
-! Title: shiyu
+! TimeUpdated: 2024-09-22
+! Title: 
 
 !blog.aming.info#%#//scriptlet("prevent-window-open")//阻挠弹窗
 ||fieldofbachus.com
-https://ddrk.me/wp-includes/js/mediaelement/wp-playlist.min.js$replace=/adsready/noadsready/
-https://ddrk.me/mtp/$image
 !/asset/jquery/slim-3.2.min.js$replace=/var __.=([\s\S]*__..init\(\);)//
 !/js/jquery/*/jquery-1.4.*.min.js$replace=/var __.=([\s\S]*__..init\(\);)//
 !/js/jquery/jquery-3.*.min.js$replace=/var __.=([\s\S]*__..init\(\);)//
@@ -63,3 +61,5 @@ xiaoheimi.net$$script[wildcard="document.onkeydown=function*window.setInterval*"
 kaizty.com$$script[wildcard="*adConfig*adConfig*"]
 voflix.vip##[id="LowerRightAd"]
 voflix.vip#%#//scriptlet('m3u-prune', '/video/adjump/time/', 'index.m3u8')
+ysgc.fun#%#//scriptlet('m3u-prune', '/.{32,}.ts/', '/^https:\/\/(v\.cdnlz\d*|v3\.yzzy\d*-play\.com)/')
+!ysgc.fun##+js(m3u-prune, /#EXT-X-DISCONTINUITY.{1\,266|322}#EXT-X-DISCONTINUITY/gm, .m3u8)
