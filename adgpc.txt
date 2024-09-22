@@ -16,11 +16,8 @@
 acfun.cn##.pause-display
 javlibrary.com###video_comments
 javlibrary.com###video_reviews
-51byl.com$replace=/adsUp\,5000/adsUp\,0/
 drymiss.com$$script[wildcard="*system.win*missfun.xyz"]
 ||open.douyu.com$domain=qq.com
-||workarea7.live/videojs/nuevo.min.js$replace=/if\(r>0\)/if\(r>1\)/
-627.workarea7.live$replace=/skipTime:5/skipTime:-1/
 |https://baikevideo.cdn.bcebos.com/media/*.m3u8$domain=baike.baidu.com
 |https://webapi.ctfile.com/assets/js/other.js$replace=/myWindow=window.open//
 ||sofire.bdstatic.com/js/dfxaf.js
