@@ -1,7 +1,6 @@
 ! Title: easylistchinalite
-! TimeUpdated: 2024-10-08
+! TimeUpdated: 2024-10-12
 ! Title: 
-
 
 
 ||asd8900.oss-*.aliyuncs.com^
@@ -15,6 +14,33 @@
 ||23.231.151.252^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||amsbce.xyz^
+||ygipjqf.icu^
+||gpqkeq.xyz^
+||yugqqqq.icu^
+||yuuaos.xyz^
+||nzfcvv.xyz^
+||hp8g6.icu^
+||oauqyw.xyz^
+||hauqks.top^
+||jsgapai.icu^
+||udswai.xyz^
+||gbqgwes.icu^
+||miwpkk.xyz^
+||npdbxf.xyz^
+||iggbky.xyz^
+||333bbb777bbb.com^
+||j7c16.icu^
+||wuiqiq.xyz^
+||jingjs.top^
+||0pdsa.icu^
+||leagsmk.icu^
+||irulws.xyz^
+||cowcuo.xyz^
+||ajybgc.xyz^
+||ffbdbx.xyz^
+||sdfewed.com^
+||whgh1.icu^
 ||wswxsk.xyz^
 ||qpyrqg.xyz^
 ||xvzcfh.xyz^
@@ -4321,6 +4347,7 @@
 ||z.nowscore.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||efg.zle.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
