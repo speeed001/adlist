@@ -1,5 +1,5 @@
 ! Title: test
-! TimeUpdated: 2024-09-22
+! TimeUpdated: 2024-10-30
 ! Title: 
 
 !blog.aming.info#%#//scriptlet("prevent-window-open")//阻挠弹窗
@@ -24,21 +24,16 @@ drymiss.com$$script[wildcard="*system.win*missfun.xyz"]
 ||sofire.bdstatic.com/js/dfxaf.js
 |https://game.gtimg.cn/images/cf/cp/*/video.mp4$domain=cf.qq.com
 http://www.huabiaosz.com/pingbi.js
-||graph.qq.com$replace=/<\/html>/<script>document.getElementById('select_all').click();<\/script><\/html>/
+!||graph.qq.com$replace=/<\/html>/<script>document.getElementById('select_all').click();<\/script><\/html>/
 javlibrary.com$$div[id="video_comments"]
 avbebe.com##[id="commentlist"],[id="respond"]
 ||vthumb.killcovid2021.com/*.mp4$redirect=empty
-|http://www.4399.com/antijs/Antiindulgence.js$replace=/2000\);(\s\S*)*//
-|http://www.4399.com/jss/commonJsForPlay2_s_t.js$replace=/\(\)"\, 1000\);/\(\)"\, 0\);/
-haokan.baidu.com##div[class="player-pause-code player-pause-code"]
 !---
-douyu.com##div[class="FirePowerChatModal-Notice "]
-douyu.com##div[style="display: inline-block; position: absolute; right: 0px; top: 0px;"],div[class="PlayerToolbar-ContentCell"]
-douyu.com##+js(aeld,visibilitychange)
+!douyu.com##div[class="FirePowerChatModal-Notice "]
+!douyu.com##div[style="display: inline-block; position: absolute; right: 0px; top: 0px;"],div[class="PlayerToolbar-ContentCell"]
+!douyu.com##+js(aeld,visibilitychange)
 www.tianyancha.com##+js(aeld, compositionend) 
-4399.com/antijs/Antiindulgence.js$replace=/setInterval\(function\(\)//
 52asus.com$replace=/remain_time//
-||images.client.vip.xunlei.com/mini/xlx/tips_300x310/ssi_html/xds_common.js
 ||hh.zhhbqg.com^
 theporn.cc#%#//scriptlet("set-constant", "avshow.config.ads", "null")
 theporn.cc#%#//scriptlet("set-constant", "avshow.user.is_vip", "true")
@@ -57,7 +52,8 @@ xiaoheimi.net$$script[wildcard="document.onkeydown=function*window.setInterval*"
 kaizty.com$$script[wildcard="*adConfig*adConfig*"]
 voflix.vip##[id="LowerRightAd"]
 voflix.vip#%#//scriptlet('m3u-prune', '/video/adjump/time/', 'index.m3u8')
-ysgc.fun#%#//scriptlet('m3u-prune', '/.{32,}.ts/', '/^https:\/\/(v\.cdnlz\d*|v3\.yzzy\d*-play\.com)/')
+!ysgc.fun#%#//scriptlet('m3u-prune', '/.{32,}.ts/', '/^https:\/\/(v\.cdnlz\d*|v3\.yzzy\d*-play\.com)/')
 !ysgc.fun##+js(m3u-prune, /#EXT-X-DISCONTINUITY.{1\,266|322}#EXT-X-DISCONTINUITY/gm, .m3u8)
+#%#//scriptlet('m3u-prune', '/.{32,}.ts/', '/^https:\/\/(v\.cdnlz\d*|v3\.yzzy\d*-play\.com)/')
 www.bilibili.com##+js(set, abtest.ab_version.jump_to_edge, undefined)
 www.bilibili.com##+js(set, abtest, undefined)
