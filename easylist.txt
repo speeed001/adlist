@@ -1,5 +1,5 @@
 ! Title: easylistchinalite
-! TimeUpdated: 2024-10-31
+! TimeUpdated: 2024-11-06
 ! Title: 
 
 ||asd8900.oss-*.aliyuncs.com^
@@ -13,7 +13,56 @@
 ||23.231.151.252^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||ohtusgy.icu^
+||nuiknnf.icu^
+||gdwudmv.icu^
+||xuakn.icu^
+||boubliv.top^
+||cyjqgpf.top^
+||vsojfsoj.com^
+||ezrcowa.icu^
+||uwsaqoi.icu^
+||ipqajyy.icu^
+||2sfpy.icu^
+||ooublik.top^
+||hj8gf.icu^
+||loublil.top^
+||imniel.com^
+||kiolpia.icu^
+||bdcmwcl.icu^
+||urpkktc.icu^
+||dsfh2.icu^
+||toublii.top^
+||uoublit.top^
+||7f7rt.icu^
+||qoubliy.top^
+||vuirssd.icu^
+||kjnsgqe.icu^
+||rbift.icu^
+||heiviek.com^
+||wmcbld.top^
+||ifmccdn.icu^
+||vrelai.com^
+||woublie.top^
+||ti4la.icu^
+||graesol.com^
+||ctlacnh.icu^
+||xggcyef.icu^
+||g4y7uuk.com^
+||pmwofrq.icu^
+||soublib.top^
+||1dki0.icu^
+||bhakte.com^
+||lalabaos1101.top^
+||1dki0.icu^
+||eoubliw.top^
 ||qkgllif.icu^
+||extopae.icu^
+||yj2nf.icu^
+||struhuts.com^
+||joublia.top^
+||bwz4e.icu^
+||koublid.top^
 ||ioublio.top^
 ||whrwlxg.icu^
 ||bdawrsi.icu^
@@ -4604,7 +4653,6 @@
 ||283.laobanfa.com^
 ||3.5646.cn^
 ||3.cjcp.cn^
-||3.guidaye.com^
 ||3.ssqzj.com^
 ||301848.com^
 ||32.huanqiu.com^
@@ -4893,7 +4941,6 @@
 ||df888.eastday.com^
 ||dhl.135320.com^
 ||display.itmemo.cn^
-||dm*.ppzuowen.com^
 ||dm*.yxlady.com^
 ||dm.17xuexiba.com^
 ||dm.21hubei.com^
@@ -4944,7 +4991,6 @@
 ||fanyi100.com.cn^
 ||fdfda.zhuzhai.com^
 ||fdfghgfdd.yunqishi.net^
-||ff.guidaye.com^
 ||ff.psd8.com^
 ||ff.qichetansuo.com^
 ||fotao9.com^
@@ -5009,7 +5055,6 @@
 ||img1.eywdf.com^
 ||img1.hblds.com^
 ||img1.leyun365.com^
-||img1.qqwangming6.com^
 ||img11.biyan8.com^
 ||img16.diyifanwen.com^
 ||img50.pingguolv.com^
@@ -5031,7 +5076,6 @@
 ||jiaoben.jucanw.com^
 ||jiaopei.com^
 ||jibn12.jintang114.org^
-||jintonghua.com^
 ||jke1.jianke.com^
 ||jquery.envi-met.com.cn^
 ||js.263y.com^
@@ -5119,7 +5163,6 @@
 ||p1.zhongyoo.com^
 ||panyh123456.cn^
 ||pb.shuxigua.com^
-||pc768.com^
 ||pic.baihuawen.cn^
 ||pic1.dianshu119.com^
 ||pic50.pingguolv.com^
@@ -5179,7 +5222,6 @@
 ||t6.china-xian.com^
 ||tech.jiukang.org^
 ||thetestpage.39.net^
-||tonghuaji.com^
 ||tongj.xilu.com^
 ||top2099.com^
 ||ts166.net^
@@ -5233,7 +5275,6 @@
 ||wyzq.rehuwang.com^
 ||x.yaohuo.me^
 ||x1.52aoteman.com^
-||x1.kantu.com^
 ||xbtw.com^
 ||xcf-bd-js.chuimg.com^
 ||xiaopinwo.com^
