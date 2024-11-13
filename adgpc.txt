@@ -1,5 +1,5 @@
 ! Title: test
-! TimeUpdated: 2024-10-30
+! TimeUpdated: 2024-11-13
 ! Title: 
 
 !blog.aming.info#%#//scriptlet("prevent-window-open")//阻挠弹窗
@@ -57,3 +57,5 @@ voflix.vip#%#//scriptlet('m3u-prune', '/video/adjump/time/', 'index.m3u8')
 #%#//scriptlet('m3u-prune', '/.{32,}.ts/', '/^https:\/\/(v\.cdnlz\d*|v3\.yzzy\d*-play\.com)/')
 www.bilibili.com##+js(set, abtest.ab_version.jump_to_edge, undefined)
 www.bilibili.com##+js(set, abtest, undefined)
+!腾讯体育视频广告
+!||video.qq.com/getvinfo$replace=/"url":"https[^"]*?"\,/"url":""/
