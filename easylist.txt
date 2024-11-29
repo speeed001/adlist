@@ -1,5 +1,5 @@
 ! Title: easylistchinalite
-! TimeUpdated: 2024-11-24
+! TimeUpdated: 2024-11-30
 ! Title: 
 
 ||asd8900.oss-*.aliyuncs.com^
@@ -13,9 +13,49 @@
 ||23.231.151.252^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||igabcgnh.icu^
+||saizih.com^
+||1gtp.icu^
+||oo3z.icu^
+||idamcso.top^
+||vrulqil.com^
+||jdamcsa.top^
+||dnd2.icu^
+||0dwm.icu^
+||satfyxbt.icu^
+||zodoth.com^
+||tqeferty33.fun^
+||y7ts.icu^
+||yuanzunxs1.com^
+||z9k7.icu^
+||hdamcsu.top^
+||qovith.com^
+||khastreol.com^
+||gokrafxr.icu^
+||9xxy.icu^
+||oweizak.top^
+||strenots.com^
+||lweizal.top^
+||zumneojf.icu^
+||dheirzeh.com^
+||uxieks.com^
+||egg0.icu^
+||sirrors.com^
+||uldaens.com^
+||qidzwhfp.icu^
+||aizhantj.com^
+||g41i.icu^
+||tweizai.top^
+||wcwkcus.top^
+||brulpha.com^
+||uweizat.top^
 ||lipheak.com^
 ||xcwdcynb.icu^
 ||wweizae.top^
+||az5i.icu^
+||yoqqiev.top^
+||fiezaits.com^
+||qweizay.top^
 ||xevaix.com^
 ||sweizab.top^
 ||eweizaw.top^
@@ -5090,8 +5130,6 @@
 ||daima.aixiaola.com^
 ||daima.diaoben.net^
 ||daima.ijq.tv^
-||daima.ssata.cn^
-||daima.wenkuwenku.com^
 ||daima.ysdui.com^
 ||daima.yuzhulin.com^
 ||daiwofei2019.top^
