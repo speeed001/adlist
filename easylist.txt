@@ -1,5 +1,5 @@
 ! Title: easylistchinalite
-! TimeUpdated: 2024-12-23
+! TimeUpdated: 2024-12-25
 ! Title: 
 
 ||asd8900.oss-*.aliyuncs.com^
@@ -13,11 +13,20 @@
 ||23.231.151.252^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||beenedsl.com^
+||tghrfv.icu^
+||wwilmie.top^
+||k9u.icu^
+||shuucerz.com^
+||qwilmiy.top^
+||m51.icu^
 ||rusnuiyu.com^
 ||ndlwtl.icu^
 ||swilmib.top^
 ||nx8.icu^
 ||irgidshiv.com^
+||ix4.icu^
+||ewilmiw.top^
 ||pnpbjt.icu^
 ||tronkuks.com^
 ||ir4.icu^
