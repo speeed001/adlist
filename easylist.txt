@@ -1,7 +1,6 @@
 ! Title: easylistchinalite
-! TimeUpdated: 2025-01-03
+! TimeUpdated: 2025-01-08
 ! Title: 
-
 
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
@@ -14,9 +13,55 @@
 ||23.231.151.252^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||pinjzp.icu^
+||aos01080ss.xyz^
+||ztlkngyj.icu^
+||xxaks01080sspao.xyz^
+||xxaks01081sspao.xyz^
+||wf7.icu^
+||jfrrnf.icu^
+||e50.icu^
+||aos01070ss.xyz^
+||sdyurlib.top^
+||lbfuvlyp.icu^
+||staivoiks.com^
+||gheslosy.com^
+||43a.icu^
+||sckfcn.cn^
+||edyurliw.top^
+||jjplaqyo.icu^
+||tixoilll.com^
+||hitalsli.com^
+||lcvwdn.icu^
+||1tp.icu^
+||jdyurlia.top^
+||orcinhyi.com^
+||thruksyq.com^
+||z4v.icu^
+||kdyurlid.top^
+||lirretsn.com^
+||nmzbrd.icu^
+||hrjciqyu.icu^
+||hdyurliu.top^
+||en6.icu^
+||cachusrw.com^
+||u57.icu^
+||idyurlio.top^
+||airakgyl.com^
+||scjtfh.xyz^
+||cdyurlif.top^
+||6w7.icu^
 ||y4l.icu^
 ||drandoxo.com^
 ||h5r.icu^
+||bclimiv.top^
+||katoleiy.com^
+||okpp01040.xyz^
+||hjdjfl.icu^
+||omxwt.cn^
+||tztmqvga.icu^
+||mclimix.top^
+||cv7.icu^
 ||ibyrwvi.cn^
 ||lclimil.top^
 ||okpp01031.xyz^
@@ -3382,7 +3427,6 @@
 ||a.baomihua.com^
 ||a.nowscore.com^
 ||a.xywy.com^
-||a2.b310.com^
 ||a2.xinhuanet.com^
 ||a2put.chinaz.com^
 ||abc.hkepc.com^
@@ -3615,6 +3659,7 @@
 ||z.nowscore.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||hcirentgh.360doc.cn^
 ||a1.cyyangqiguan.com^
 ||jbdch1.appmobile.cn^
 ||lcd.aivote.com^
