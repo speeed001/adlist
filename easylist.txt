@@ -1,5 +1,5 @@
 ! Title: easylistchinalite
-! TimeUpdated: 2025-02-19
+! TimeUpdated: 2025-02-24
 ! Title: 
 
 
@@ -14,6 +14,60 @@
 ||23.231.151.252^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||dfhthh.icu^
+||chuundads.com^
+||xvvfpsmp.icu^
+||phxdrf.icu^
+||qdqppsl.top^
+||xplbxx.icu^
+||khoqetslh.com^
+||vdpwuxmo.icu^
+||jrblfv.icu^
+||xwma.cn^
+||spoaven.top^
+||tcinvdi.top^
+||chuccipkn.com^
+||o02231aokk.com^
+||torkeauwu.com^
+||zmpgln.icu^
+||hebaidu.cc^
+||lofqvl.icu^
+||o02220aokk.com^
+||8y3j.cn^
+||wcinvde.top^
+||dbigboq.top^
+||heemphaers.com^
+||hlzncxmu.icu^
+||qcinvdy.top^
+||s7vf.cn^
+||fttxhcua.icu^
+||crazodsxx.com^
+||kcinvdd.top^
+||xxsmad6.com^
+||bjtlzv.icu^
+||nljyjt.icu^
+||fngmeat.top^
+||2ueb.cn^
+||scinvdb.top^
+||bhaelnieth.com^
+||ecinvdw.top^
+||stildell.com^
+||dtntnl.icu^
+||hvddxj.icu^
+||ssydquy.top^
+||qgaxkkv.top^
+||sg7.pw^
+||jcinvda.top^
+||dbdophuz.icu^
+||qogrux.com^
+||dhannaq.com^
+||xqrydt.icu^
+||rsohvot.xyz^
+||o4q.fun^
+||jshilr.icu^
+||hcinvdu.top^
+||fesnaed.com^
+||icinvdo.top^
 ||zavgrj.icu^
 ||stogmos.com^
 ||lclqbh.icu^
@@ -4187,7 +4241,7 @@
 ||rabc1.iteye.com^
 ||rc.ie13.com^
 ||rdbd.xsread.com^
-||res.pinpai8.cn^
+||res*.pinpai8.cn^
 ||retrieval-bd.duote.com^
 ||richh.cn^
 ||rxys.cn^
