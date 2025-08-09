@@ -1,5 +1,5 @@
 ! Title: easylistchinalite
-! TimeUpdated: 2025-08-08
+! TimeUpdated: 2025-08-09
 ! Title:
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
@@ -20,6 +20,9 @@
 ||dqjrxj.icu^
 ||tjv250730ads.com^
 ||ptju.cn^
+||hmd3jvhrf.com^
+||qvdn.cn^
+||camerain.top^
 ||junpjmg96.com^
 ||cheesevp.com^
 ||nug08030lu.com^
