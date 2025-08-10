@@ -19,6 +19,7 @@ $currentDate = Get-Date -Format "yyyy-MM-dd"
 $headerContent = @"
 ! Title: easylistchinalite-dns
 ! TimeUpdated: $currentDate
+! Description:  easylistchina精简
 
 "@
 
@@ -28,6 +29,7 @@ $newContent = $headerContent + "`n" + ($fileContent -join "`n")
 
 # 写入最终文件
 $newContent | Set-Content -Path $outputFilteredFile
+
 
 
 
