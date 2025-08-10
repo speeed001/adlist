@@ -28,7 +28,9 @@ $fileContent = Get-Content -Path $outputFilteredFile
 $newContent = $headerContent + "`n" + ($fileContent -join "`n")
 
 # 写入最终文件
-$newContent | Set-Content -Path $outputFilteredFile
+#$newContent | Set-Content -Path $outputFilteredFile
+$newContent | Set-Content -Path $outputFilteredFile -Encoding UTF8
+
 
 
 
