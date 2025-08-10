@@ -6,7 +6,7 @@ Invoke-WebRequest -Uri $fileUrl -OutFile $outputFile
 
 # 过滤内容
 $inputFile = "easylistchina.txt"
-$outputFilteredFile = "2.txt"
+$outputFilteredFile = "easylist.txt"
 
 Get-Content $inputFile | Where-Object {
     ($_ -notmatch '(/|@@|#|!|_|\$|=|\[|\^\*|\*\.js|\*\.gif|\*\.htm|\*\.html|:|\|\|sax\*\.sina\.)') -and ($_ -match '^\|\|')
@@ -28,3 +28,4 @@ $newContent = $headerContent + "`n" + ($fileContent -join "`n")
 
 # 写入最终文件
 $newContent | Set-Content -Path $outputFilteredFile
+
