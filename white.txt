@@ -3,7 +3,7 @@
 !adsmind.gdtimg.com^$important
 !--------------------------------
 httpdns.alicdn.com
-api.kuaishouzt.com
+||kuaishouzt.com
 ||ad.vivo.com.cn^
 bj.bcebos.com
 ||snssdk.com
