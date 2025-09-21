@@ -1,6 +1,16 @@
 ! Title: test
-! TimeUpdated: 2024-11-13
+! TimeUpdated: 2025-09-21
 ! Title: 
+
+
+!-----B站搜索框文字
+|https://api.bilibili.com/x/web-interface/wbi/search/default?web_location*
+！----远景论坛默认新窗口打开
+bbs.pcbeta.com#%#//scriptlet('set-cookie-reload', 'jqCP_887f_atarget', '1')
+!-----腾讯网提示下载客户端
+www.qq.com#%#//scriptlet('set-local-storage-item', 'refer_tips_never_show', 'true')
+!-----腾讯体育视频广告
+!||video.qq.com/getvinfo$replace=/"url":"https[^"]*?"\,/"url":""/
 
 !blog.aming.info#%#//scriptlet("prevent-window-open")//阻挠弹窗
 ||fieldofbachus.com
@@ -11,9 +21,9 @@
 !/slim-*.min.js$replace=/var __.=([\s\S]*?)(var link.*;)([\s\S]*?var link){6}([\s\S]*.*__..init\(\);)//
 !/jquery-*min.js$replace=/var __.=([\s\S]*?)(var link.*;)([\s\S]*?var link){6}([\s\S]*.*__..init\(\);)//
 !/jquery/slim-*.min.js$replace=/var __.=([\s\S]*?)(var link.*;)([\s\S]*?var link){6}([\s\S]*.*__..init\(\);)//
-/slim-*.min.js$replace=/var __.={(\s\S*)+((?:type:'.*'|country:'.*'|timer:.*\,)([\s\S]*.*__..init\(\);))//
-/jquery-*min.js$replace=/var __.={(\s\S*)+((?:type:'.*'|country:'.*'|timer:.*\,)([\s\S]*.*__..init\(\);))//
-/jquery/slim-*.min.js$replace=/var __.={(\s\S*)+((?:type:'.*'|country:'.*'|timer:.*\,)([\s\S]*.*__..init\(\);))//
+!/slim-*.min.js$replace=/var __.={(\s\S*)+((?:type:'.*'|country:'.*'|timer:.*\,)([\s\S]*.*__..init\(\);))//
+!/jquery-*min.js$replace=/var __.={(\s\S*)+((?:type:'.*'|country:'.*'|timer:.*\,)([\s\S]*.*__..init\(\);))//
+!/jquery/slim-*.min.js$replace=/var __.={(\s\S*)+((?:type:'.*'|country:'.*'|timer:.*\,)([\s\S]*.*__..init\(\);))//
 acfun.cn##.pause-display
 javlibrary.com###video_comments
 javlibrary.com###video_reviews
