@@ -1,5 +1,5 @@
 ! Title: test
-! TimeUpdated: 2025-09-21
+! TimeUpdated: 2025-11-16
 ! Title: 
 
 
@@ -14,6 +14,11 @@ www.qq.com#%#//scriptlet('set-local-storage-item', 'refer_tips_never_show', 'tru
 
 !blog.aming.info#%#//scriptlet("prevent-window-open")//阻挠弹窗
 ||fieldofbachus.com
+!---423down
+423down.com#?#.excerpt > li:has(span.cat a:has-text(423Down))
+!-----修罗影视
+xl01.com.de#%#//scriptlet('set-cookie', 'read', 'true')
+xl01.com.de#%#//scriptlet('set-cookie', 'closeAd', 'true')
 !/asset/jquery/slim-3.2.min.js$replace=/var __.=([\s\S]*__..init\(\);)//
 !/js/jquery/*/jquery-1.4.*.min.js$replace=/var __.=([\s\S]*__..init\(\);)//
 !/js/jquery/jquery-3.*.min.js$replace=/var __.=([\s\S]*__..init\(\);)//
