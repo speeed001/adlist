@@ -21,7 +21,7 @@ xl01.com.de#%#//scriptlet('set-cookie', 'read', 'true')
 xl01.com.de#%#//scriptlet('set-cookie', 'closeAd', 'true')
 ！-----------------18+
 xchina.co#?#.item:has(.tag .series:has-text(广告))
-
+xchina.co#?#[class^="item"]:has(.tag:has-text(广告))
 ！--------------------------------------
 !/asset/jquery/slim-3.2.min.js$replace=/var __.=([\s\S]*__..init\(\);)//
 !/js/jquery/*/jquery-1.4.*.min.js$replace=/var __.=([\s\S]*__..init\(\);)//
