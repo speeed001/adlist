@@ -21,7 +21,10 @@ www.qq.com#%#//scriptlet('set-local-storage-item', 'refer_tips_never_show', 'tru
 xl01.com.de#%#//scriptlet('set-cookie', 'read', 'true')
 xl01.com.de#%#//scriptlet('set-cookie', 'closeAd', 'true')
 ！-----------------18+
+!每天弹窗
 kanav.ad##+js(aopr, $.fn.modal)
+!默认关闭弹幕
+kanav.ad##+js(set-local-storage-item, yzmplayer-danmaku-show, 0)
 xchina.co#?#.item:has(.tag .series:has-text(广告))
 xchina.co#?#[class^="item"]:has(.tag:has-text(广告))
 ！--------------------------------------
