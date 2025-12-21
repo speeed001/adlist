@@ -1,5 +1,5 @@
-! Title: test
-! TimeUpdated: 2025-12-03
+! Title: godgod
+! TimeUpdated: 2025-12-21
 ! Title: 
 
 !-----ITAB扩展劫持
@@ -21,6 +21,7 @@ www.qq.com#%#//scriptlet('set-local-storage-item', 'refer_tips_never_show', 'tru
 xl01.com.de#%#//scriptlet('set-cookie', 'read', 'true')
 xl01.com.de#%#//scriptlet('set-cookie', 'closeAd', 'true')
 ！-----------------18+
+kanav.ad##+js(aopr, $.fn.modal)
 xchina.co#?#.item:has(.tag .series:has-text(广告))
 xchina.co#?#[class^="item"]:has(.tag:has-text(广告))
 ！--------------------------------------
