@@ -78,8 +78,7 @@ voflix.vip##[id="LowerRightAd"]
 voflix.vip#%#//scriptlet('m3u-prune', '/video/adjump/time/', 'index.m3u8')
 !ysgc.fun#%#//scriptlet('m3u-prune', '/.{32,}.ts/', '/^https:\/\/(v\.cdnlz\d*|v3\.yzzy\d*-play\.com)/')
 !ysgc.fun##+js(m3u-prune, /#EXT-X-DISCONTINUITY.{1\,266|322}#EXT-X-DISCONTINUITY/gm, .m3u8)
-#%#//scriptlet('m3u-prune', '/.{32,}.ts/', '/^https:\/\/(v\.cdnlz\d*|v3\.yzzy\d*-play\.com)/')
+!#%#//scriptlet('m3u-prune', '/.{32,}.ts/', '/^https:\/\/(v\.cdnlz\d*|v3\.yzzy\d*-play\.com)/')
 www.bilibili.com##+js(set, abtest.ab_version.jump_to_edge, undefined)
 www.bilibili.com##+js(set, abtest, undefined)
-!腾讯体育视频广告
-!||video.qq.com/getvinfo$replace=/"url":"https[^"]*?"\,/"url":""/
+
