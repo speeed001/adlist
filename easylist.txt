@@ -1,5 +1,5 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2025-12-29
+! TimeUpdated: 2025-12-30
 ! Description:  easylistchina精简
 
 ||asd8900.oss-*.aliyuncs.com^
@@ -14,6 +14,18 @@
 ||hash.trafficmanager.net^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||6kpudsordv.com^
+||i3j6h7j9cj.com^
+||kje9v2ic57.com^
+||ainb12300zh.com^
+||briefcase95.com^
+||zhuqellv.com^
+||ammonia20.com^
+||vujglx.icu^
+||2lj9n8sz0w.com^
+||kxsu.cn^
+||lavtcyojffug.com^
+||horribletrainer.com^
 ||bmzzojmzu.com^
 ||d8lzzy93g.com^
 ||msn5vg8em.com^
@@ -24,6 +36,13 @@
 ||ghaudhur.com^
 ||hydrocarbon77.top^
 ||0e1y8x7ft.com^
+||ctdv3faci.com^
+||pfk94y5ke.com^
+||ainb12291zh.com^
+||vmyv.cn^
+||bkhxut1rz.com^
+||mqondrun.com^
+||v0su9ogte.com^
 ||r4uws5iu3g.com^
 ||xo60kab7yv.com^
 ||xpzodh.icu^
