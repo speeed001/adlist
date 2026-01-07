@@ -1,5 +1,5 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-01-06
+! TimeUpdated: 2026-01-07
 ! Description:  easylistchina精简
 
 ||asd8900.oss-*.aliyuncs.com^
@@ -14,6 +14,20 @@
 ||hash.trafficmanager.net^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||o40d17vln.com^
+||wrlhhgeyh.com^
+||1hmklj60i.com^
+||ywnrqpd.xyz^
+||bugs01070ko.com^
+||w537a7.cc^
+||ainb01070zh.com^
+||porqbb.icu^
+||cgcg01070ht.com^
+||tringrod.com^
+||electrode28.com^
+||oratorio77.com^
+||xnm4x0ali.com^
+||ltrb.cn^
 ||oot59rxrwm.com^
 ||kduwvaq3dt.com^
 ||vpx4fmj4z6.com^
@@ -24,6 +38,12 @@
 ||syncope12.top^
 ||catalysis39.top^
 ||xt1nx0rs7n.com^
+||wm02x4gcnx.com^
+||ox3e5wyy79.com^
+||ainb01061zh.com^
+||c4ru5li2sa.com^
+||pkhottoqai.com^
+||cgcg01061ht.com^
 ||g2wg5308q.com^
 ||cgcg01050ht.com^
 ||houotgk3m.com^
@@ -390,7 +410,6 @@
 ||3245duu17z.com^
 ||tkll12161nb.com^
 ||88r6s1hecp.com^
-||7b6c81b4c2.com^
 ||your-name.click^
 ||qtevriko.com^
 ||086123.xyz^
@@ -1590,7 +1609,6 @@
 ||fqoybwos7f.com^
 ||joi09101pt.com^
 ||nio09101lt.com^
-||eyqbpifffccdc.net^
 ||mtmvrulutr.com^
 ||rxoi.cn^
 ||kkbnzz.cn^
@@ -2542,7 +2560,6 @@
 ||yui06140shga.com^
 ||teue.cn^
 ||0x7iufg8hy.com^
-||mikka.app^
 ||bqdhrr.top^
 ||einothepz.com^
 ||dtqs84i8bq.com^
@@ -4466,7 +4483,6 @@
 ||atm.youku.com^
 ||ax.*.ifeng.com^
 ||ax.ifeng.com^
-||badding.oss-ap-southeast-1.aliyuncs.com^
 ||baifen.music.baidu.com^
 ||besc.baidustatic.com^
 ||biz.gexing.com^
