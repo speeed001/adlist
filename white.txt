@@ -2,6 +2,7 @@
 !sdk.e.qq.com^$important
 !adsmind.gdtimg.com^$important
 !--------------------------------
+||dig.bdurl.net
 ||ad.azure.com^
 ||ads.taboola.com^
 ||autocomplete.clearbit.com^
