@@ -2,7 +2,41 @@
 !sdk.e.qq.com^$important
 !adsmind.gdtimg.com^$important
 !--------------------------------
+! 极光推送长连接服务(IPv4) - 影响所有使用极光SDK的App（银行、电商、社交）推送通知
+||ce3e75d5.jpush.cn
+! 极光推送长连接服务(IPv6) - 同上，IPv6网络环境下的推送通道
+||ce3e75d5-ipv6.jpush.cn
+! 字节跳动HTTPDNS服务 - Pico VR设备、抖音、头条网络解析必需，屏蔽会导致无法登录
 ||dig.bdurl.net
+! 腾讯分布式ID服务 - 腾讯会议、王者荣耀等登录必需，屏蔽会导致功能异常
+||snowflake.qq.com
+! 腾讯灯塔统计服务 - 腾讯会议官方要求必须放行，微信刷脸支付依赖
+||h.trace.qq.com
+! 京东图片CDN服务器 - 商品详情页图片加载必需，非广告域名，屏蔽后京东无法显示图片
+||img2.360buyimg.com
+! 字节跳动网络服务（使用抖音/TikTok/今日头条/西瓜视频必需）
+!=======================================
+! TNC网络检测服务 - 用于检测网络质量和选择最佳接入点，屏蔽会导致刷新失败
+||tnc0-aliec2.zijieapi.com^$important
+||tnc0-alisc1.zijieapi.com^$important
+||tnc0-bjlgy.zijieapi.com^$important
+||tnc3-aliec1.toutiaoapi.com^$important
+||tnc3-aliec2.bytedance.com^$important
+||tnc3-aliec2.snssdk.com^$important
+||tnc3-aliec2.toutiaoapi.com^$important
+||tnc3-aliec2.zijieapi.com^$important
+||tnc3-alisc1.bytedance.com^$important
+||tnc3-alisc1.snssdk.com^$important
+||tnc3-alisc1.toutiaoapi.com^$important
+||tnc3-alisc1.zijieapi.com^$important
+||tnc3-alisc2.zijieapi.com^$important
+||tnc3-bjlgy.bytedance.com^$important
+||tnc3-bjlgy.snssdk.com^$important
+||tnc3-bjlgy.toutiaoapi.com^$important
+||tnc3-bjlgy.zijieapi.com^$important
+
+
+----
 ||ad.azure.com^
 ||ads.taboola.com^
 ||autocomplete.clearbit.com^
