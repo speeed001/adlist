@@ -1,6 +1,6 @@
 ! Title: godgod
-! TimeUpdated: 2025-12-23
-! Title: 
+! TimeUpdated: 2026-02-09
+! Title: 6666
 
 !-----windfiles下载倒计时
 windfiles.com$replace=/counterTime = \d+;/counterTime = 0;/
@@ -11,7 +11,9 @@ windfiles.com$replace=/counterTime = \d+;/counterTime = 0;/
 ！----远景论坛默认新窗口打开
 bbs.pcbeta.com#%#//scriptlet('set-cookie-reload', 'jqCP_887f_atarget', '1')
 !-----腾讯网提示下载客户端
-www.qq.com#%#//scriptlet('set-local-storage-item', 'refer_tips_never_show', 'true')
+www.qq.com,news.qq.com#%#//scriptlet('set-local-storage-item', 'download_tips_never_show', 'true')
+www.qq.com,news.qq.com#%#//scriptlet('set-local-storage-item', 'refer_tips_never_show', 'true')
+www.qq.com,news.qq.com#%#//scriptlet('set-local-storage-item', 'refer_banner_never_show', 'true')
 !-----腾讯体育视频广告
 !||video.qq.com/getvinfo$replace=/"url":"https[^"]*?"\,/"url":""/
 
