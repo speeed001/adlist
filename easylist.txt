@@ -1,5 +1,5 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-02-12
+! TimeUpdated: 2026-02-13
 ! Description:  easylistchina精简
 
 ||asd8900.oss-*.aliyuncs.com^
@@ -19,6 +19,9 @@
 ||multiple46.top^
 ||l2qdfaq62o.com^
 ||dlsybe78o0.com^
+||8rht5welv5.com^
+||rtip4abjv3.com^
+||idavmk1276.com^
 ||skirmish33.top^
 ||1hhwyb4vl.com^
 ||yzhcp6cw1.com^
