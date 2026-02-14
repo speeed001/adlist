@@ -1,7 +1,10 @@
 ! Title: godgod
-! TimeUpdated: 2026-02-10
+! TimeUpdated: 2026-02-15
 ! Title: 6666
 
+
+!----baidu
+www.baidu.com#%#//scriptlet('remove-attr', 'href', 'a[href*="aiqicha.baidu.com"]')
 !-----windfiles下载倒计时
 windfiles.com$replace=/counterTime = \d+;/counterTime = 0;/
 !-----ITAB扩展劫持
