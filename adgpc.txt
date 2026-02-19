@@ -1,5 +1,5 @@
 ! Title: godgod
-! TimeUpdated: 2026-02-15
+! TimeUpdated: 2026-02-19
 ! Title: 6666
 
 
@@ -13,10 +13,10 @@ windfiles.com$replace=/counterTime = \d+;/counterTime = 0;/
 |https://api.bilibili.com/x/web-interface/wbi/search/default?web_location*
 ！----远景论坛默认新窗口打开
 bbs.pcbeta.com#%#//scriptlet('set-cookie-reload', 'jqCP_887f_atarget', '1')
-!-----是否访问此链接
-c.pc.qq.com#%#(function(){var s = location.search;var key = "pfurl=";var i = s.indexOf(key);if (i < 0) return;var j = s.indexOf("&pfuin=", i);if (j < 0) return;location.replace(decodeURIComponent(s.slice(i + key.length, j)));})();
-!-----停止访问该网页
-c.pc.qq.com#%#(function(){var s = location.search;var key = "url=";var i = s.indexOf(key);if (i < 0) return;var j = s.indexOf("&sublevel=", i);if (j < 0) return;location.replace(decodeURIComponent(s.slice(i + key.length, j)));})();
+!-----知乎打开链接自动访问
+link.zhihu.com#%#(function(){var t = new URLSearchParams(location.search).get("target");if (t) location.replace(t);})();
+!-----QQ打开链接跳转
+c.pc.qq.com#%#(function(){var p = new URLSearchParams(location.search);var u = p.get("url") || p.get("pfurl");if (u) location.replace(u);})();
 !-----腾讯网提示下载客户端
 www.qq.com,news.qq.com#%#//scriptlet('set-local-storage-item', 'download_tips_never_show', 'true')
 www.qq.com,news.qq.com#%#//scriptlet('set-local-storage-item', 'refer_tips_never_show', 'true')
