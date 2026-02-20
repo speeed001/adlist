@@ -23,9 +23,6 @@ www.qq.com,news.qq.com#%#//scriptlet('set-local-storage-item', 'refer_tips_never
 www.qq.com,news.qq.com#%#//scriptlet('set-local-storage-item', 'refer_banner_never_show', 'true')
 !-----腾讯体育视频广告
 !||video.qq.com/getvinfo$replace=/"url":"https[^"]*?"\,/"url":""/
-
-!blog.aming.info#%#//scriptlet("prevent-window-open")//阻挠弹窗
-||fieldofbachus.com
 !---423down
 423down.com#?#.excerpt > li:has(span.cat a:has-text(423Down))
 !-----修罗影视
@@ -39,10 +36,6 @@ kanav.ad##+js(set-local-storage-item, yzmplayer-danmaku-show, 0)
 xchina.co#?#.item:has(.tag .series:has-text(广告))
 xchina.co#?#[class^="item"]:has(.tag:has-text(广告))
 ！--------------------------------------
-!/asset/jquery/slim-3.2.min.js$replace=/var __.=([\s\S]*__..init\(\);)//
-!/js/jquery/*/jquery-1.4.*.min.js$replace=/var __.=([\s\S]*__..init\(\);)//
-!/js/jquery/jquery-3.*.min.js$replace=/var __.=([\s\S]*__..init\(\);)//
-!/js/jquery/jquery-1.4.*.min.js$replace=/var __.=([\s\S]*__..init\(\);)//
 !/slim-*.min.js$replace=/var __.=([\s\S]*?)(var link.*;)([\s\S]*?var link){6}([\s\S]*.*__..init\(\);)//
 !/jquery-*min.js$replace=/var __.=([\s\S]*?)(var link.*;)([\s\S]*?var link){6}([\s\S]*.*__..init\(\);)//
 !/jquery/slim-*.min.js$replace=/var __.=([\s\S]*?)(var link.*;)([\s\S]*?var link){6}([\s\S]*.*__..init\(\);)//
@@ -62,11 +55,6 @@ http://www.huabiaosz.com/pingbi.js
 !||graph.qq.com$replace=/<\/html>/<script>document.getElementById('select_all').click();<\/script><\/html>/
 javlibrary.com$$div[id="video_comments"]
 avbebe.com##[id="commentlist"],[id="respond"]
-||vthumb.killcovid2021.com/*.mp4$redirect=empty
-!---
-!douyu.com##div[class="FirePowerChatModal-Notice "]
-!douyu.com##div[style="display: inline-block; position: absolute; right: 0px; top: 0px;"],div[class="PlayerToolbar-ContentCell"]
-!douyu.com##+js(aeld,visibilitychange)
 www.tianyancha.com##+js(aeld, compositionend) 
 52asus.com$replace=/remain_time//
 ||hh.zhhbqg.com^
@@ -74,9 +62,7 @@ theporn.cc#%#//scriptlet("set-constant", "avshow.config.ads", "null")
 theporn.cc#%#//scriptlet("set-constant", "avshow.user.is_vip", "true")
 theporn.cc#%#//scriptlet("set-constant", "av_response.vip", "null")
 theporn.cc#?#.q-img,.gg-config,.toolbar-gg,#vip_only
-||ypapi.hgdd14.app/userHome/user_info$replace=/vip_type":0\,/vip_type":1\,/
 jable.tv##[class="comments pb-3 pb-lg-4"]
-wuzhuiso.com##div[class="extension-tip"],div[class="app-tip"]
 https://ccavb.tv/js/popup.js
 yatu.tv##div[id="loadtop"]
 upyunso.com#%#//scriptlet('set-constant', 'window.layer.open', 'noopFunc')
@@ -85,8 +71,6 @@ http://www.zztongyun.com/static/js/sh.min.js
 xiaoheimi.net$$script[wildcard="document.onkeydown=function*window.setInterval*"]
 ||juicyads.com
 kaizty.com$$script[wildcard="*adConfig*adConfig*"]
-voflix.vip##[id="LowerRightAd"]
-voflix.vip#%#//scriptlet('m3u-prune', '/video/adjump/time/', 'index.m3u8')
 !ysgc.fun#%#//scriptlet('m3u-prune', '/.{32,}.ts/', '/^https:\/\/(v\.cdnlz\d*|v3\.yzzy\d*-play\.com)/')
 !ysgc.fun##+js(m3u-prune, /#EXT-X-DISCONTINUITY.{1\,266|322}#EXT-X-DISCONTINUITY/gm, .m3u8)
 !#%#//scriptlet('m3u-prune', '/.{32,}.ts/', '/^https:\/\/(v\.cdnlz\d*|v3\.yzzy\d*-play\.com)/')
