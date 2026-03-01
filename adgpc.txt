@@ -1,5 +1,5 @@
 ! Title: godgod
-! TimeUpdated: 2026-02-19
+! TimeUpdated: 2026-03-01
 ! Title: 6666
 
 
@@ -35,6 +35,7 @@ kanav.ad##+js(aopr, $.fn.modal)
 kanav.ad##+js(set-local-storage-item, yzmplayer-danmaku-show, 0)
 xchina.co#?#.item:has(.tag .series:has-text(广告))
 xchina.co#?#[class^="item"]:has(.tag:has-text(广告))
+torrentkitty.*##span:has-text(推荐):upward(div)
 ！--------------------------------------
 !/slim-*.min.js$replace=/var __.=([\s\S]*?)(var link.*;)([\s\S]*?var link){6}([\s\S]*.*__..init\(\);)//
 !/jquery-*min.js$replace=/var __.=([\s\S]*?)(var link.*;)([\s\S]*?var link){6}([\s\S]*.*__..init\(\);)//
