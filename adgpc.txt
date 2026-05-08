@@ -1,8 +1,10 @@
 ! Title: godgod
-! TimeUpdated: 2026-03-01
+! TimeUpdated: 2026--05-08
 ! Title: 6666
 
 
+!京东每天优惠券弹窗
+jd.com#%#//scriptlet('set-cookie-reload', 'umc_count', '1')
 !----baidu
 www.baidu.com#%#//scriptlet('remove-attr', 'href', 'a[href*="aiqicha.baidu.com"]')
 !-----windfiles下载倒计时
