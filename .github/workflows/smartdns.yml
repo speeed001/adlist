@@ -1,4 +1,4 @@
-name: Generate EasyList China Lite
+name: smartdns EasyList China Lite
 
 on:
   schedule:
