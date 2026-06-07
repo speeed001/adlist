@@ -2,7 +2,7 @@ name: smartdns EasyList China Lite
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # 每天 UTC 2:00 执行
+    - cron: '0 17 * * *'  # 每天 UTC 2:00 执行
   workflow_dispatch:      # 也允许你手动点按钮触发
 
 jobs:
