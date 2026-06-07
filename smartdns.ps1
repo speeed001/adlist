@@ -24,10 +24,14 @@ Sort-Object -Unique
 # 当前日期
 $currentDate = Get-Date -Format "yyyy-MM-dd"
 
+# 规则数量
+$ruleCount = $rules.Count
+
 # 文件头
 $header = @"
 # Title: easylistchina-smartdns
 # TimeUpdated: $currentDate
+# 规则数量: $ruleCount
 # Description: EasyList China Lite for SmartDNS
 
 "@
@@ -37,4 +41,4 @@ $header | Set-Content $outputFile -Encoding UTF8
 $rules | Add-Content $outputFile -Encoding UTF8
 
 Write-Host "生成完成: $outputFile"
-Write-Host "规则数量: $($rules.Count)"
+Write-Host "规则数量: $ruleCount"
