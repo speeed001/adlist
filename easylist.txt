@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-06-07
-! 规则数量: 5977
+! TimeUpdated: 2026-06-08
+! 规则数量: 5986
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -284,6 +284,7 @@
 ||33kw1wc58.top^
 ||33w8tdyelw.com^
 ||3400.org^
+||34dcvgw197.com^
 ||34mede82hj.com^
 ||354xxcdt1.com^
 ||35kjurwwb6.com^
@@ -367,6 +368,7 @@
 ||4d9f09z8c.com^
 ||4e9ynqm47d.com^
 ||4f3tsea1m.com^
+||4f8g9foqwy.com^
 ||4fd0jlybx.com^
 ||4fptsi5zxo.com^
 ||4fzfc1irq.com^
@@ -569,6 +571,7 @@
 ||77zdmt8yq.com^
 ||79181531227.com^
 ||79n4cubmu8.com^
+||79ssr9d244.com^
 ||7asx1bxaw.com^
 ||7awf4fi9k7.com^
 ||7bfst8xxtc.com^
@@ -3367,6 +3370,7 @@
 ||m7xssfiit.com^
 ||m81mfege2.com^
 ||m8h5qjmlb3.com^
+||m8qk101065.com^
 ||m8ryjf38a.com^
 ||m8zgls6zt.com^
 ||m9s3h265lq.com^
@@ -4109,6 +4113,7 @@
 ||pvtd.cn^
 ||pwaihoe.icu^
 ||pwk73hidf2.com^
+||pwvlthpqzonnfe.com^
 ||px02mouzas.com^
 ||pxdb08b82.com^
 ||pxlizduukhnpps.com^
@@ -4165,6 +4170,7 @@
 ||qemh16ihyw.com^
 ||qenb2pxx.xyz^
 ||qezkdby1jj.com^
+||qf51ho9qtz.com^
 ||qfirgakpv.com^
 ||qfwhko.icu^
 ||qgckb3ov46.com^
@@ -4462,6 +4468,7 @@
 ||sandbank68.com^
 ||sanme2.taisantech.com^
 ||saptuqse29.com^
+||satinwood84.com^
 ||sausage34.com^
 ||saxophone90.top^
 ||sbbd1.qulishi.com^
@@ -4911,6 +4918,7 @@
 ||uesv3jjf6.com^
 ||uetx75ibcu.com^
 ||ueuwvgco19.com^
+||uevrhqra7u.com^
 ||uewzjy.xyz^
 ||ueyuww.icu^
 ||ufa9tt1n5.com^
@@ -5950,6 +5958,7 @@
 ||zthuhludil.com^
 ||zttebe.top^
 ||ztyumn.ifeng.com^
+||zu9srbxg0t.com^
 ||zujtlj.icu^
 ||zujz.cn^
 ||zulaedha.com^
