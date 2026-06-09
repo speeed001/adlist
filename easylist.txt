@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-06-08
-! 规则数量: 5986
+! TimeUpdated: 2026-06-09
+! 规则数量: 5998
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -1286,6 +1286,7 @@
 ||bmmpotgeaz.com^
 ||bmpdm3z282.com^
 ||bmzzojmzu.com^
+||bncqucpia.com^
 ||bnqektutom.com^
 ||bnti.cn^
 ||boardx.huanqiu.com^
@@ -1445,6 +1446,7 @@
 ||catherineagnesmj.com^
 ||cautious60.com^
 ||cb.baidu.com^
+||cb07whvmx.com^
 ||cbdm.weathercn.com^
 ||cbembusgcl.com^
 ||cbff1ao9.xyz^
@@ -1958,6 +1960,7 @@
 ||ekdtywtkc.com^
 ||eklzt1bvv.com^
 ||ekpafzj.com^
+||ekpsn3kja.com^
 ||el2m3qr7v.com^
 ||elclaq.icu^
 ||electrode28.com^
@@ -2753,6 +2756,7 @@
 ||i97wqa881u.com^
 ||i9i3ko2o70.com^
 ||ia3lxhd539.com^
+||iachpi.icu^
 ||iads.xinmin.cn^
 ||iadsvbox2.com^
 ||iap2e750o.com^
@@ -3300,6 +3304,7 @@
 ||lqxzx.com^
 ||lrphk.cn^
 ||lrta.cn^
+||lruqanolg.com^
 ||lsdkrd95t.com^
 ||lt3f9p5ox2.com^
 ||ltfcagrapl.com^
@@ -3333,6 +3338,7 @@
 ||lxsz0w0aw.com^
 ||lxting.com^
 ||lxwp426ao.com^
+||lyajuchnb.com^
 ||lyfdrh.icu^
 ||lyjq9gwob.com^
 ||lyk35otqfm.com^
@@ -3392,6 +3398,7 @@
 ||market.duowan.com^
 ||marketpd4.top^
 ||masockq.com^
+||mathematics34.com^
 ||matwbp.iask.sina.com.cn^
 ||mazincike.com^
 ||mb.gulongbbs.com^
@@ -3787,6 +3794,7 @@
 ||nzl10011oa.com^
 ||nzl10041oa.com^
 ||nzlelmarw.com^
+||nzrdfrlsfrznrk.com^
 ||o.027eat.com^
 ||o.jy135.com^
 ||o.phb123.com^
@@ -3864,6 +3872,7 @@
 ||onchilurg.com^
 ||ondrotnw.com^
 ||onxuegm38t.com^
+||onzj79fce.com^
 ||oogqem.icu^
 ||ooqvye17t.com^
 ||oot59rxrwm.com^
@@ -4137,6 +4146,7 @@
 ||q2fwgl4q8.com^
 ||q2tqrsh02.com^
 ||q3rlg1flo.com^
+||q4173l5op.com^
 ||q58nf16jd3.com^
 ||q5sn40kmp2.com^
 ||q5viqnac3i.com^
@@ -4556,6 +4566,7 @@
 ||squarewave.top^
 ||sr8jcp5fp.com^
 ||srfo.cn^
+||srqxnvjdd.com^
 ||ss.ting55.com^
 ||ss494hpnq.com^
 ||ssb.ah499.com^
@@ -5044,6 +5055,7 @@
 ||v46uj91gh.com^
 ||v4ox630nia.com^
 ||v53groc9v.com^
+||v5rv8mnfk.com^
 ||v84tz11w7.com^
 ||v8fjvv9o3.com^
 ||v8j1rkai1.com^
