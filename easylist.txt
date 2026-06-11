@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-06-10
-! 规则数量: 6008
+! TimeUpdated: 2026-06-11
+! 规则数量: 6021
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -373,6 +373,7 @@
 ||4fptsi5zxo.com^
 ||4fzfc1irq.com^
 ||4h87y9pc59.com^
+||4i2q0y9wv.com^
 ||4ifhpfi1.xyz^
 ||4jh1le34m.com^
 ||4kxczstxil.com^
@@ -647,6 +648,8 @@
 ||8feichai.com^
 ||8g2a7mifv.com^
 ||8gptk28oag.com^
+||8h6oiw0uo.com^
+||8h7j79qxm.com^
 ||8hx7k0211.com^
 ||8iav2fuiy.com^
 ||8j7tu8vtxx.com^
@@ -723,6 +726,7 @@
 ||9l4i9edu.top^
 ||9l9ck7mdd2.com^
 ||9ma1sr1tb1.com^
+||9mdg9cu59.com^
 ||9o29nhxgp.com^
 ||9oru1vh0w.com^
 ||9oxhstb2m2.com^
@@ -1426,6 +1430,7 @@
 ||cadence33.top^
 ||cai75tp.com^
 ||caitlinagathami.com^
+||calculation94.top^
 ||calistaadama.com^
 ||callosity19.top^
 ||cameleer.top^
@@ -2255,6 +2260,7 @@
 ||g66ryy88z.com^
 ||g6x2uvza37.com^
 ||g8hi6r3odr.com^
+||g8nwdolod.com^
 ||g8ygkqhm9p.com^
 ||g9cvic3khh.com^
 ||ga1.3dmgame.com^
@@ -2943,6 +2949,7 @@
 ||jdhsx357.com^
 ||jdpbpd.icu^
 ||jds4i5gcfv.com^
+||je3zdrcua.com^
 ||jerhzr.icu^
 ||jesfsf.top^
 ||jfffe1o97b.com^
@@ -3373,6 +3380,7 @@
 ||m3v8x28jut.com^
 ||m43ocq1uoj.com^
 ||m485oq2gym.top^
+||m4dynuge4.com^
 ||m4fxreb5s.com^
 ||m5.66077.cn^
 ||m5nv2f52i.com^
@@ -3481,6 +3489,7 @@
 ||mkguynd.com^
 ||mkue.cn^
 ||ml4xbwg73.top^
+||mliyokonw.com^
 ||mlougq.icu^
 ||mm.jbzj.com^
 ||mm.nwell.net^
@@ -3878,6 +3887,7 @@
 ||omelette12.top^
 ||onchilurg.com^
 ||ondrotnw.com^
+||onttsrh5i.com^
 ||onxuegm38t.com^
 ||onzj79fce.com^
 ||oogqem.icu^
@@ -4123,6 +4133,7 @@
 ||purpose36.com^
 ||pusherblight.com^
 ||putmtmkfjbitxzlhijfc.top^
+||pv7ezc6as.com^
 ||pvgcyyh.icu^
 ||pvhbhnqip.com^
 ||pvkc.cn^
@@ -4406,6 +4417,7 @@
 ||rpvqhicca.com^
 ||rrpaafci9i.com^
 ||rstdfyerm.icu^
+||rstqbtoqrxbvpk.com^
 ||rt5x78mhcq.com^
 ||rta4z4ncsl.com^
 ||rtau9pif4.com^
@@ -5506,6 +5518,7 @@
 ||xhgwho0fx.com^
 ||xhr7cqlob.com^
 ||xhtkm35sw.com^
+||xhxtdjx.com^
 ||xianliao.voto^
 ||xiaopinwo.com^
 ||xiaoshuoyun.cn^
