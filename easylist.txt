@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-06-11
-! 规则数量: 6021
+! TimeUpdated: 2026-06-12
+! 规则数量: 6036
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -19,6 +19,8 @@
 ||06hkgn0jl3.com^
 ||07pv7k61z.com^
 ||086123.xyz^
+||08pkgxft0u.com^
+||08su45co5x.com^
 ||0941.org^
 ||0a0atz2sh.top^
 ||0a66kw9r8.com^
@@ -134,6 +136,7 @@
 ||13afemc28.com^
 ||148a0hqnen.com^
 ||14pbmfzci.com^
+||151xrobgqz.com^
 ||154.7.80.158^
 ||15ftgllk1.com^
 ||15mxfnk6sw.com^
@@ -261,6 +264,7 @@
 ||2r1jqii2c.com^
 ||2r2zhs64a7.com^
 ||2r69dkb1a.com^
+||2top98spp.shop^
 ||2u1h56851n.top^
 ||2vcb9onxjm.com^
 ||2wq9u06jq.com^
@@ -452,6 +456,7 @@
 ||5ipifco2tf.com^
 ||5j45n3f6r.com^
 ||5k1cyldc9.com^
+||5kjpa028wo.com^
 ||5kmqy60r7.com^
 ||5lf5cujc5.com^
 ||5lz3u8s5uq.com^
@@ -723,6 +728,7 @@
 ||9i5x05ovp7.com^
 ||9j9gc694o4.com^
 ||9jk7puqza.com^
+||9kqh3r24zv.com^
 ||9l4i9edu.top^
 ||9l9ck7mdd2.com^
 ||9ma1sr1tb1.com^
@@ -835,6 +841,7 @@
 ||a85t9mxnj.com^
 ||a8h4zhbmxi.com^
 ||a8qwjt7dwi.com^
+||a8wqu3fbmk.com^
 ||aa.gushiwen.org^
 ||aa.xiangxiangmf.com^
 ||aa2hzrmu9.com^
@@ -2122,6 +2129,7 @@
 ||fhnahnad.com^
 ||fhovoldaw.com^
 ||fidruqwny.com^
+||fih3r.com^
 ||fijipic.xyz^
 ||fikppvmul.com^
 ||finallyy2.top^
@@ -2258,6 +2266,7 @@
 ||g5xu1dslr6.com^
 ||g64njjhyh.com^
 ||g66ryy88z.com^
+||g6ird1tez2.com^
 ||g6x2uvza37.com^
 ||g8hi6r3odr.com^
 ||g8nwdolod.com^
@@ -2697,6 +2706,7 @@
 ||ht9s1j1bf.com^
 ||hthelulyq.com^
 ||htlwbn.icu^
+||huanle97.com^
 ||humiliatedaboveboardwho.com^
 ||hunzlj.icu^
 ||huo07091hy.com^
@@ -3898,6 +3908,7 @@
 ||op1z5h5171.com^
 ||op9dbh1i0.com^
 ||opendsp.vip^
+||operation67.com^
 ||operetta17.com^
 ||opicrutuk.com^
 ||opkrerkaidf.com^
@@ -4053,6 +4064,7 @@
 ||pin6d37stu.com^
 ||pinmgm.com^
 ||pipette22.top^
+||piplnlkmoandbq.com^
 ||pitaltoid.com^
 ||pj4til72yp.com^
 ||pjcg3864p.com^
@@ -4546,6 +4558,7 @@
 ||sirsplajp.com^
 ||siutaodka.com^
 ||sjbaiduadv1.redou.com^
+||sjbbsja.forum^
 ||sjhgfrvbxrbbr.com^
 ||skfgnsvkjfgvv.com^
 ||skirmish33.top^
@@ -4979,6 +4992,7 @@
 ||uk3eymh64c.com^
 ||ukew6uo7u1.com^
 ||ukfp.cn^
+||uks8suop4b.com^
 ||ukx6umuvu.com^
 ||ulatammyspb.com^
 ||ulgroiklf.com^
@@ -5257,6 +5271,7 @@
 ||vyqn.cn^
 ||vysr4o0eg.com^
 ||vyxw.cn^
+||vz95953ow5.com^
 ||vzia.cn^
 ||vzorzilmf.com^
 ||vzrhwmsj.icu^
