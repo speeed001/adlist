@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-06-14
-! 规则数量: 6063
+! TimeUpdated: 2026-06-15
+! 规则数量: 6073
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -175,6 +175,7 @@
 ||1iw9r46xh5.com^
 ||1jlp1qbgu.com^
 ||1jzocofm4.com^
+||1k2uh20wr.com^
 ||1k8j786ks5.com^
 ||1kb4atu6x.com^
 ||1kb5alcna8.com^
@@ -619,6 +620,7 @@
 ||7u7jwonbf.com^
 ||7ue931y0gn.com^
 ||7usgqu07mk.com^
+||7w7kditsz.com^
 ||7x9i88rvn.com^
 ||7xi9g1.com1.z0.glb.clouddn.com^
 ||7xsf3h.com1.z0.glb.clouddn.com^
@@ -740,6 +742,7 @@
 ||9ma1sr1tb1.com^
 ||9mdg9cu59.com^
 ||9o29nhxgp.com^
+||9obmf866d.com^
 ||9oru1vh0w.com^
 ||9oxhstb2m2.com^
 ||9p81m19kr.com^
@@ -1136,6 +1139,7 @@
 ||b8mnb9ke9z.com^
 ||b8o9c4s42l.com^
 ||b9jda4zig.com^
+||bahpqcq.com^
 ||baidu1.cardbaobao.com^
 ||baidu1.codejie.net^
 ||baiducom.bj.bcebos.com^
@@ -1317,6 +1321,7 @@
 ||bootscritp.com^
 ||boraerzutd.com^
 ||borh1pxlp.com^
+||bowo666.com^
 ||bp8mct71pn.com^
 ||bpuvuun0xg.com^
 ||bqdhrr.top^
@@ -1797,6 +1802,7 @@
 ||ditruntp.com^
 ||divcb7ycs5.com^
 ||divergentld.com^
+||division43.top^
 ||dizziness47.com^
 ||djfp97jp7v.com^
 ||djhfkcfrdxv.com^
@@ -4096,6 +4102,7 @@
 ||pknh27a7j.com^
 ||pkpmhr2gw.com^
 ||pkwnpgsex.com^
+||pkytxfiin.com^
 ||pl53l7tyw.com^
 ||pl7ncaj0b.com^
 ||plateau77.com^
@@ -4268,6 +4275,7 @@
 ||ql.uzuzuz.com^
 ||qlghunil.com^
 ||qlkysc.icu^
+||qls7v6jd3.com^
 ||qmarcani.com^
 ||qmav.cn^
 ||qmavyy.icu^
@@ -4372,6 +4380,7 @@
 ||receiptgg.top^
 ||recognize04.top^
 ||recount57.com^
+||redtvxjmgjbtlw.com^
 ||reflection67.top^
 ||register04.top^
 ||registration09.top^
@@ -4679,6 +4688,7 @@
 ||swovtny444.com^
 ||swqerog.com^
 ||swqmuo.icu^
+||sxq9xn7t3.com^
 ||sxzl6x4k9p.com^
 ||sycamore63.top^
 ||symjgg.icu^
