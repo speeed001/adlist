@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-06-27
-! 规则数量: 5945
+! TimeUpdated: 2026-06-28
+! 规则数量: 5953
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -1155,6 +1155,7 @@
 ||bbcz4tta.top^
 ||bbepv.com^
 ||bborxjkan.com^
+||bbqy4ihvz9.com^
 ||bbrav96ax.com^
 ||bchina-1.xsfaya.com^
 ||bcjhlhuhq.icu^
@@ -1395,6 +1396,7 @@
 ||byspvudwx.com^
 ||byt73g6rrr.com^
 ||bytytxkz.icu^
+||byuh78fy2m.com^
 ||bz13t74nt.com^
 ||bzabwir.icu^
 ||bzkmqr6vo4.com^
@@ -3349,6 +3351,7 @@
 ||m1jm3nzf2.com^
 ||m1vvvv1k2.com^
 ||m2.lelemh.com^
+||m2wrsmrsbj.com^
 ||m3cqjc3og6.com^
 ||m3ks1o8jz.com^
 ||m3v8x28jut.com^
@@ -3499,6 +3502,7 @@
 ||mqaae0c7m1.com^
 ||mqndhoceat.com^
 ||mqondrun.com^
+||mqrqtvzwdl.com^
 ||mqunqwsyrw.com^
 ||mr6c4eqmh.com^
 ||mrj6nrqwz.com^
@@ -3853,6 +3857,7 @@
 ||opendsp.vip^
 ||operation67.com^
 ||operetta17.com^
+||opev2lhm7h.com^
 ||opwqkq.icu^
 ||opzphurkro.com^
 ||oqcw1f9yw.com^
@@ -4284,6 +4289,7 @@
 ||receiptgg.top^
 ||recognize04.top^
 ||recount57.com^
+||rectangular18.com^
 ||redtvxjmgjbtlw.com^
 ||reflection67.top^
 ||register04.top^
@@ -4502,6 +4508,7 @@
 ||smkqwa.icu^
 ||smooth33.com^
 ||smuc.cnnfootballclub.com^
+||sn0z9i4bax.com^
 ||sneakersq5.com^
 ||snickers44.com^
 ||snlyplsoli.com^
@@ -5517,6 +5524,7 @@
 ||xqtcpf.icu^
 ||xr40kfkxeo.com^
 ||xrkbhl2cp.com^
+||xrnrplqcfmpxfg.com^
 ||xrus.cn^
 ||xs.houyi.baofeng.net^
 ||xscp03091xq.com^
