@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-06-28
-! 规则数量: 5953
+! TimeUpdated: 2026-06-29
+! 规则数量: 5960
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -14,6 +14,7 @@
 ||03t441b8w.com^
 ||0592.mobi^
 ||06789.xyz^
+||067oij53m.com^
 ||06cp8ypn8j.com^
 ||06evyxnibl.com^
 ||06hkgn0jl3.com^
@@ -245,6 +246,7 @@
 ||2cn9g1efo.com^
 ||2e4xnyfeae.com^
 ||2e629ntxk3.com^
+||2eao5syzj.com^
 ||2euqnxt25.com^
 ||2f4a93wskk.com^
 ||2fhn1qmca.com^
@@ -1903,6 +1905,7 @@
 ||e2icbtrs1g.com^
 ||e2jda3h01.com^
 ||e2us4880k.com^
+||e3eb4eq0v.com^
 ||e3j60qqdk.com^
 ||e4iwtfza99.com^
 ||e4jdb7k8j.com^
@@ -3541,6 +3544,7 @@
 ||mwzbp.iask.com.cn^
 ||mx278ol2d.com^
 ||mxafaw.icu^
+||mxauvrtdm.com^
 ||mxvl.cn^
 ||mya2pg8cdg.com^
 ||myieldell.com^
@@ -3858,6 +3862,7 @@
 ||operation67.com^
 ||operetta17.com^
 ||opev2lhm7h.com^
+||opposite36.top^
 ||opwqkq.icu^
 ||opzphurkro.com^
 ||oqcw1f9yw.com^
@@ -4227,7 +4232,6 @@
 ||quudraidfg.com^
 ||qvdn.cn^
 ||qw7fi6e194.com^
-||qwe0231141.bj.bcebos.com^
 ||qwnzzp50x.com^
 ||qwsbegovo.top^
 ||qwuylnl.com^
@@ -4372,6 +4376,7 @@
 ||rpox.cn^
 ||rpvkpz.icu^
 ||rrpaafci9i.com^
+||rrsxes4oy.com^
 ||rstdfyerm.icu^
 ||rstqbtoqrxbvpk.com^
 ||rt5x78mhcq.com^
@@ -5080,6 +5085,7 @@
 ||vhaugmotn.com^
 ||vhdvjc.com^
 ||vhgu5ivtew.com^
+||vhjjbdxycpdfrg.com^
 ||vhk1icmps.com^
 ||vhwrju18p.com^
 ||vhxahf.icu^
@@ -5771,6 +5777,7 @@
 ||z9dy1kq9wv.com^
 ||z9o0rgee8.com^
 ||z9sab7vr0b.com^
+||za5ww9yxg.com^
 ||zalwlz.icu^
 ||zamiasfinable.com^
 ||zangraikri.com^
