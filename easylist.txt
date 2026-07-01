@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-06-30
-! 规则数量: 5970
+! TimeUpdated: 2026-07-01
+! 规则数量: 5977
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -176,6 +176,7 @@
 ||1iw9r46xh5.com^
 ||1jlp1qbgu.com^
 ||1jzocofm4.com^
+||1k1bd77k9.com^
 ||1k2uh20wr.com^
 ||1k8j786ks5.com^
 ||1kb4atu6x.com^
@@ -1172,7 +1173,6 @@
 ||bd.beimap.com^
 ||bd.czxuexi.com^
 ||bd.dhsz.cn^
-||bd.ershenghuo.com^
 ||bd.watu.cn^
 ||bd1-china.6789.com^
 ||bd1.365qilu.com^
@@ -1631,6 +1631,7 @@
 ||cxsh.cn.com^
 ||cxy88.friok.com^
 ||cyclamen46.com^
+||cylinder35.top^
 ||cyq8vqq9s.com^
 ||cz16vlh0la.com^
 ||czt4gnz57.com^
@@ -1913,6 +1914,7 @@
 ||e4jdb7k8j.com^
 ||e59x4phq3a.com^
 ||e75liqii98.com^
+||e81j0an3d.com^
 ||e90m7tos2.com^
 ||ea5s00h6oo.com^
 ||eagb.cn^
@@ -3109,6 +3111,7 @@
 ||kgdp030vm1.com^
 ||kgihdv57il.com^
 ||kgoj4nrhe.com^
+||kgou4s5dz.com^
 ||kheejcqnll.com^
 ||kheivutb.com^
 ||khki.cn^
@@ -4754,6 +4757,7 @@
 ||tp4d21qek.com^
 ||tpaxot.cn^
 ||tphurqalq.com^
+||tpjhxbwkvjjvtq.com^
 ||tqub.cn^
 ||traiqnien.com^
 ||travel44.top^
@@ -4877,6 +4881,7 @@
 ||u6uy9lzdcj.com^
 ||u6yzoru6u.com^
 ||u7em9v4hp.com^
+||u7lb6db41.com^
 ||u7ugo0jr3.com^
 ||u833ij.com^
 ||u8rnuky6e.com^
@@ -4909,6 +4914,7 @@
 ||ueuwvgco19.com^
 ||uevrhqra7u.com^
 ||uewzjy.xyz^
+||ueya0wo6m.com^
 ||ueyuww.icu^
 ||ufa9tt1n5.com^
 ||ufeuca.icu^
@@ -4938,6 +4944,7 @@
 ||uk3eymh64c.com^
 ||ukew6uo7u1.com^
 ||ukfp.cn^
+||ukgm0qily.com^
 ||uks8suop4b.com^
 ||ukx6umuvu.com^
 ||ulatammyspb.com^
