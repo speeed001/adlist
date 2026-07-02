@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-07-01
-! 规则数量: 5977
+! TimeUpdated: 2026-07-02
+! 规则数量: 5985
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -443,6 +443,7 @@
 ||5bayjqsrgd.com^
 ||5bess6df0.com^
 ||5bkhq0lwmq.com^
+||5bpajgg436.com^
 ||5cyi6tp6h.com^
 ||5cyqzktkwh.com^
 ||5dfiuae82.com^
@@ -548,6 +549,7 @@
 ||6pctuhriw.com^
 ||6q77vsjez1.com^
 ||6s0zo8jzbb.com^
+||6s78n1rj4r.com^
 ||6s8w2ck1g.com^
 ||6spczz2hj1.com^
 ||6t51r3ge18.com^
@@ -1633,6 +1635,7 @@
 ||cyclamen46.com^
 ||cylinder35.top^
 ||cyq8vqq9s.com^
+||cyu6bl939o.com^
 ||cz16vlh0la.com^
 ||czt4gnz57.com^
 ||d-test.39.net^
@@ -1742,6 +1745,7 @@
 ||devll8j4n.com^
 ||devpz.cn^
 ||df33iyey8.com^
+||df6m7fvrds.com^
 ||df888.eastday.com^
 ||dfangalti.com^
 ||dfevpkzy6u.com^
@@ -4338,6 +4342,7 @@
 ||rhiolf.cn^
 ||rhmt1jjyo.com^
 ||rhododendron15.top^
+||rhombus74.com^
 ||rhrrf.cn^
 ||richh.cn^
 ||rio9s1zdpd.com^
@@ -4386,6 +4391,7 @@
 ||rpvkpz.icu^
 ||rrpaafci9i.com^
 ||rrsxes4oy.com^
+||rsfzjtdmbmxdfq.com^
 ||rstdfyerm.icu^
 ||rstqbtoqrxbvpk.com^
 ||rt5x78mhcq.com^
@@ -4810,6 +4816,7 @@
 ||tvqagropu.com^
 ||tvxvhx.icu^
 ||tvzapt.icu^
+||tw6eg2vusa.com^
 ||twa735xojg.com^
 ||tweaahmal.com^
 ||twfovierbz.com^
@@ -5626,6 +5633,7 @@
 ||y9ppy0icw1.com^
 ||ya*.dwstatic.com^
 ||yah3ph65tc.com^
+||yahzsa6o2o.com^
 ||yakhaknog.com^
 ||yanwz3t0pi.com^
 ||yarcokme.com^
