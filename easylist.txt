@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-07-07
-! 规则数量: 6032
+! TimeUpdated: 2026-07-08
+! 规则数量: 6043
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -912,6 +912,7 @@
 ||achophranb.com^
 ||acodes.b2b.cn^
 ||acqephvfx.com^
+||acqxgk1an3.com^
 ||ad-1258444056.cos.accelerate.myqcloud.com^
 ||ad-api.cnblogs.com^
 ||ad-img.diyidan.net^
@@ -2037,6 +2038,7 @@
 ||er.5ykj.cn^
 ||er.5ykj.com^
 ||erebor.douban.com^
+||esa2j46dwf.com^
 ||eshm72fwql.com^
 ||estuary98.top^
 ||et3lc8yoe.com^
@@ -2477,6 +2479,7 @@
 ||gqxwfhe7o.com^
 ||graduate59.com^
 ||gralqithd.com^
+||granbbkzs3.com^
 ||granteesixtes.com^
 ||grateful03.com^
 ||graunutbpz.com^
@@ -2578,6 +2581,7 @@
 ||h1yfrt.com^
 ||h27aq0mc6.com^
 ||h4htfgrei0.com^
+||h4tmdz92jq.com^
 ||h57vpulpu.com^
 ||h5o61akbx.com^
 ||h5vem1jjft.com^
@@ -3185,6 +3189,7 @@
 ||kve026cks7.com^
 ||kvhee.com^
 ||kvno4qgv8n.com^
+||kvwssal.icu^
 ||kvxc7buwv3.com^
 ||kvzscvzk0t.com^
 ||kw0xlh4wig.com^
@@ -3205,6 +3210,7 @@
 ||l0vij7q78.com^
 ||l1bj5pxqzk.com^
 ||l1owmrzjdw.com^
+||l1y267efmn.com^
 ||l235cj20z.com^
 ||l2qdfaq62o.com^
 ||l3j3glzp6g.com^
@@ -3495,6 +3501,7 @@
 ||mkff.cn^
 ||mkfjbitxzlhijfcenxej.top^
 ||mkguynd.com^
+||mks8vq5qfu.com^
 ||mkue.cn^
 ||mliyokonw.com^
 ||mlougq.icu^
@@ -3551,6 +3558,7 @@
 ||mstmsbz.com^
 ||mt1exxfnf.com^
 ||mtaitdupf.com^
+||mtgvrhc.com^
 ||mthonpga.com^
 ||mtiicw.icu^
 ||mtjaiko.com^
@@ -4808,6 +4816,7 @@
 ||trepanation07.top^
 ||trerqekuw.com^
 ||trgp7pddid.com^
+||triangle23.com^
 ||trigminp.com^
 ||trikahrta.com^
 ||tringrod.com^
@@ -5263,6 +5272,7 @@
 ||vwuudahnarh.com^
 ||vwvaddoet.com^
 ||vx2tbw9xin.com^
+||vxhpzrqgczxbzi.com^
 ||vxrdwo.cn^
 ||vxydbok.com^
 ||vyczp.cn^
@@ -5908,6 +5918,7 @@
 ||zfru.cn^
 ||zg.mmyuer.com^
 ||zgb6rg0r3h.com^
+||zgcuq93h5s.com^
 ||zgisp.net^
 ||zgm1.com^
 ||zgo8rgvuaf.com^
