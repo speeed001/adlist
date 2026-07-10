@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-07-09
-! 规则数量: 6047
+! TimeUpdated: 2026-07-10
+! 规则数量: 6061
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -13,6 +13,7 @@
 ||03in08p3r1.com^
 ||03t441b8w.com^
 ||0592.mobi^
+||063rpyn37z.com^
 ||06789.xyz^
 ||067oij53m.com^
 ||06cp8ypn8j.com^
@@ -210,6 +211,7 @@
 ||1tvg524vih.com^
 ||1u6hvoykk3.com^
 ||1ub29e88i.com^
+||1udy3nzsqx.com^
 ||1ujz59h62z.com^
 ||1uo9djbnsr.com^
 ||1urjtp1t6.com^
@@ -276,6 +278,7 @@
 ||2r2zhs64a7.com^
 ||2r69dkb1a.com^
 ||2top98spp.shop^
+||2u2wyftqmr.com^
 ||2vcb9onxjm.com^
 ||2wq9u06jq.com^
 ||2wqs6d2gp.com^
@@ -462,6 +465,7 @@
 ||5h3wnuhr8.com^
 ||5hdz1gnue.com^
 ||5hffr1p22j.com^
+||5ho41ueq7w.com^
 ||5hu7hee0pt.com^
 ||5ipifco2tf.com^
 ||5j45n3f6r.com^
@@ -1050,6 +1054,7 @@
 ||anhj4arn4.com^
 ||annulment10.top^
 ||anode67.top^
+||anwexda.com^
 ||ao2doihore.com^
 ||ao5yygeilh.com^
 ||aousjfw8z.com^
@@ -1780,6 +1785,7 @@
 ||dgfhjmd.com^
 ||dggenduprnyi.com^
 ||dgnqrl.icu^
+||dgrpeldt54.com^
 ||dgxjxeuzm.com^
 ||dh5t3pyb6r.com^
 ||dh8ypn3lq8.com^
@@ -1872,6 +1878,7 @@
 ||dqzooska.icu^
 ||dqzuroorrt.com^
 ||dr7dsx6u9.com^
+||drawknife37.top^
 ||dressing27.top^
 ||drgakaelgp.com^
 ||drmcmm.baidu.com^
@@ -2315,6 +2322,7 @@
 ||geranium35.top^
 ||germinate06.top^
 ||gexq.cn^
+||gez1mlp2xy.com^
 ||gf6axe5bdb.com^
 ||gfh9j4wyub.com^
 ||gfnulonelb.com^
@@ -2995,6 +3003,7 @@
 ||jigool.org^
 ||jikklfexh.com^
 ||jisk.cn^
+||jjl4eob8mm.com^
 ||jjnyzeck.icu^
 ||jjpe6btbb.com^
 ||jjpyaj214.com^
@@ -3097,6 +3106,7 @@
 ||k1.wanwenwan.cn^
 ||k1.wendahu.com^
 ||k1s3u1dtpc.com^
+||k5705bn39u.com^
 ||k5w06v2yzh.com^
 ||k69wes8q8.com^
 ||k6d.falang.net^
@@ -5554,6 +5564,7 @@
 ||xitongku.cc^
 ||xj63rov3m.com^
 ||xj8z427gxz.com^
+||xjh4uvv1ew.com^
 ||xjl2ts2q6a.com^
 ||xjoiteee8.com^
 ||xjwhad.com^
@@ -5577,6 +5588,7 @@
 ||xjx11281ts.com^
 ||xjx11290ts.com^
 ||xjx11291ts.com^
+||xkblzuz.com^
 ||xktoy8fub.com^
 ||xkum.cn^
 ||xkverkik38.com^
@@ -5867,6 +5879,7 @@
 ||zangraikri.com^
 ||zantainet.com^
 ||zathrilgiw.com^
+||zawra9izy3.com^
 ||zay7gs1xkl.com^
 ||zbfo.cn^
 ||zbgoyqs.xyz^
@@ -5913,6 +5926,7 @@
 ||zdh11061lo.com^
 ||zdh11070lo.com^
 ||zdh11071lo.com^
+||zdjcxtteffxrri.com^
 ||zdl4o6sp3.com^
 ||zeigraim.com^
 ||zepcdxyiqtxtbc.com^
