@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-07-10
-! 规则数量: 6061
+! TimeUpdated: 2026-07-11
+! 规则数量: 6071
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -1109,6 +1109,7 @@
 ||auy07210km.com^
 ||auy07211km.com^
 ||auy07240km.com^
+||auynumt.com^
 ||avh3nuhxm.com^
 ||avpr.cn^
 ||awcecrod.com^
@@ -1620,6 +1621,7 @@
 ||crinukpd.com^
 ||crirzaitai.com^
 ||crjitvekbx.com^
+||cro541bud.com^
 ||cruhliip.com^
 ||cruietoge.com^
 ||cruzietv.com^
@@ -1633,6 +1635,7 @@
 ||ctdv3faci.com^
 ||ctirhpp.com^
 ||ctsp4jao1.com^
+||cu9epqwr6.com^
 ||cubaobei.com^
 ||cukeonelo.com^
 ||cuqpi.cn^
@@ -1873,6 +1876,7 @@
 ||dpsusqs20.com^
 ||dpuhlinevz.com^
 ||dpxadf.icu^
+||dq827txpz.com^
 ||dqjrxj.icu^
 ||dqnajb.icu^
 ||dqzooska.icu^
@@ -2484,6 +2488,7 @@
 ||gpfwx.cn^
 ||gpkheq.icu^
 ||gqcrgyufg.com^
+||gqot4qlr9.com^
 ||gqwu.cn^
 ||gqxwfhe7o.com^
 ||graduate59.com^
@@ -2603,6 +2608,7 @@
 ||h8cjr6nhm.com^
 ||h9806gjhz.com^
 ||hades.qyer.com^
+||handsaw46.com^
 ||hanlinzhijia.net^
 ||hanzidnbn.com^
 ||haokoubei.top^
@@ -3402,6 +3408,7 @@
 ||m1jm3nzf2.com^
 ||m1vvvv1k2.com^
 ||m2.lelemh.com^
+||m292dfq9c.com^
 ||m2wrsmrsbj.com^
 ||m3cqjc3og6.com^
 ||m3ks1o8jz.com^
@@ -4427,6 +4434,7 @@
 ||rmkfmm.cn^
 ||rndmlk8asw.com^
 ||rnikvuneo.com^
+||rnrjpr8gc.com^
 ||rnvwzd0t9.com^
 ||rnxhdv.icu^
 ||rofnjd.icu^
@@ -5640,6 +5648,7 @@
 ||xsyhy.cn^
 ||xt1nx0rs7n.com^
 ||xt8esrr.com^
+||xtfxjlpglilrdo.com^
 ||xtg5gdugqi.com^
 ||xtxbemp.xyz^
 ||xu919zz2i.com^
@@ -5689,6 +5698,7 @@
 ||y18ut1kw22.com^
 ||y1ma8c054n.com^
 ||y2ej3xxfve.com^
+||y2o57pzzx.com^
 ||y2vorexg2u.com^
 ||y40milgijh.com^
 ||y4g8fgj6ra.com^
