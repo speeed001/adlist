@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-07-11
-! 规则数量: 6071
+! TimeUpdated: 2026-07-12
+! 规则数量: 6081
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -364,6 +364,7 @@
 ||41vtzzt0s.com^
 ||42vaywaovr.com^
 ||431kls9qsf.com^
+||43y3q8h5mz.com^
 ||444223564.xyz^
 ||44b2zlch5q.com^
 ||44ipavmq2n.com^
@@ -380,6 +381,7 @@
 ||4aqoxkesav.com^
 ||4bo5t8fzd.com^
 ||4br824ktty.com^
+||4c0wa2ml2f.com^
 ||4cxup4kp3c.com^
 ||4d45i6p0g.com^
 ||4d9f09z8c.com^
@@ -436,6 +438,7 @@
 ||55726zubo56686.com^
 ||557ma7bd9.com^
 ||558158.xyz^
+||56gwxudcy1.com^
 ||57573zubo36833.com^
 ||57l2ng6r91.com^
 ||57m2em0y.xyz^
@@ -636,6 +639,7 @@
 ||7usgqu07mk.com^
 ||7w7kditsz.com^
 ||7xi9g1.com1.z0.glb.clouddn.com^
+||7xkdyg9b8k.com^
 ||7xsf3h.com1.z0.glb.clouddn.com^
 ||7xx3jbcil.com^
 ||7y50wscnc8.com^
@@ -2232,6 +2236,7 @@
 ||free-cdn.oss-cn-shanghai.aliyuncs.com^
 ||freesia45.top^
 ||freshet40.top^
+||fretsaw55.top^
 ||frhi5v6ez1.com^
 ||frhopo.cn^
 ||frp8r3le9c.com^
@@ -3090,6 +3095,7 @@
 ||junior48.com^
 ||junpjmg96.com^
 ||juqk.cn^
+||juu5p55799.com^
 ||juzn.cn^
 ||jvqo1iiej.com^
 ||jwf8lxo7b.com^
@@ -3332,6 +3338,7 @@
 ||logarithm29.top^
 ||lohylfnkagnlzw.com^
 ||loleteal.com^
+||lomvmz5ze3.com^
 ||lonarzelq.com^
 ||love.furenkeji.com^
 ||lp340p7czf.com^
@@ -3638,6 +3645,7 @@
 ||n5725.com^
 ||n5a92p9zo.com^
 ||n6579.com^
+||n6al211kbp.com^
 ||n7181.com^
 ||n7fyrdeen.com^
 ||n8bpikx1mt.com^
@@ -5284,6 +5292,7 @@
 ||vvtpftuiqrbdha.com^
 ||vvv.ieduw.com^
 ||vvzjhzccndbhva.com^
+||vwbptvlcrlxzpo.com^
 ||vwe5pjt0jq.com^
 ||vwiy.cn^
 ||vwowvu9ha.com^
@@ -5499,6 +5508,7 @@
 ||x35ehot6mu.com^
 ||x3jhw0klp.com^
 ||x3lps9uuog.com^
+||x3p7c2tvda.com^
 ||x3pfkiohz.com^
 ||x42zfctilh.com^
 ||x43slxjwzx.com^
