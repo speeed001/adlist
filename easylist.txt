@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-07-15
-! 规则数量: 6120
+! TimeUpdated: 2026-07-16
+! 规则数量: 6138
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -498,6 +498,7 @@
 ||5vs7i3cuc.com^
 ||5vszw5ab2.com^
 ||5w31xv1a2.com^
+||5wt390pvwz.com^
 ||5wv0y42ub.com^
 ||5wzew9jht.com^
 ||5x17591y3b.com^
@@ -615,6 +616,7 @@
 ||7da1aovz6.com^
 ||7ddqvun8i1.com^
 ||7dgk5h1lk.com^
+||7eehi3vqy3.com^
 ||7g761j2nc.com^
 ||7ho8oc3svg.com^
 ||7imz0d5nay.com^
@@ -712,6 +714,7 @@
 ||8x14khzwmi.com^
 ||8x3wolchw.com^
 ||8x5vviy4r2.com^
+||8ya9li3d2g.com^
 ||8yd2rtikkz.com^
 ||8yo772d29.com^
 ||8yuwd5lpj.com^
@@ -1065,6 +1068,7 @@
 ||anhj4arn4.com^
 ||annulment10.top^
 ||anode67.top^
+||anqv97upx.com^
 ||anwexda.com^
 ||ao2doihore.com^
 ||ao5yygeilh.com^
@@ -1502,6 +1506,7 @@
 ||cbjs.baidu.com^
 ||cbo9vo98i.com^
 ||cboufsrelp.com^
+||cbqh4uqmzm.com^
 ||cc.8181zx.com^
 ||cc.xiaodapei.com^
 ||cc.xwscg.com^
@@ -1815,6 +1820,7 @@
 ||dialogue32.com^
 ||diameter94.com^
 ||diemniwm.com^
+||dilsnzgygszpla.com^
 ||dinatoikw.com^
 ||dingbu.bj.bcebos.com^
 ||diouidlf98.com^
@@ -2649,6 +2655,7 @@
 ||hcjwq.cn^
 ||hcl6pwowqv.com^
 ||hcp5dq18h.com^
+||hcyo99iyr.com^
 ||hczj7w56k.top^
 ||hdapp1003-a.akamaihd.net^
 ||hdapp1008-a.akamaihd.net^
@@ -2812,6 +2819,7 @@
 ||i6nnwepgm.com^
 ||i73u6dnnh.com^
 ||i7bqmgn87.com^
+||i7kawpnwhb.com^
 ||i7mfm1hl44.com^
 ||i7xkqmhjw.com^
 ||i90ptshd.top^
@@ -2953,6 +2961,7 @@
 ||iwqx.cn^
 ||ixog.cn^
 ||ixug0amgtn.com^
+||iy0keh7qj7.com^
 ||iyhaatedew.com^
 ||iyuedu.cn.com^
 ||izkgl35mq.com^
@@ -3193,6 +3202,7 @@
 ||kliy.cn^
 ||klljo2cp63.com^
 ||kls24qtvc.com^
+||klt2ojvew1.com^
 ||kltjbnfjmnh.com^
 ||kmcjai.icu^
 ||kmdjdu5cc.com^
@@ -3432,6 +3442,7 @@
 ||m2wrsmrsbj.com^
 ||m3cqjc3og6.com^
 ||m3ks1o8jz.com^
+||m3rsa3rnbm.com^
 ||m3v8x28jut.com^
 ||m43ocq1uoj.com^
 ||m485oq2gym.top^
@@ -3664,6 +3675,7 @@
 ||n7181.com^
 ||n7fyrdeen.com^
 ||n8bpikx1mt.com^
+||n8g1kvtmrf.com^
 ||n906n29tm.com^
 ||naarnurm.com^
 ||nahdlvqwqkzxby.com^
@@ -3783,6 +3795,7 @@
 ||nmg02g56z.com^
 ||nmlmmyerik.com^
 ||nneephon.com^
+||nnqc6d2kgn.com^
 ||nnuc.cn^
 ||nnvx.cn^
 ||norse.mingxiaow.com^
@@ -3890,6 +3903,7 @@
 ||odz12g5ag.com^
 ||oe8mnxdtoi.com^
 ||oe9s24wy9.com^
+||oeaznhm2wx.com^
 ||oekkuthy.com^
 ||oesnwi.icu^
 ||of384py2xt.com^
@@ -4328,6 +4342,7 @@
 ||quu175kt3.com^
 ||quudraidfg.com^
 ||qvdn.cn^
+||qvfvah7jyb.com^
 ||qw7fi6e194.com^
 ||qwnzzp50x.com^
 ||qwsbegovo.top^
@@ -4639,6 +4654,7 @@
 ||sourdine34.com^
 ||soy5c00zc.com^
 ||sp.dnqc.com^
+||spatula91.com^
 ||spcode.baidu.com^
 ||specialty75.com^
 ||spellbind33.com^
@@ -4712,6 +4728,7 @@
 ||swovtny444.com^
 ||swqerog.com^
 ||swqmuo.icu^
+||sx2sg2t5sd.com^
 ||sxq9xn7t3.com^
 ||sxzl6x4k9p.com^
 ||sycamore63.top^
@@ -4878,6 +4895,7 @@
 ||trmn.cn^
 ||trombone48.com^
 ||trouupjeu.com^
+||trowel03.com^
 ||truell55.top^
 ||trundrak.com^
 ||truunnoi.com^
