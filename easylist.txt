@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-07-16
-! 规则数量: 6138
+! TimeUpdated: 2026-07-17
+! 规则数量: 6148
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -174,6 +174,7 @@
 ||1gp3p6fkio.com^
 ||1gqd0o687z.com^
 ||1gvzhr49e.com^
+||1h90ydceq.com^
 ||1hcgomshd.com^
 ||1hhwyb4vl.com^
 ||1hmklj60i.com^
@@ -236,6 +237,7 @@
 ||223qu6jnqv.com^
 ||224oztn8dq.com^
 ||22eo9qlbpt.com^
+||22qcvn8hq.com^
 ||22svkcdbyp.com^
 ||22vie9ula.com^
 ||23.231.151.252^
@@ -700,6 +702,7 @@
 ||8khgnlxk6.com^
 ||8lmggang9.com^
 ||8lz3swf01q.com^
+||8o5v23yip.com^
 ||8oghu1wcau.com^
 ||8p14q886v2.com^
 ||8pbiddjtp.com^
@@ -874,6 +877,7 @@
 ||a4j126meg3.com^
 ||a4xvv2g18l.com^
 ||a51wzxssu.com^
+||a588g3q4t.com^
 ||a5wlr2yplf.com^
 ||a65vocvbfe.com^
 ||a6cfvavw1.xyz^
@@ -1324,6 +1328,7 @@
 ||blackhead35.com^
 ||blackthorn88.com^
 ||ble7orbnz.com^
+||blhkzjnamvlxxg.com^
 ||bloom331.top^
 ||bm.h576.com^
 ||bm3xyw6am.com^
@@ -3045,6 +3050,7 @@
 ||jkpzthxjt.com^
 ||jkwybt9hc.com^
 ||jldsfd.icu^
+||jm3uvitq0.com^
 ||jmjslz.icu^
 ||jnlenb.icu^
 ||jo9q3dhqf.com^
@@ -3223,6 +3229,7 @@
 ||kr1cbkoow.com^
 ||kreirkaer.com^
 ||krevn0cq4.com^
+||krhi1dc7m.com^
 ||krmxearc1.com^
 ||ksaef6idy.com^
 ||ksr6uu1mk.com^
@@ -3233,6 +3240,7 @@
 ||kvbh.cn^
 ||kvdxvqw.xyz^
 ||kve026cks7.com^
+||kvg2q75ps.com^
 ||kvhee.com^
 ||kvno4qgv8n.com^
 ||kvwssal.icu^
@@ -4184,6 +4192,7 @@
 ||psrfbr.icu^
 ||pstgaac.com^
 ||pswzggx.icu^
+||psxc6fapn.com^
 ||ptga.cn^
 ||pthaktierl.com^
 ||pthrumeath.com^
@@ -5615,6 +5624,7 @@
 ||xgzxpdy.com^
 ||xh04i9ine.com^
 ||xh33g.net^
+||xhckbgvd0.com^
 ||xhe87zexdk.com^
 ||xhgwho0fx.com^
 ||xhluphuewwlbnc.com^
