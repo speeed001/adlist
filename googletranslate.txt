@@ -1,3 +1,4 @@
 ||translate.googleapis.com^$dnsrewrite=183.56.143.147
 ||translate.google.com^$dnsrewrite=183.56.143.147
 ||translate-pa.googleapis.com^$dnsrewrite=183.56.143.147
+||jnn-pa.googleapis.com^$dnsrewrite=183.56.143.147
