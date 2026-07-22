@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-07-21
-! 规则数量: 5776
+! TimeUpdated: 2026-07-22
+! 规则数量: 5785
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -42,6 +42,7 @@
 ||0iem8mw1lx.com^
 ||0ihw4ipvm5.com^
 ||0jghm60qg.com^
+||0kplffrs42.com^
 ||0l34c7sqy.com^
 ||0l7t5qhb4.com^
 ||0m9mjmrd.top^
@@ -637,6 +638,7 @@
 ||828guvngj1.com^
 ||82e9ac3c1.com^
 ||84dwl4bbq.com^
+||84v3xysu80.com^
 ||85270jylmzsym.top^
 ||86aocbvvsh.com^
 ||874547.men^
@@ -1769,6 +1771,7 @@
 ||dialogue32.com^
 ||diameter94.com^
 ||diemniwm.com^
+||diestock56.top^
 ||dilsnzgygszpla.com^
 ||dinatoikw.com^
 ||dingbu.bj.bcebos.com^
@@ -2003,6 +2006,7 @@
 ||euuh.cn^
 ||evidence20.com^
 ||evpxl9a8h.com^
+||evrmwlh0dl.com^
 ||ewbaenkiu.com^
 ||ewekeoqn.com^
 ||ewrrpuquc1.com^
@@ -3674,6 +3678,7 @@
 ||o40d17vln.com^
 ||o5y2zd1lq8.com^
 ||o6oxvugdl.com^
+||o8agbq0qwm.com^
 ||o8u3n4q7fe.com^
 ||o9qdqbu6nu.com^
 ||oa83fs5udz.com^
@@ -3826,6 +3831,7 @@
 ||pb.shuxigua.com^
 ||pb1b7cqwvs.com^
 ||pblwxn.icu^
+||pbo8y8igrp.com^
 ||pbuuzazvrw.com^
 ||pbwlwdzje.com^
 ||pc-util.gamersky.com^
@@ -5269,6 +5275,7 @@
 ||xekrbwex7d.com^
 ||xenlzn.icu^
 ||xfdlfj.icu^
+||xfjy2fh28b.com^
 ||xfxtqjg.com^
 ||xgilfhwxre.com^
 ||xgsspao.com^
@@ -5513,6 +5520,7 @@
 ||yr2spd4ucy.com^
 ||yrgsqi0zc.com^
 ||yrnv.cn^
+||yrwks6l3cy.com^
 ||ys2000.cdn.bcebos.com^
 ||ysdm*.ys137.com.cn^
 ||ysuy.cn^
@@ -5595,6 +5603,7 @@
 ||zantainet.com^
 ||zathrilgiw.com^
 ||zawra9izy3.com^
+||zaxffxesykzvfs.com^
 ||zay7gs1xkl.com^
 ||zbgoyqs.xyz^
 ||zbl40hvzzy.com^
