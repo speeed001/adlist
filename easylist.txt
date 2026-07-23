@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-07-22
-! 规则数量: 5785
+! TimeUpdated: 2026-07-23
+! 规则数量: 5797
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -1016,6 +1016,7 @@
 ||ak7ko01zs.com^
 ||akcuqkr.com^
 ||akhirzaea.com^
+||akuohvb4u.com^
 ||al.newxue.com^
 ||al1n6v56m.com^
 ||alcoholic56.top^
@@ -1290,6 +1291,7 @@
 ||ble7orbnz.com^
 ||blhkzjnamvlxxg.com^
 ||bloom331.top^
+||blowlamp65.com^
 ||bm.h576.com^
 ||bm3xyw6am.com^
 ||bm6c3pthv.com^
@@ -2007,6 +2009,7 @@
 ||evidence20.com^
 ||evpxl9a8h.com^
 ||evrmwlh0dl.com^
+||evycvuy.icu^
 ||ewbaenkiu.com^
 ||ewekeoqn.com^
 ||ewrrpuquc1.com^
@@ -2075,6 +2078,7 @@
 ||fdfghgfdd.yunqishi.net^
 ||fdi1rg6ihs.com^
 ||fdk6z2l7jt.com^
+||fdtarpaueilvrs.com^
 ||fe4c0422j.com^
 ||feeceeyf.com^
 ||fet20kdo93.com^
@@ -2191,6 +2195,7 @@
 ||fvk6k2jrdu.com^
 ||fwbdfg5n6.com^
 ||fwjtfo8f4z.com^
+||fwujkh7jw.com^
 ||fwvzx907rr.com^
 ||fx455rrt4b.com^
 ||fx8rurzhbf.com^
@@ -2404,6 +2409,7 @@
 ||goqix4lm5.com^
 ||gotadd.cn^
 ||goto.www.iciba.com^
+||gownbea.icu^
 ||gp.jstv.com^
 ||gp.zaiyunli.cn^
 ||gpfwx.cn^
@@ -2795,6 +2801,7 @@
 ||ir3f1x3aet.com^
 ||iremnazae.com^
 ||irp37bmmt.com^
+||irq0ql8or.com^
 ||irr7idq6i.com^
 ||iry7addri8.com^
 ||is16yobjh7.com^
@@ -2994,6 +3001,7 @@
 ||k1.wanwenwan.cn^
 ||k1.wendahu.com^
 ||k1s3u1dtpc.com^
+||k2bividyt.com^
 ||k5705bn39u.com^
 ||k5qdqwgjit.com^
 ||k5w06v2yzh.com^
@@ -3643,6 +3651,7 @@
 ||nxkyiwh.com^
 ||nxu3l4c8u.com^
 ||nxwm44neo.com^
+||nxydz27pj.com^
 ||ny2oqsu7et.com^
 ||ny70zesy5v.com^
 ||nyokruzoir.com^
@@ -4980,6 +4989,7 @@
 ||vpw1lig85.com^
 ||vpx4fmj4z6.com^
 ||vpxyw6rbv3.com^
+||vpy105341.com^
 ||vpydjogaytpg.xyz^
 ||vqbmxyzda.icu^
 ||vqbrbb.icu^
@@ -5601,6 +5611,7 @@
 ||zamiasfinable.com^
 ||zangraikri.com^
 ||zantainet.com^
+||zas4hfcxr.com^
 ||zathrilgiw.com^
 ||zawra9izy3.com^
 ||zaxffxesykzvfs.com^
@@ -5735,6 +5746,7 @@
 ||zrosq6dsha.com^
 ||zrz0c0sh7e.com^
 ||zrzgsdocqm.com^
+||zsi24utdu.com^
 ||zsjxwj.com^
 ||zsy10161yok.com^
 ||zsy10170yok.com^
