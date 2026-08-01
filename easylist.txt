@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-07-31
-! 规则数量: 5880
+! TimeUpdated: 2026-08-01
+! 规则数量: 5891
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -860,6 +860,7 @@
 ||a1.tuke8.com^
 ||a1.twtym.com^
 ||a1.zhanzhang.net^
+||a1ajfrk4i.com^
 ||a2.xinhuanet.com^
 ||a2424xe80.com^
 ||a2pfs5k90i.com^
@@ -881,6 +882,7 @@
 ||aa.xiangxiangmf.com^
 ||aa2hzrmu9.com^
 ||aa3zx8wko.top^
+||aa4jq9non.com^
 ||aa52jm08ly.com^
 ||aa7hzjsow.com^
 ||aaa.tumanyi.com^
@@ -2680,6 +2682,7 @@
 ||hqluu46i3a.com^
 ||hqo0k12qs.com^
 ||hqvkbn.icu^
+||hqvldtiayuvrho.com^
 ||hqvrvageaf.com^
 ||hriy.cn^
 ||hrxphjcj.icu^
@@ -3158,12 +3161,14 @@
 ||kzi6mbwbk.com^
 ||kzki21j8f6.com^
 ||kzw8q8wlms.com^
+||kzxk7xixz.com^
 ||l1bj5pxqzk.com^
 ||l1owmrzjdw.com^
 ||l1y267efmn.com^
 ||l2qdfaq62o.com^
 ||l3j3glzp6g.com^
 ||l4otxc.com^
+||l5pv793tm.com^
 ||l6906qxga.com^
 ||l6h17ybxe.com^
 ||l9moubljmc.com^
@@ -3271,6 +3276,7 @@
 ||lpaitrekoe.com^
 ||lpalartra.com^
 ||lparnaro.com^
+||lpdm1k14h.com^
 ||lpuqhego.com^
 ||lpxyrjholunvdk.com^
 ||lqbe7i5gf.com^
@@ -3976,6 +3982,7 @@
 ||plsec7wll8.com^
 ||pmqhelkean.com^
 ||pn9f3utrxu.com^
+||pnpq9y4te.com^
 ||po18ad.com^
 ||po3x411qe3.com^
 ||podcxz.icu^
@@ -4507,6 +4514,7 @@
 ||suitcase890.top^
 ||summerwm1.com^
 ||summit87.com^
+||sunblock65.com^
 ||sunflower27.com^
 ||sunglasse2.top^
 ||super.cat898.com^
@@ -4696,6 +4704,7 @@
 ||tsaor7o1e9.com^
 ||tsdtvcx579.com^
 ||tshmhp.icu^
+||tsjt0k8wa.com^
 ||tslkd9ygnh.com^
 ||tsuh.cn^
 ||tt.biquge.la^
@@ -5608,6 +5617,7 @@
 ||yqwueei.icu^
 ||yr-names.click^
 ||yr2spd4ucy.com^
+||yr7unl1qs.com^
 ||yrgsqi0zc.com^
 ||yrnv.cn^
 ||yrwks6l3cy.com^
@@ -5655,6 +5665,7 @@
 ||yylady.cn^
 ||yymowvdy0.com^
 ||yyqozaldwa.com^
+||yyrodzxm5.com^
 ||yyutfzv.com^
 ||yzhcp6cw1.com^
 ||z.grfyw.com^
