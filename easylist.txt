@@ -1,5 +1,5 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-08-07
+! TimeUpdated: 2026-08-08
 ! 规则数量: 5922
 ! Description: easylistchina精简
 
