@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-08-08
-! 规则数量: 5922
+! TimeUpdated: 2026-08-09
+! 规则数量: 5924
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -598,6 +598,7 @@
 ||77v6jk9itk.com^
 ||77zdmt8yq.com^
 ||79181531227.com^
+||7996epzfh.com^
 ||79n4cubmu8.com^
 ||79ssr9d244.com^
 ||7asx1bxaw.com^
@@ -2874,6 +2875,7 @@
 ||isthmus72.com^
 ||it3c4jmx.xyz^
 ||itcj.cn^
+||itm1yqknq.com^
 ||itmhqk.icu^
 ||itqseeh.icu^
 ||itqyik.icu^
