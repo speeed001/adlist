@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-08-09
-! 规则数量: 5924
+! TimeUpdated: 2026-08-10
+! 规则数量: 5935
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -12,6 +12,7 @@
 ||03in08p3r1.com^
 ||03mhpavj25.com^
 ||03t441b8w.com^
+||049bv1hdzn.com^
 ||0592.mobi^
 ||063rpyn37z.com^
 ||06789.xyz^
@@ -534,6 +535,7 @@
 ||6cjdya3djn.com^
 ||6cmxoje5k.com^
 ||6ejvq6ykg2.com^
+||6ez760nwf0.com^
 ||6f42v90nz.com^
 ||6fm4dcpj31.com^
 ||6ggstcmglf.com^
@@ -2076,6 +2078,7 @@
 ||eyiyoxz.xyz^
 ||eyp7uowejx.com^
 ||eyzerannl.com^
+||ezcl19vy10.com^
 ||ezd6n7n4m7.com^
 ||eztravude.com^
 ||f0zvx9koy3.com^
@@ -2133,6 +2136,7 @@
 ||fe4c0422j.com^
 ||feeceeyf.com^
 ||fet20kdo93.com^
+||fevgdluuiqjflm.com^
 ||ff.meikanguo.com^
 ||ff.psd8.com^
 ||ff.qichetansuo.com^
@@ -2604,6 +2608,7 @@
 ||hazardous58.top^
 ||hbcjdwm.com^
 ||hbfpml.cn^
+||hbiaz6xxya.com^
 ||hc1kycrud.com^
 ||hcf5yqdq3.com^
 ||hcirentgh.360doc.cn^
@@ -4019,6 +4024,7 @@
 ||pppteennal.com^
 ||ppxqhx.icu^
 ||pqhtjn.icu^
+||pqruoaz4co.com^
 ||praairfo.com^
 ||practitioner23.com^
 ||prankubg.com^
@@ -4166,6 +4172,7 @@
 ||qmoqruden.com^
 ||qneb.cn^
 ||qnpy8bumnc.com^
+||qnw0cru1i5.com^
 ||qnywjs.buzz^
 ||qnywphp.forum^
 ||qnywsrc.buzz^
@@ -4205,6 +4212,7 @@
 ||qykezpy.xyz^
 ||qypaizhuo.com^
 ||qyplvnzcm1.com^
+||qyxiangr.com^
 ||qyxrwl.com^
 ||qyyvoquib.com^
 ||qzgn652dp.com^
@@ -4752,6 +4760,7 @@
 ||tu4038097360.cc^
 ||tu6767109513.cc^
 ||tupian888.*.bcebos.com^
+||tupmsen.com^
 ||turcailnt.com^
 ||tux76afo5.com^
 ||tvfvxr.icu^
@@ -5166,6 +5175,7 @@
 ||w1irjtvdt4.com^
 ||w2j4kdjma.com^
 ||w2q5p09n8.com^
+||w2qyyljk71.com^
 ||w3.ting55.com^
 ||w3019cdt.top^
 ||w3cfba6ufr.com^
@@ -5369,6 +5379,7 @@
 ||xbxfdn.icu^
 ||xc.macd.cn^
 ||xc.mydrivers.com^
+||xc5r5huxrr.com^
 ||xcf-bd-js.chuimg.com^
 ||xciryzdnl.com^
 ||xcnfzp.icu^
