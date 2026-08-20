@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-08-19
-! 规则数量: 6051
+! TimeUpdated: 2026-08-20
+! 规则数量: 6060
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -29,6 +29,7 @@
 ||0aokpbwui.com^
 ||0b6rvr210q.com^
 ||0bb8jytek.com^
+||0c484j022z.com^
 ||0d1oo8jp69.com^
 ||0dy3evz6x.com^
 ||0e1y8x7ft.com^
@@ -162,6 +163,7 @@
 ||194.59.220.161^
 ||1999019.com^
 ||19dkfu1wg.com^
+||1aa0yygqst.com^
 ||1adi9wenq.com^
 ||1bsb5sic0.com^
 ||1buu1.penyouw.com^
@@ -347,6 +349,7 @@
 ||3llzzztmz.com^
 ||3lxk4afsb.com^
 ||3nopvvhju5.com^
+||3o6a7kbcwo.com^
 ||3p8801.co^
 ||3pf2kwmc3g.com^
 ||3pzqcv5hc5.com^
@@ -1096,6 +1099,7 @@
 ||anwexda.com^
 ||ao2doihore.com^
 ||ao5yygeilh.com^
+||aopytfhhfc.com^
 ||aousjfw8z.com^
 ||aovk.cn^
 ||apis301.com^
@@ -1163,6 +1167,7 @@
 ||ayodanuauw.com^
 ||ayparnarzt.com^
 ||ayqwjhh4cn.com^
+||aytgk8rfu4.com^
 ||azb6ljd22.com^
 ||aztwrmsgn4.com^
 ||azu0jytzgm.com^
@@ -1620,6 +1625,7 @@
 ||clo41zgrs.com^
 ||cm.baidu.com^
 ||cm30oc1du.com^
+||cme8k7fuwy.com^
 ||cmesgpqq8z.com^
 ||cmm.xmfish.com^
 ||cn.bidushe.com^
@@ -4163,6 +4169,7 @@
 ||pwaihoe.icu^
 ||pwk73hidf2.com^
 ||pwvlthpqzonnfe.com^
+||pwzrfznosfblpi.com^
 ||px017w0r62.com^
 ||px02mouzas.com^
 ||pxdb08b82.com^
@@ -4822,6 +4829,7 @@
 ||treatment11.top^
 ||trepanation07.top^
 ||trerqekuw.com^
+||trestle59.com^
 ||trgp7pddid.com^
 ||triangle23.com^
 ||trigminp.com^
@@ -5491,6 +5499,7 @@
 ||xc5r5huxrr.com^
 ||xcf-bd-js.chuimg.com^
 ||xciryzdnl.com^
+||xclikgrueb.com^
 ||xcnfzp.icu^
 ||xdhrvr.icu^
 ||xdlipr.icu^
