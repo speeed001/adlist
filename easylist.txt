@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-08-20
-! 规则数量: 6060
+! TimeUpdated: 2026-08-21
+! 规则数量: 6069
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -509,6 +509,7 @@
 ||5u3tzh6tc.com^
 ||5u6ku3n9k.com^
 ||5u8mjz9tx0.com^
+||5uzpwjwkb.com^
 ||5v19ql3xi1.com^
 ||5vs7i3cuc.com^
 ||5vszw5ab2.com^
@@ -1858,6 +1859,7 @@
 ||dhduc.com^
 ||dheblxw.com^
 ||dhfshdmuvezfhm.com^
+||dhgyq2twp.com^
 ||dhl.135320.com^
 ||dhrbpvqqoovnxm.com^
 ||dialogue32.com^
@@ -2776,6 +2778,7 @@
 ||hqvrvageaf.com^
 ||hrhojxbkc2.com^
 ||hriy.cn^
+||hrro55g56.com^
 ||hrxphjcj.icu^
 ||hrxwfp.icu^
 ||hsjnnr.icu^
@@ -3650,6 +3653,7 @@
 ||n2bqyqg5u3.com^
 ||n2d79v41a3.com^
 ||n2ivsbik2.com^
+||n2m8u4ae9.com^
 ||n2xj2mxg3z.com^
 ||n3567.com^
 ||n4d3ev3m1.com^
@@ -3853,6 +3857,7 @@
 ||nzl10041oa.com^
 ||nzlelmarw.com^
 ||nzrdfrlsfrznrk.com^
+||nzvmpjjkpinlbi.com^
 ||o.027eat.com^
 ||o.jy135.com^
 ||o.phb123.com^
@@ -4698,6 +4703,7 @@
 ||t2q0gv7zjg.com^
 ||t4s8t6p39.com^
 ||t57u6anx2.com^
+||t5a64j1v4.com^
 ||t5gp7rzz4.com^
 ||t6ec3seyq.com^
 ||t7fv5mjt8i.com^
@@ -4793,6 +4799,7 @@
 ||tkll12171nb.com^
 ||tkll12181nb.com^
 ||tkpenntaispfdm.com^
+||tkvfayv59.com^
 ||tl9q49ffi.com^
 ||tlgivardfp.com^
 ||tljsxt.icu^
@@ -4840,6 +4847,7 @@
 ||trombone48.com^
 ||trouupjeu.com^
 ||trowel03.com^
+||trowel67.com^
 ||trundrak.com^
 ||truunnoi.com^
 ||trvsdlckg.icu^
@@ -5473,6 +5481,7 @@
 ||x0lkimaixh.com^
 ||x1.52aoteman.com^
 ||x1cz6f8gb.com^
+||x2nq9qb4p.com^
 ||x35ehot6mu.com^
 ||x3jhw0klp.com^
 ||x3lps9uuog.com^
