@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-08-24
-! 规则数量: 5818
+! TimeUpdated: 2026-08-25
+! 规则数量: 5831
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -269,6 +269,7 @@
 ||2ld8mx979a.com^
 ||2lj9n8sz0w.com^
 ||2lpwji3xr.com^
+||2nbg86d2x.com^
 ||2nl6sgd9c.com^
 ||2nvd5j7iv0.com^
 ||2omfz9ygz2.com^
@@ -346,6 +347,7 @@
 ||3q9j4w2r9d.com^
 ||3qtdjf4830.com^
 ||3qx0pnhyzi.com^
+||3rs337ci4.com^
 ||3s7m2ss7g.com^
 ||3sd6w6oga9.com^
 ||3sqvexc60y.com^
@@ -530,6 +532,7 @@
 ||6820tp1.com^
 ||68287zubo85737.com^
 ||68b1hx8ej.com^
+||68pzwbugo.com^
 ||68td4yete.com^
 ||68tkaiaji.com^
 ||6acupxubky.com^
@@ -762,6 +765,7 @@
 ||9dl3w12u5.com^
 ||9e0917xf7x.com^
 ||9ep0z3su1e.com^
+||9eys3zjja.com^
 ||9f0usaep8c.com^
 ||9fcoh811c.com^
 ||9fum.ifeng.com^
@@ -2036,6 +2040,7 @@
 ||etff5y04k.com^
 ||etjkljs.beauty^
 ||etqu.cn^
+||eutrnfnm.com^
 ||euuh.cn^
 ||evidence20.com^
 ||evpxl9a8h.com^
@@ -2241,6 +2246,7 @@
 ||g.hsw.cn^
 ||g.lznews.cn^
 ||g.mnw.cn^
+||g0e7184ro.com^
 ||g1.pptair.com^
 ||g1.tagtic.cn^
 ||g1.taijuba.com^
@@ -2582,6 +2588,7 @@
 ||hdsrc-a.akamaihd.net^
 ||hdtu.oss-cn-beijing.aliyuncs.com^
 ||he3tf77ow.com^
+||he4j6lz6d.com^
 ||heartstring66.com^
 ||hebaidu.cc^
 ||hecwgmokvc.com^
@@ -2652,6 +2659,7 @@
 ||hoznpn.icu^
 ||hpfkvr.icu^
 ||hpflxxdwnbvpda.com^
+||hqeiwwnkce.icu^
 ||hqfhspz.com^
 ||hqo0k12qs.com^
 ||hqvldtiayuvrho.com^
@@ -2783,6 +2791,7 @@
 ||incapacity75.top^
 ||inception27.com^
 ||incubation95.top^
+||infamouscomer.com^
 ||information43.com^
 ||innveu2ji6.com^
 ||ino4637d0.com^
@@ -3150,6 +3159,7 @@
 ||lcugzodfdo.com^
 ||ldbwxo.cn^
 ||lddvxfmswnnxny.com^
+||ldyqwzfmd.com^
 ||le4le.com^
 ||leabd.douguo.com^
 ||leektiylpi.com^
@@ -3668,6 +3678,7 @@
 ||nxydz27pj.com^
 ||ny2oqsu7et.com^
 ||ny70zesy5v.com^
+||nyfmjnegeupjxu.com^
 ||nyokruzoir.com^
 ||nyv388w6lc.com^
 ||nyzrbx.icu^
@@ -3773,6 +3784,7 @@
 ||operetta17.com^
 ||opev2lhm7h.com^
 ||opg4g472vl.com^
+||opposite33.com^
 ||opposite36.top^
 ||opzphurkro.com^
 ||oqcw1f9yw.com^
@@ -3923,6 +3935,7 @@
 ||plsec7wll8.com^
 ||pmqhelkean.com^
 ||pn9f3utrxu.com^
+||pnlx1ofua.com^
 ||pnpq9y4te.com^
 ||po3x411qe3.com^
 ||podcxz.icu^
