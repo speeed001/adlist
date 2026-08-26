@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-08-25
-! 规则数量: 5831
+! TimeUpdated: 2026-08-26
+! 规则数量: 5840
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -337,6 +337,7 @@
 ||3iulae112b.com^
 ||3j4vjpx7k.com^
 ||3k2frl8r79.com^
+||3lbqpzrlmz.com^
 ||3llzzztmz.com^
 ||3lxk4afsb.com^
 ||3nopvvhju5.com^
@@ -1831,7 +1832,6 @@
 ||dlkfhlkjoirfgn.com^
 ||dlkliqrxt2.com^
 ||dlsybe78o0.com^
-||dm.17xuexiba.com^
 ||dm.21hubei.com^
 ||dm.51okc.com^
 ||dm.66qw.net^
@@ -2204,6 +2204,7 @@
 ||fretsaw55.top^
 ||frhi5v6ez1.com^
 ||frp8r3le9c.com^
+||frustum47.top^
 ||frustum77.top^
 ||frzlftr9y.com^
 ||fsmnmorgb.com^
@@ -2613,6 +2614,7 @@
 ||hi2pv3e9pr.com^
 ||hi407ezyz.com^
 ||hi4c61mi8d.com^
+||hi6uqvisz9.com^
 ||hiad.myweb.hinet.net^
 ||hiad.vmall.com^
 ||hibiscus76.com^
@@ -3233,6 +3235,7 @@
 ||lnme1q1qa.com^
 ||lo2xxp73v7.com^
 ||lo42y56tmy.com^
+||lobhvxlikxbjju.com^
 ||lodipq3zb.com^
 ||logarithm29.top^
 ||lohylfnkagnlzw.com^
@@ -4098,6 +4101,7 @@
 ||qmeqraen.com^
 ||qmj89db55u.com^
 ||qmoqruden.com^
+||qmtrnqp900.com^
 ||qneb.cn^
 ||qnpy8bumnc.com^
 ||qnw0cru1i5.com^
@@ -4263,6 +4267,7 @@
 ||roywc0iql.com^
 ||rp9zb27jn1.com^
 ||rphwjxzekcbzxu.com^
+||rpjjpm.site^
 ||rpox.cn^
 ||rpvkpz.icu^
 ||rrpaafci9i.com^
@@ -4892,6 +4897,7 @@
 ||uyfv.cn^
 ||uz7w7bm4ns.com^
 ||uzrtgekpw.com^
+||uzt7ud70j1.com^
 ||uzurliev.com^
 ||v0su9ogte.com^
 ||v1.19purify.com^
@@ -5221,6 +5227,7 @@
 ||wrestle22.top^
 ||wrlhhgeyh.com^
 ||ws.wenshenxiu.com^
+||ws9jdpz802.com^
 ||wsnxw6ihs.com^
 ||wthizudgdg.com^
 ||wthrarner.com^
@@ -5275,6 +5282,7 @@
 ||x4hu95mh0t.com^
 ||x6d93mku0.com^
 ||x6u6kw4sg.com^
+||x7qhjjryf1.com^
 ||x7weiubb2f.com^
 ||x8wyxfxul.com^
 ||x94pjnejo.com^
@@ -5726,6 +5734,7 @@
 ||zisu.cn.com^
 ||zither89.com^
 ||ziwl05nrf1.com^
+||zj5mqsb06x.com^
 ||zj7coeb5i.com^
 ||zjflf9epfe.com^
 ||zjjfmf9m3q.com^
