@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
 ! TimeUpdated: 2026-08-29
-! 规则数量: 5868
+! 规则数量: 5875
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -59,6 +59,7 @@
 ||0sg1gx04is.com^
 ||0tc1bdbgsm.com^
 ||0tkwnl1cw.com^
+||0u9w05cxo.com^
 ||0v0qj9fnwf.top^
 ||0vllsf2g2.com^
 ||0wk6gdkg8r.com^
@@ -332,6 +333,7 @@
 ||3hg6yh6h0.com^
 ||3hrv7yijx.com^
 ||3hx1ui2vt.com^
+||3i22axdek.com^
 ||3i3w8hl6do.com^
 ||3ikcnjvsx.com^
 ||3is34bpqs4.com^
@@ -777,6 +779,7 @@
 ||9gau3j8x7.com^
 ||9ge9rc85r.com^
 ||9h3s1ew2qn.com^
+||9h4lchgwh.com^
 ||9i5x05ovp7.com^
 ||9j9gc694o4.com^
 ||9jk7puqza.com^
@@ -1429,6 +1432,7 @@
 ||by.dyq.cn^
 ||by2lc7429r.com^
 ||byirzeamuu.com^
+||byjhazenf.com^
 ||byspvudwx.com^
 ||bytytxkz.icu^
 ||byuh78fy2m.com^
@@ -2281,6 +2285,7 @@
 ||gb0143odqh.com^
 ||gb3scpejq.com^
 ||gbiltuj8w.com^
+||gcgcvbr52.com^
 ||gchk5bcnaz.com^
 ||gcjg3ry7m.com^
 ||gcw*.2liang.cn^
@@ -3313,6 +3318,7 @@
 ||lyo1dkdbp.com^
 ||lyz.radio366.com^
 ||lzdjxp.icu^
+||lzu1ocasf.com^
 ||m.aty.sohu.com^
 ||m1.27com.com^
 ||m1.51kaowang.com^
@@ -5159,6 +5165,7 @@
 ||w766ewvx75.com^
 ||w7gx7y9wk.com^
 ||w97nv5ibv4.com^
+||w9cvyte89.com^
 ||w9p70nort.com^
 ||wa9dald544.com^
 ||wacogzaeip.com^
