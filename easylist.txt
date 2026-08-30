@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-08-29
-! 规则数量: 5875
+! TimeUpdated: 2026-08-30
+! 规则数量: 5888
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -317,6 +317,7 @@
 ||35lnvz97cg.com^
 ||35wo96wkjs.com^
 ||360640.com^
+||36frocopxp.com^
 ||37lwjdaua.com^
 ||37nu0riwfd.com^
 ||37shrmvlju.com^
@@ -447,6 +448,7 @@
 ||557ma7bd9.com^
 ||558158.xyz^
 ||56gwxudcy1.com^
+||56l9o1j3lk.com^
 ||56wj96l0x.com^
 ||57573zubo36833.com^
 ||57l2ng6r91.com^
@@ -724,6 +726,7 @@
 ||8tbllquzr6.com^
 ||8uuxq3tvn.com^
 ||8w6hovz0d2.com^
+||8w76hjp1vd.com^
 ||8wvb8xoqgq.com^
 ||8x14khzwmi.com^
 ||8x5vviy4r2.com^
@@ -1184,6 +1187,7 @@
 ||basically97.top^
 ||bastion1.top^
 ||bauddoih.com^
+||bb2k0pq1vf.com^
 ||bbepv.com^
 ||bbqy4ihvz9.com^
 ||bbrav96ax.com^
@@ -1605,6 +1609,7 @@
 ||contagion77.com^
 ||contemplate23.top^
 ||contrive73.top^
+||convergent16.top^
 ||conyz.cn^
 ||cosiskkm.com^
 ||coywadlw9r.com^
@@ -2079,6 +2084,7 @@
 ||ezcl19vy10.com^
 ||ezd6n7n4m7.com^
 ||eztravude.com^
+||f0cmqjk.com^
 ||f0zvx9koy3.com^
 ||f1.06ps.com^
 ||f1.ichong123.com^
@@ -2147,6 +2153,7 @@
 ||fhgaikrolq.com^
 ||fhnahnad.com^
 ||fhovoldaw.com^
+||fi0e0xtinp.com^
 ||fidruqwny.com^
 ||fih3r.com^
 ||fijipic.xyz^
@@ -2749,6 +2756,7 @@
 ||iadsvbox2.com^
 ||iap2e750o.com^
 ||iauw.cn^
+||ib5s02kbxy.com^
 ||ibjsaz5v4.com^
 ||ibns3ibgf.com^
 ||ibqh.cn^
@@ -2890,6 +2898,7 @@
 ||j5sgdum5n4.com^
 ||j694fx3bp.com^
 ||j6gi9jgjpb.com^
+||j7kuo30qtn.com^
 ||j7kv55pr70.com^
 ||j85izots6.com^
 ||j8n60aooj.com^
@@ -3315,6 +3324,7 @@
 ||lyfdrh.icu^
 ||lyjq9gwob.com^
 ||lyk35otqfm.com^
+||lymxj.com^
 ||lyo1dkdbp.com^
 ||lyz.radio366.com^
 ||lzdjxp.icu^
@@ -3812,6 +3822,7 @@
 ||operetta17.com^
 ||opev2lhm7h.com^
 ||opg4g472vl.com^
+||opinicl.com^
 ||opposite33.com^
 ||opposite36.top^
 ||opzphurkro.com^
@@ -4669,6 +4680,7 @@
 ||tp4d21qek.com^
 ||tphurqalq.com^
 ||tpjhxbwkvjjvtq.com^
+||tqbjevhkgw.icu^
 ||tqub.cn^
 ||trammel46.top^
 ||trammel74.top^
@@ -4836,6 +4848,7 @@
 ||ufxs.cn^
 ||ug4x1tagz.com^
 ||ug54oqjpqq.com^
+||ug6zg26aq8.com^
 ||ugheqrikui.com^
 ||ugox.cn^
 ||uhek.cn^
