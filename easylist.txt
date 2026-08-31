@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-08-30
-! 规则数量: 5888
+! TimeUpdated: 2026-08-31
+! 规则数量: 5897
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -380,6 +380,7 @@
 ||46q8oxohlt.com^
 ||46y7erj0mw.com^
 ||47c7zhqak.com^
+||480ipil.com^
 ||48dswtxkw.com^
 ||48r3l2u5l2.com^
 ||49dlt9myv.com^
@@ -1636,6 +1637,7 @@
 ||crirzaitai.com^
 ||crjitvekbx.com^
 ||cro541bud.com^
+||crossbar13.com^
 ||cruhliip.com^
 ||cruietoge.com^
 ||crusher28.com^
@@ -2244,6 +2246,7 @@
 ||fvk6k2jrdu.com^
 ||fwbdfg5n6.com^
 ||fwjtfo8f4z.com^
+||fwlkokvvkx.icu^
 ||fwslpa9ks.com^
 ||fwujkh7jw.com^
 ||fwvzx907rr.com^
@@ -3139,6 +3142,7 @@
 ||ksr6uu1mk.com^
 ||kthul22k2z.com^
 ||ktlztpx8f.com^
+||ku8d1fla8.com^
 ||kukanmanhua.cyou^
 ||kumphurwyr.com^
 ||kvdxvqw.xyz^
@@ -3329,6 +3333,7 @@
 ||lyz.radio366.com^
 ||lzdjxp.icu^
 ||lzu1ocasf.com^
+||lzwdh6iwo.com^
 ||m.aty.sohu.com^
 ||m1.27com.com^
 ||m1.51kaowang.com^
@@ -4193,6 +4198,7 @@
 ||r0eybo511.com^
 ||r0hpdbkqs.com^
 ||r1jprcr42.com^
+||r27y52dd7.com^
 ||r40xff8q48.com^
 ||r4uj20yt2u.com^
 ||r4uws5iu3g.com^
@@ -4234,6 +4240,7 @@
 ||rectangular18.com^
 ||redtvxjmgjbtlw.com^
 ||reflection67.top^
+||refraction55.com^
 ||register04.top^
 ||registration09.top^
 ||rehearsal55.top^
@@ -4465,6 +4472,7 @@
 ||sourdine34.com^
 ||soy5c00zc.com^
 ||sp.dnqc.com^
+||spanner44.com^
 ||spatula91.com^
 ||spatula93.top^
 ||spcode.baidu.com^
@@ -4533,6 +4541,7 @@
 ||svwo.cn^
 ||svzkhal2zh.com^
 ||swaw.cn^
+||swkqmcv.com^
 ||swovtny444.com^
 ||swqerog.com^
 ||sx2sg2t5sd.com^
