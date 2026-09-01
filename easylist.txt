@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-08-31
-! 规则数量: 5897
+! TimeUpdated: 2026-09-01
+! 规则数量: 5910
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -566,6 +566,7 @@
 ||6k2fehacp.com^
 ||6knlhnjfv.com^
 ||6kpudsordv.com^
+||6lcb0f6wt.com^
 ||6lpm5zq6t3.com^
 ||6mdf9teiz.com^
 ||6mdgv1kmj.com^
@@ -647,6 +648,7 @@
 ||7na721c64.com^
 ||7nb71ub2xi.com^
 ||7p5ruxflv0.com^
+||7pe17z68y.com^
 ||7q2701vx8e.com^
 ||7qkm33t55.com^
 ||7qxv9s5q16.com^
@@ -804,6 +806,7 @@
 ||9rkh7nbaj.com^
 ||9soefyenw.com^
 ||9swovqnp52.com^
+||9tlfy3rrh.com^
 ||9txnu9rlmd.com^
 ||9v7sbm9zc.com^
 ||9vmbje748.com^
@@ -1297,6 +1300,7 @@
 ||biuisz9ss.com^
 ||biz.gexing.com^
 ||bj9zvb5ih.com^
+||bjj02sf4c.com^
 ||bjk08210ip.com^
 ||bjk08211ip.com^
 ||bjk08220ip.com^
@@ -1371,6 +1375,7 @@
 ||btfclfeqc9.com^
 ||btjsvl.icu^
 ||btlgp4vze.com^
+||btm9uso7t.com^
 ||btn.onlylady.com^
 ||btn.pchome.net^
 ||btreelmulq.com^
@@ -2576,6 +2581,7 @@
 ||h8pc8w5twc.com^
 ||h9806gjhz.com^
 ||h9w02sx7t9.com^
+||hacksaw37.com^
 ||hades.qyer.com^
 ||hajolxtoruvvps.com^
 ||handsaw46.com^
@@ -3050,6 +3056,7 @@
 ||jynv.cn^
 ||jywn7lkbdw.com^
 ||k06kldksi3.com^
+||k0b9nwt6d.com^
 ||k0jw6qzyh.com^
 ||k0tdrkbhx.com^
 ||k0winsnua2.com^
@@ -3173,6 +3180,7 @@
 ||l5pv793tm.com^
 ||l6906qxga.com^
 ||l6h17ybxe.com^
+||l8opsdgim.com^
 ||l9moubljmc.com^
 ||l9qxrmda6.com^
 ||lamtc2wny.com^
@@ -3587,6 +3595,7 @@
 ||ndpfxnu.com^
 ||necessitate22.com^
 ||needle058.top^
+||nehpjdjqbafnvm.com^
 ||nenlnl.icu^
 ||nenodhezm.com^
 ||neraenyqq.com^
@@ -3678,7 +3687,6 @@
 ||nnuc.cn^
 ||nnvx.cn^
 ||no4k35w6zy.com^
-||norse.mingxiaow.com^
 ||notlwkjg8.com^
 ||novikanidf.com^
 ||npgjij.cn^
@@ -3834,6 +3842,7 @@
 ||oqcw1f9yw.com^
 ||oqfy4va7a.com^
 ||oqvodgp36.com^
+||or6p0f4i8.com^
 ||oratorio77.com^
 ||orbk.cn^
 ||osuwwk.icu^
@@ -4388,6 +4397,7 @@
 ||s9dik0ydj.com^
 ||sa.sina.cn^
 ||sab5a4zz5.com^
+||saddlebag32.com^
 ||sal5ab6uf.com^
 ||salary.xiao84.com^
 ||sam*.baby-kingdom.com^
@@ -5303,6 +5313,7 @@
 ||wvxi9jbnt.com^
 ||wvzd.cn^
 ||wwavo59q3.com^
+||wx33a.com^
 ||wx6hczwhh.com^
 ||wxfdmri.xyz^
 ||wxikfd89f.com^
@@ -5350,6 +5361,7 @@
 ||xc.macd.cn^
 ||xc.mydrivers.com^
 ||xc5r5huxrr.com^
+||xcdacc.com^
 ||xcf-bd-js.chuimg.com^
 ||xciryzdnl.com^
 ||xclikgrueb.com^
@@ -5498,6 +5510,7 @@
 ||xv62yli8iz.com^
 ||xvbwjd.icu^
 ||xvhttu3c9.com^
+||xwafyzovqu.icu^
 ||xwdsp.com^
 ||xxhfuaek.icu^
 ||xxp4802or.com^
