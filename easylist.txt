@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-09-03
-! 规则数量: 5932
+! TimeUpdated: 2026-09-04
+! 规则数量: 5940
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -65,6 +65,7 @@
 ||0vllsf2g2.com^
 ||0wk6gdkg8r.com^
 ||0wpfe0duo.com^
+||0x79jjyph7.com^
 ||0xr7ii3df.com^
 ||0xzxwnkqdu.com^
 ||0yfqg4qm0.com^
@@ -1138,6 +1139,7 @@
 ||auynumt.com^
 ||avh3nuhxm.com^
 ||avpr.cn^
+||avqb7vrufi.com^
 ||awcecrod.com^
 ||awh3vupyf.com^
 ||awjakpos.com^
@@ -1640,6 +1642,7 @@
 ||cpvx.cn^
 ||cpxzyul.com^
 ||cq2f5kn85c.top^
+||cq5nsp7kya.com^
 ||cqoqpcc.icu^
 ||cqudya.icu^
 ||crandrad.com^
@@ -2666,6 +2669,7 @@
 ||hizechizr.com^
 ||hjjwxb.icu^
 ||hjkhxfh.360doc.cn^
+||hjlra23r7r.com^
 ||hkplzozwl.com^
 ||hl.dyq.cn^
 ||hlbitfukldzbrk.com^
@@ -3525,6 +3529,7 @@
 ||mtmkfjbitxzlhijfcenx.top^
 ||mtmvrulutr.com^
 ||mttpsy6666.cc^
+||mudguard68.com^
 ||mukkoiigam.com^
 ||multiple46.top^
 ||multiplication29.top^
@@ -3924,6 +3929,7 @@
 ||patriotic66.top^
 ||pavdiibdvr.com^
 ||pavwrr.icu^
+||pavxtxikkjrdfy.com^
 ||pb.shuxigua.com^
 ||pb1b7cqwvs.com^
 ||pblwxn.icu^
@@ -5345,6 +5351,7 @@
 ||wy7btl038.com^
 ||wydk6zdk2.com^
 ||wyfjagda.top^
+||wylct1tjdf.com^
 ||wyqqanziid.com^
 ||wyzq.rehuwang.com^
 ||wzehmoil.com^
@@ -5367,6 +5374,7 @@
 ||x4bxnav4g.com^
 ||x4hu95mh0t.com^
 ||x6d93mku0.com^
+||x6kd8l204b.com^
 ||x6u6kw4sg.com^
 ||x7qhjjryf1.com^
 ||x7weiubb2f.com^
