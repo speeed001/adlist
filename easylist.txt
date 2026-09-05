@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-09-04
-! 规则数量: 5940
+! TimeUpdated: 2026-09-05
+! 规则数量: 5950
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -480,6 +480,7 @@
 ||5e2hf0q3a.com^
 ||5edf1d2qv.com^
 ||5edrgrnqg.com^
+||5enhjla7z.com^
 ||5eyal1g5a9.com^
 ||5f1qyi04vz.com^
 ||5gg466kzv.com^
@@ -927,6 +928,7 @@
 ||aaxggkj.com^
 ||ab.cnbanbao.com^
 ||ab.rejushe.com^
+||ab1bhie0c.com^
 ||ab3de9.gamersky.com^
 ||ab41q03rvf.com^
 ||abalone46.com^
@@ -1970,6 +1972,7 @@
 ||e75liqii98.com^
 ||e81j0an3d.com^
 ||e90m7tos2.com^
+||e9zrvermi.com^
 ||ea5s00h6oo.com^
 ||eagb.cn^
 ||eap.big5.enorth.com.cn^
@@ -2972,6 +2975,7 @@
 ||jibn12.jintang114.org^
 ||jigool.org^
 ||jisk.cn^
+||jiz4pa4hu.com^
 ||jj5zwmzcze.com^
 ||jjl4eob8mm.com^
 ||jjnyzeck.icu^
@@ -3062,6 +3066,7 @@
 ||jwxwvjsoadjlze.com^
 ||jxad.jx163.com^
 ||jxal.cn^
+||jxdbvmmau.com^
 ||jxnwbnxslrjvds.com^
 ||jxudh7t5cg.com^
 ||jy.zhongxues.com^
@@ -3714,6 +3719,7 @@
 ||npzc1yzag7.com^
 ||npzjrlkmmjjtxe.com^
 ||nq49x3m8g.com^
+||nqrsdhemqmfdry.com^
 ||nqwgvk.cn^
 ||nrfvq6g98.com^
 ||nslfhb.icu^
@@ -4370,6 +4376,7 @@
 ||rvr3psha.xyz^
 ||rvrl1srlq.com^
 ||rw56y62bgg.com^
+||rwilwcovop.icu^
 ||rwtezd.icu^
 ||rwtraqur.com^
 ||rwtzv9ehv.com^
@@ -4485,6 +4492,7 @@
 ||sky.dunsuan.com^
 ||sl2qzbsn5.com^
 ||sledgehammer09.com^
+||slz99md2o.com^
 ||sm2ralisg.com^
 ||smkqwa.icu^
 ||smooth33.com^
@@ -4662,6 +4670,7 @@
 ||thralgrean.com^
 ||thricroiw.com^
 ||throlnod.com^
+||thuk8hg48.com^
 ||thumbb86.com^
 ||thvptb.icu^
 ||ti1nmd09a.com^
@@ -5316,6 +5325,7 @@
 ||wrdo8dl9bb.com^
 ||wres.cn^
 ||wrestle22.top^
+||wrksb2gt0.com^
 ||wrlhhgeyh.com^
 ||ws.wenshenxiu.com^
 ||ws9jdpz802.com^
