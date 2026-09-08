@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-09-07
-! 规则数量: 5967
+! TimeUpdated: 2026-09-08
+! 规则数量: 5978
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -539,6 +539,7 @@
 ||64lv69ncb9.com^
 ||64sfltdfd9.com^
 ||663008888.com^
+||664095r19h.com^
 ||6651tp.com^
 ||6669667.com^
 ||666aa777bb.com^
@@ -760,6 +761,7 @@
 ||9112rj8wo.com^
 ||918000.xyz^
 ||91glqt27.xyz^
+||91pz9so28w.com^
 ||92hjv5r20.com^
 ||92p3c8lgqt.com^
 ||93692zubo66936.com^
@@ -3129,6 +3131,7 @@
 ||kdkgorjbvlxjrnv.com^
 ||kduwvaq3dt.com^
 ||kegll5mwl2.com^
+||kejyrcp923.com^
 ||keyboard88.top^
 ||kf4kwomxhl.com^
 ||kfa9grestp.com^
@@ -3165,6 +3168,7 @@
 ||ko1d85gjgp.com^
 ||ko5cniwbmh.com^
 ||koebpmhcce.com^
+||kowt80ufwg.com^
 ||kpapyw.icu^
 ||kpogse.icu^
 ||kpshx.douguo.com^
@@ -3227,6 +3231,7 @@
 ||lc653rdqh6.com^
 ||lcbmtd.icu^
 ||lcd.aivote.com^
+||lcdeo8scm4.com^
 ||lcgcrldp6m.com^
 ||lcqbi7nsv.com^
 ||lcrebbqmvlbtno.com^
@@ -3251,6 +3256,7 @@
 ||lgaekait.com^
 ||lgaicreal.com^
 ||lgu7in90o.com^
+||lh6s24tadl.com^
 ||lhdkvvfmydrvhs.com^
 ||lhgzfet8n.com^
 ||lhranp.icu^
@@ -3724,6 +3730,7 @@
 ||nnuc.cn^
 ||nnvx.cn^
 ||no4k35w6zy.com^
+||no99z05m4p.com^
 ||notlwkjg8.com^
 ||novikanidf.com^
 ||npgjij.cn^
@@ -3804,6 +3811,7 @@
 ||o6oxvugdl.com^
 ||o8agbq0qwm.com^
 ||o8u3n4q7fe.com^
+||o9gvxuj9t6.com^
 ||o9qdqbu6nu.com^
 ||oa83fs5udz.com^
 ||oa88s0gb8.com^
@@ -4026,6 +4034,7 @@
 ||plateau77.com^
 ||plectrum53.top^
 ||plsec7wll8.com^
+||pmpantdgzvttbk.com^
 ||pmqhelkean.com^
 ||pn9f3utrxu.com^
 ||pnlx1ofua.com^
@@ -4092,6 +4101,7 @@
 ||pugzutzi.com^
 ||puk9mpb8dm.com^
 ||pulfinik.com^
+||pup8b209b2.com^
 ||purpose36.com^
 ||pusherblight.com^
 ||putmtmkfjbitxzlhijfc.top^
@@ -4377,6 +4387,7 @@
 ||rt5x78mhcq.com^
 ||rta4z4ncsl.com^
 ||rtau9pif4.com^
+||rtdjpmi.com^
 ||rtip4abjv3.com^
 ||rua50s4es8.com^
 ||rubrafoz.com^
