@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-09-08
-! 规则数量: 5978
+! TimeUpdated: 2026-09-09
+! 规则数量: 5987
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -377,6 +377,7 @@
 ||41vtzzt0s.com^
 ||42vaywaovr.com^
 ||431kls9qsf.com^
+||43gu7zzn0.com^
 ||43y3q8h5mz.com^
 ||444223564.xyz^
 ||44b2zlch5q.com^
@@ -454,6 +455,7 @@
 ||55726zubo56686.com^
 ||557ma7bd9.com^
 ||558158.xyz^
+||55nw8b63i.com^
 ||56gwxudcy1.com^
 ||56l9o1j3lk.com^
 ||56wj96l0x.com^
@@ -1156,6 +1158,7 @@
 ||ax.ifeng.com^
 ||ax07in8xkr.com^
 ||ax2t0u9ly.com^
+||axq9j15p0.com^
 ||aybhalkar.com^
 ||aybikaemg.com^
 ||ayodanuauw.com^
@@ -2338,6 +2341,7 @@
 ||gdvghaowyw.com^
 ||gdyjs.com^
 ||ge99lo1z2.com^
+||geav5man0.com^
 ||geecradv.com^
 ||generation456.com^
 ||generation74.com^
@@ -2925,6 +2929,7 @@
 ||j.diangon.com^
 ||j0saeheja5.com^
 ||j1.piaobing.com^
+||j12eaw9xs.com^
 ||j1bla75rck.com^
 ||j1s956aee8.com^
 ||j2fu64j4e.com^
@@ -3734,6 +3739,7 @@
 ||notlwkjg8.com^
 ||novikanidf.com^
 ||npgjij.cn^
+||nplsxlziftfbnk.com^
 ||npunr.cn^
 ||npuwalz.com^
 ||npzc1yzag7.com^
@@ -4076,6 +4082,7 @@
 ||prologue23.com^
 ||promontory32.com^
 ||propagate44.top^
+||propeller73.com^
 ||property58.top^
 ||prosecute39.top^
 ||psa1xoeve.com^
@@ -4735,6 +4742,7 @@
 ||tlgivardfp.com^
 ||tljsxt.icu^
 ||tlq8ufqddj.com^
+||tlre4aso7.com^
 ||tluutoido.com^
 ||tlvbtryetgppha.com^
 ||tmea116.oss-cn-beijing.aliyuncs.com^
@@ -5519,6 +5527,7 @@
 ||xkverkik38.com^
 ||xleemek84.com^
 ||xlekg58lub.com^
+||xlx2ddw4f.com^
 ||xmbfrn.icu^
 ||xmgi1tqka.com^
 ||xmo0oixbx8.com^
