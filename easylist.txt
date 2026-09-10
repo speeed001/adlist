@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-09-09
-! 规则数量: 5987
+! TimeUpdated: 2026-09-10
+! 规则数量: 5996
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -720,6 +720,7 @@
 ||8g2a7mifv.com^
 ||8gptk28oag.com^
 ||8h6oiw0uo.com^
+||8h6whvlpnz.com^
 ||8h7j79qxm.com^
 ||8hx7k0211.com^
 ||8iav2fuiy.com^
@@ -3117,6 +3118,7 @@
 ||k98033ewp.com^
 ||k9egtgh8v.com^
 ||k9zxbudgix.com^
+||kab201k0xs.com^
 ||kaboodle49.com^
 ||kacq.cn^
 ||kagxyvk.com^
@@ -3403,6 +3405,7 @@
 ||m2.lelemh.com^
 ||m292dfq9c.com^
 ||m2wrsmrsbj.com^
+||m30bh0coz2.com^
 ||m3cqjc3og6.com^
 ||m3j1pkrjg3.com^
 ||m3ks1o8jz.com^
@@ -3938,6 +3941,7 @@
 ||p15vjj3og.com^
 ||p2h08fn94d.com^
 ||p2muoczf5.com^
+||p43c4oysmb.com^
 ||p4dc8ve6i.com^
 ||p4p.sina.com.cn^
 ||p5si0mu8u7.com^
@@ -4054,6 +4058,7 @@
 ||poster.weather.com.cn^
 ||pow46ru6c.com^
 ||ppbtdj.icu^
+||ppdzrzm5z7.com^
 ||ppkufuc5vg.com^
 ||pppteennal.com^
 ||ppsn1dzi3h.com^
@@ -4161,6 +4166,7 @@
 ||qcs6kxekav.com^
 ||qcuncolm.com^
 ||qcvf.ifeng.com^
+||qcwvmdi.com^
 ||qczg1nsnvo.com^
 ||qd.x4399.com^
 ||qd38xgoin9.com^
@@ -4235,6 +4241,7 @@
 ||qtozietgp.com^
 ||qtqv3cy43w.com^
 ||qttroiey.com^
+||quarterdeck96.top^
 ||qucxwvt.com^
 ||quince22.top^
 ||qujishu.com^
@@ -4795,6 +4802,7 @@
 ||tsaor7o1e9.com^
 ||tsdtvcx579.com^
 ||tshmhp.icu^
+||tshnjvgecwtbzk.com^
 ||tsjt0k8wa.com^
 ||tslkd9ygnh.com^
 ||tsuh.cn^
@@ -5606,6 +5614,7 @@
 ||xxts11200zs.com^
 ||xxts11201zs.com^
 ||xxxx68xxxx.com^
+||xybrf8tcvf.com^
 ||xyf21yawkj.com^
 ||xyllbx.icu^
 ||xylophone37.com^
