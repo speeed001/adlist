@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-09-12
-! 规则数量: 6013
+! TimeUpdated: 2026-09-13
+! 规则数量: 6021
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -827,6 +827,7 @@
 ||9rkh7nbaj.com^
 ||9soefyenw.com^
 ||9swovqnp52.com^
+||9t9r2tkr9.com^
 ||9tlfy3rrh.com^
 ||9txnu9rlmd.com^
 ||9v7sbm9zc.com^
@@ -3498,6 +3499,7 @@
 ||mhmciof8ef.com^
 ||mhoccoirq.com^
 ||mhukzoikt.com^
+||mi1804pen.com^
 ||mi1pbnrk8d.com^
 ||mias92zmaf.com^
 ||microscope9.com^
@@ -3589,6 +3591,7 @@
 ||mwzbp.iask.com.cn^
 ||mx278ol2d.com^
 ||mxauvrtdm.com^
+||my1746vnm.com^
 ||mya2pg8cdg.com^
 ||myieldell.com^
 ||myiqvn5w3.com^
@@ -4400,6 +4403,7 @@
 ||ronfjvonmo.com^
 ||rorwdbuazjbxta.com^
 ||rovz7ekw3r.com^
+||rowlock05.com^
 ||roywc0iql.com^
 ||rp9zb27jn1.com^
 ||rphwjxzekcbzxu.com^
@@ -4577,6 +4581,7 @@
 ||spellbind33.com^
 ||spnuninugr.com^
 ||spongeds.com^
+||spst2.com^
 ||sq5f10q3d.com^
 ||sqiorli2w.com^
 ||sqmn4wncty.com^
@@ -4741,6 +4746,7 @@
 ||tjvpnh.icu^
 ||tk.504pk.com^
 ||tk11rxjhvm.com^
+||tk71mu9u7.com^
 ||tkdjrsee.icu^
 ||tkij.cn^
 ||tkll12110nb.com^
@@ -4989,6 +4995,7 @@
 ||ulx1cpf68.com^
 ||um5xcgngmart.xyz^
 ||umbrella6.top^
+||umhjh9rwe.com^
 ||umqigvethe.com^
 ||umrd62a7zy.com^
 ||un.ubaike.cn^
@@ -5182,6 +5189,7 @@
 ||volume68.top^
 ||vophiptv.com^
 ||voqf299p8.com^
+||vovvrpueuffrjw.com^
 ||vowellm4.com^
 ||vpeebbq.com^
 ||vplrvf.icu^
