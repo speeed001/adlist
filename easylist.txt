@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-09-17
-! 规则数量: 5650
+! TimeUpdated: 2026-09-18
+! 规则数量: 5660
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -268,6 +268,7 @@
 ||2gvnr9sx9.com^
 ||2hlcovn7n.com^
 ||2i0lliongn.com^
+||2i93en16s9.com^
 ||2j9banjbst.com^
 ||2jdr5wuyzf.com^
 ||2juyabihe.com^
@@ -312,6 +313,7 @@
 ||3337738.com^
 ||33kw1wc58.top^
 ||33mp2fbrns.com^
+||33o5sjd1ao.com^
 ||3400.org^
 ||34dcvgw197.com^
 ||34twscl0hl.com^
@@ -355,6 +357,7 @@
 ||3q9j4w2r9d.com^
 ||3qtdjf4830.com^
 ||3qx0pnhyzi.com^
+||3rc04o1rmy.com^
 ||3rs337ci4.com^
 ||3s7m2ss7g.com^
 ||3sd6w6oga9.com^
@@ -406,6 +409,7 @@
 ||4i2q0y9wv.com^
 ||4j7mf4mmx.com^
 ||4jh1le34m.com^
+||4kngwxegq5.com^
 ||4l5bbkug99.com^
 ||4mvkxs0o0.com^
 ||4nc4qc1fo.com^
@@ -1924,6 +1928,7 @@
 ||ebr6v3tdw.com^
 ||ebrid.cn^
 ||ebsqxaj8u.com^
+||ec00t7oue1.com^
 ||ec8pr7nny.com^
 ||ecbwemnff3.com^
 ||ecg21n9t8d.com^
@@ -2508,6 +2513,7 @@
 ||harpsichord34.com^
 ||hash.trafficmanager.net^
 ||hawfeniku.com^
+||hawsehole52.top^
 ||hawthorn33.top^
 ||hazardous58.top^
 ||hbcjdwm.com^
@@ -3899,6 +3905,7 @@
 ||pyntbz.icu^
 ||pyramid48.com^
 ||pyrfpb.icu^
+||pytm26vg9v.com^
 ||pz0d6zc6n.com^
 ||pzkkot4kn.com^
 ||pzpcbt.icu^
@@ -4156,6 +4163,7 @@
 ||rua50s4es8.com^
 ||rubrafoz.com^
 ||rucksack85.top^
+||ruoky41k7a.com^
 ||ruvowe4xeo.com^
 ||ruziecoraz.com^
 ||rvbavxtjy.icu^
@@ -4410,6 +4418,7 @@
 ||tcmxmlu.com^
 ||tcyudzjp.com^
 ||tdlop7tsme.com^
+||tdlqxdwwpptpli.com^
 ||tebv.cn^
 ||tech.jiukang.org^
 ||telphiruq.com^
@@ -5008,6 +5017,7 @@
 ||wfvs.cn^
 ||wfwadedzk.com^
 ||wh2mu9uj5f.com^
+||wh4fd7x7or.com^
 ||whazrm9wa.com^
 ||wheelbarrow64.com^
 ||whfpbc.99.com.cn^
