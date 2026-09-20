@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-09-19
-! 规则数量: 5668
+! TimeUpdated: 2026-09-20
+! 规则数量: 5676
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -41,6 +41,7 @@
 ||0hagz9mdc.com^
 ||0hasprzzu.com^
 ||0hqq3dnjf.com^
+||0hr4wyjfv3.com^
 ||0iem8mw1lx.com^
 ||0ihw4ipvm5.com^
 ||0jghm60qg.com^
@@ -777,6 +778,7 @@
 ||9992kl2wx3.com^
 ||999aa666bb.com^
 ||999xx333kk.com^
+||99d8z9oqnu.com^
 ||9a4v0clpi.com^
 ||9ck9umcyvt.com^
 ||9cwcu1574.com^
@@ -2200,6 +2202,7 @@
 ||fwslpa9ks.com^
 ||fwujkh7jw.com^
 ||fwvzx907rr.com^
+||fx0blb9zp4.com^
 ||fx455rrt4b.com^
 ||fx8rurzhbf.com^
 ||fxab9iuprt.com^
@@ -2227,6 +2230,7 @@
 ||g2w9awdq0.com^
 ||g2wg5308q.com^
 ||g3m92egwo.com^
+||g4d2cox74f.com^
 ||g4yk4cyyw.com^
 ||g4z8712756.com^
 ||g5xu1dslr6.com^
@@ -2454,6 +2458,7 @@
 ||guess.h.qhimg.com^
 ||gummy-debt.com^
 ||gun2v2neoo.com^
+||gunwale68.top^
 ||guu0bfmpf5.com^
 ||guuia6hxf.com^
 ||guulgakv.com^
@@ -3405,6 +3410,7 @@
 ||musclesaskewfeeding.com^
 ||musicallv.top^
 ||muxc8wxhv.com^
+||mv3yrsh593.com^
 ||mvdrecrull.com^
 ||mvquiema.xyz^
 ||mvt0e2s72.com^
@@ -3819,6 +3825,7 @@
 ||plzahxycoctjxq.com^
 ||pmpantdgzvttbk.com^
 ||pmqhelkean.com^
+||pmt0g2rugw.com^
 ||pn9f3utrxu.com^
 ||pnlx1ofua.com^
 ||pnpq9y4te.com^
@@ -5288,6 +5295,7 @@
 ||xvbwjd.icu^
 ||xvhttu3c9.com^
 ||xwafyzovqu.icu^
+||xwddvfoasvtxjo.com^
 ||xwdsp.com^
 ||xxhfuaek.icu^
 ||xxp4802or.com^
