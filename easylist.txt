@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-09-20
-! 规则数量: 5676
+! TimeUpdated: 2026-09-21
+! 规则数量: 5686
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -408,6 +408,7 @@
 ||4h87y9pc59.com^
 ||4hf2saujov.com^
 ||4i2q0y9wv.com^
+||4ikj2pbeqb.com^
 ||4j7mf4mmx.com^
 ||4jh1le34m.com^
 ||4kngwxegq5.com^
@@ -1082,6 +1083,7 @@
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||alitui.weibo.com^
 ||alnhfq9ov4.com^
+||altitude52.com^
 ||am.szhome.com^
 ||amcraahmou.com^
 ||amftsawknf.com^
@@ -1607,6 +1609,7 @@
 ||cpxzyul.com^
 ||cq2f5kn85c.top^
 ||cq5nsp7kya.com^
+||cqg8zmtt3.com^
 ||cqoqpcc.icu^
 ||crayon.meishichina.com^
 ||crinukpd.com^
@@ -1900,6 +1903,7 @@
 ||dz3tfc2m9.com^
 ||dz6xqe19d2.com^
 ||dzihsqn.icu^
+||dzz8yyd41.com^
 ||e1wluazgt.com^
 ||e1yrns9aw.com^
 ||e26fr9qb4m.com^
@@ -2242,6 +2246,7 @@
 ||g8nwdolod.com^
 ||g9cvic3khh.com^
 ||ga1.3dmgame.com^
+||gangplank39.com^
 ||ganjituiguang.ganji.com^
 ||gardenia25.com^
 ||gb0143odqh.com^
@@ -3911,6 +3916,7 @@
 ||pxdb08b82.com^
 ||pxjabbtydothnc.com^
 ||pxlizduukhnpps.com^
+||pxvoyuez.com^
 ||pybmulveaz.com^
 ||pyntbz.icu^
 ||pyramid48.com^
@@ -4676,6 +4682,7 @@
 ||uftokromta.com^
 ||ufurlokhqd.com^
 ||ufxs.cn^
+||ug2k8bslb.com^
 ||ug4x1tagz.com^
 ||ug54oqjpqq.com^
 ||ug6zg26aq8.com^
@@ -4946,6 +4953,7 @@
 ||vzia.cn^
 ||vzorzilmf.com^
 ||vzrhwmsj.icu^
+||vzzvfpvwyyhfvo.com^
 ||w.xiaopiaoyou.com^
 ||w0054.com^
 ||w0057.com^
@@ -5118,6 +5126,7 @@
 ||wylct1tjdf.com^
 ||wyqqanziid.com^
 ||wyzq.rehuwang.com^
+||wz2jy3t94.com^
 ||wzehmoil.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||wzvaknomh.com^
@@ -5676,6 +5685,7 @@
 ||zyek35wsn.com^
 ||zyifk.cn^
 ||zyjfjziavcdpnk.com^
+||zyy25t69u.com^
 ||zzfxfz.com^
 ||zzhizbzowrzlvy.com^
 ||zzuccikqt.com^
