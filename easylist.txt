@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-09-24
-! 规则数量: 5717
+! TimeUpdated: 2026-09-25
+! 规则数量: 5727
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -28,6 +28,7 @@
 ||0aokpbwui.com^
 ||0b6rvr210q.com^
 ||0bb8jytek.com^
+||0bhl1k9hi.com^
 ||0c484j022z.com^
 ||0d1oo8jp69.com^
 ||0dy3evz6x.com^
@@ -334,6 +335,7 @@
 ||39jz.com^
 ||39q0imqo0.com^
 ||3cbxqifhd.com^
+||3d2uemn8c.com^
 ||3dle4u60y7.com^
 ||3edxfxomz.com^
 ||3f1l3f80xm.com^
@@ -1588,6 +1590,7 @@
 ||coisj3nil.com^
 ||com052bin.com^
 ||comedy34.com^
+||compass12.top^
 ||compose99.com^
 ||compress33.top^
 ||concave88.top^
@@ -1883,6 +1886,7 @@
 ||ds1.kaijia.com^
 ||ds8k3y2d5n.com^
 ||dshsnxfcjwdhpe.com^
+||dsm3y3tl4.com^
 ||dsp.ali213.net^
 ||dszvvdcmzxztte.com^
 ||dtdjhb.icu^
@@ -2071,6 +2075,7 @@
 ||f11.hackhome.com^
 ||f17hdccbws.com^
 ||f1jonnzc8.com^
+||f1x12og38.com^
 ||f20hgvkx7r.com^
 ||f20r1b13iw.com^
 ||f25ifd815p.com^
@@ -2266,6 +2271,7 @@
 ||gcgcvbr52.com^
 ||gchk5bcnaz.com^
 ||gcjg3ry7m.com^
+||gcvns12jp.com^
 ||gcw*.2liang.cn^
 ||gdbegok47.com^
 ||gdqu.cn^
@@ -2680,7 +2686,6 @@
 ||i12het785.com^
 ||i14laze0.xyz^
 ||i16vlgqdhh.com^
-||i1fqn4bnkh37ywbx.cfd^
 ||i2fxsez4f0.com^
 ||i2t1zp6t2v.com^
 ||i2ye9dnle.com^
@@ -2719,6 +2724,7 @@
 ||idzdsbanio.com^
 ||iedchqswx7.com^
 ||ifb33zuqc.com^
+||ihbkqdj55.com^
 ||ihhuyvugv.com^
 ||ii1.chajiaotong.com^
 ||iia1.pikacn.com^
@@ -4150,6 +4156,7 @@
 ||rhododendron15.top^
 ||rhombus74.com^
 ||rhrrf.cn^
+||rib0nsgx6.com^
 ||richh.cn^
 ||ridfvncgizfjlq.com^
 ||rio9s1zdpd.com^
@@ -4675,6 +4682,7 @@
 ||u7em9v4hp.com^
 ||u7lb6db41.com^
 ||u7ugo0jr3.com^
+||u8jlui323.com^
 ||u8rnuky6e.com^
 ||u90p9zk9r7.com^
 ||ual23t6yz.com^
@@ -4804,6 +4812,7 @@
 ||uybq.cn^
 ||uyfv.cn^
 ||uz7w7bm4ns.com^
+||uzhrtuyij.com^
 ||uzrtgekpw.com^
 ||uzt7ud70j1.com^
 ||uzurliev.com^
@@ -4902,6 +4911,7 @@
 ||vksy.cn^
 ||vkur.cn^
 ||vle6r0hma.com^
+||vljyztqsnkhvra.com^
 ||vlpq.cn^
 ||vlrvrntcxjljnu.com^
 ||vlxmfvvknsxldw.com^
