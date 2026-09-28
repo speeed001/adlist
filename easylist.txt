@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-09-27
-! 规则数量: 5751
+! TimeUpdated: 2026-09-28
+! 规则数量: 5766
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -272,6 +272,7 @@
 ||2g8lomzrb.com^
 ||2gvnr9sx9.com^
 ||2hlcovn7n.com^
+||2hqxy07fw.com^
 ||2i0lliongn.com^
 ||2i93en16s9.com^
 ||2j9banjbst.com^
@@ -487,6 +488,7 @@
 ||5dycay3rr.com^
 ||5e2hf0q3a.com^
 ||5e770lhs7b.com^
+||5e9rwtjh1s.com^
 ||5edf1d2qv.com^
 ||5edrgrnqg.com^
 ||5enhjla7z.com^
@@ -575,6 +577,7 @@
 ||6gvg5saail.com^
 ||6h6pdph56.com^
 ||6iejd9pk0.com^
+||6ign0q6xb1.com^
 ||6iiz8ni96v.com^
 ||6iyq4atled.com^
 ||6j7ywcn8sx.com^
@@ -1187,6 +1190,7 @@
 ||b4641y3dw.com^
 ||b47e82rmue.com^
 ||b4afsapz0.com^
+||b56iy3m1jg.com^
 ||b7ijghyla1.com^
 ||b7pgs2ifvq.com^
 ||b7sw62.pingshu8.xyz^
@@ -1201,6 +1205,7 @@
 ||baifen.music.baidu.com^
 ||baj.fanwenzhan.com^
 ||bakrathtfa.com^
+||ballast85.top^
 ||balsam18.com^
 ||balvehgmhw.com^
 ||bandages84.com^
@@ -2512,6 +2517,7 @@
 ||gzk72wa1f.com^
 ||gzldas.icu^
 ||gzsy12348.com^
+||gzx2d0jvwm.com^
 ||h1.cfxinxi.cn^
 ||h1.kukuw.com^
 ||h1.wk2.com^
@@ -2941,6 +2947,7 @@
 ||jqbhtv.icu^
 ||jqfuser.icu^
 ||jqmr7zssmd.com^
+||jqopurafw.com^
 ||jqsex.com^
 ||jqszhz7wo.com^
 ||jquery.envi-met.com.cn^
@@ -3075,6 +3082,7 @@
 ||koebpmhcce.com^
 ||kowt80ufwg.com^
 ||kpshx.douguo.com^
+||kpymx56ch3.com^
 ||kqg8jh8rk.com^
 ||kqgx3eyz7.com^
 ||kqmz0ym0fo.com^
@@ -3175,6 +3183,7 @@
 ||lj43bm3y8.com^
 ||ljvt4pnl9.com^
 ||lk0v8teerw.com^
+||lk54dfg87.com^
 ||lkhmlx.icu^
 ||lkpda6xuy.com^
 ||lkpjbr.icu^
@@ -3312,6 +3321,7 @@
 ||m8h5qjmlb3.com^
 ||m8qk101065.com^
 ||m8ysv4ckls.com^
+||m96v7deg59.com^
 ||m9sm6th48c.com^
 ||m9sz0hh3f7.com^
 ||m9ylqs5rn.com^
@@ -3966,6 +3976,7 @@
 ||pytm26vg9v.com^
 ||pz0d6zc6n.com^
 ||pzkkot4kn.com^
+||pzmu7go7i2.com^
 ||pzpcbt.icu^
 ||pzq7ilwvv.com^
 ||pztnzqwz.icu^
@@ -4061,6 +4072,7 @@
 ||qrtibl.cn^
 ||qrumphathu.com^
 ||qrzwjfq.xyz^
+||qs2zdat2pi.com^
 ||qsjdi1vyq.com^
 ||qslhdidxkazlzuuelsz.top^
 ||qsne.cn^
@@ -4402,6 +4414,7 @@
 ||stamina4.top^
 ||star-seo.oss-ap-northeast-1.aliyuncs.com^
 ||starboard65.com^
+||stateroom28.com^
 ||static-cn.plista.com^
 ||static-ssp.yidianzixun.com^
 ||static.gaomaer.cn^
@@ -4927,6 +4940,7 @@
 ||vizgrt.icu^
 ||vjpdxx.icu^
 ||vjvj.vj24co.com^
+||vkdytplocrhlhm.com^
 ||vkeqoidm.com^
 ||vkoq4kyzmj.com^
 ||vksy.cn^
@@ -5263,6 +5277,7 @@
 ||xhckbgvd0.com^
 ||xhe87zexdk.com^
 ||xhgwho0fx.com^
+||xhhgjfpswovlvg.com^
 ||xhluphuewwlbnc.com^
 ||xhr7cqlob.com^
 ||xhtkm35sw.com^
