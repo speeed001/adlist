@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-09-30
-! 规则数量: 5785
+! TimeUpdated: 2026-10-01
+! 规则数量: 5795
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -424,6 +424,7 @@
 ||4kngwxegq5.com^
 ||4l5bbkug99.com^
 ||4mvkxs0o0.com^
+||4mwe9ki9r.com^
 ||4nc4qc1fo.com^
 ||4nfesm3itf.com^
 ||4nndezdx2u.com^
@@ -610,6 +611,7 @@
 ||6spczz2hj1.com^
 ||6tdz25urqj.com^
 ||6uliq2uive.com^
+||6ulv19ce9.com^
 ||6v2wkfw6pc.com^
 ||6vspt720xf.com^
 ||6w4ix4bxz1.com^
@@ -1144,6 +1146,7 @@
 ||asd8900.oss-*.aliyuncs.com^
 ||ashow.pcpop.com^
 ||askjbvjnejcbzweh.com^
+||asrxwyud2.com^
 ||assp.sohu.com^
 ||asy76rvai.com^
 ||at*.doubanio.com^
@@ -2430,6 +2433,7 @@
 ||gownbea.icu^
 ||gp.jstv.com^
 ||gp.zaiyunli.cn^
+||gp2mi428s.com^
 ||gpfwx.cn^
 ||gpu2rbzpe.com^
 ||gqcrgyufg.com^
@@ -4193,6 +4197,7 @@
 ||rgoxcknehm.com^
 ||rhaol5omof.com^
 ||rhiolf.cn^
+||rhl8r3dkc.com^
 ||rhmt1jjyo.com^
 ||rhnipjxcxlhzbc.com^
 ||rhododendron15.top^
@@ -4532,6 +4537,7 @@
 ||tfgfgtm.com^
 ||tfhpxv.icu^
 ||tfjhjrqmu.icu^
+||tftwrvvavlpjjq.com^
 ||tfyam4np2y.com^
 ||tg0val4vb.com^
 ||tgdlqeqpbh.com^
@@ -4549,6 +4555,7 @@
 ||thragmoth.com^
 ||thraittidz.com^
 ||thralgrean.com^
+||thresher30.com^
 ||throlnod.com^
 ||thuk8hg48.com^
 ||thvptb.icu^
@@ -5346,6 +5353,7 @@
 ||xleemek84.com^
 ||xlekg58lub.com^
 ||xlx2ddw4f.com^
+||xmggucgmy.com^
 ||xmgi1tqka.com^
 ||xmo0oixbx8.com^
 ||xn--w9q675dm1p7em.net^
@@ -5525,6 +5533,7 @@
 ||yr2spd4ucy.com^
 ||yr7unl1qs.com^
 ||yrgsqi0zc.com^
+||yrjxf61zb.com^
 ||yrnv.cn^
 ||yrwks6l3cy.com^
 ||ys2000.cdn.bcebos.com^
@@ -5610,6 +5619,7 @@
 ||zaxffxesykzvfs.com^
 ||zay7gs1xkl.com^
 ||zb4ohbnsf9.com^
+||zbeh6v9jj.com^
 ||zbgoyqs.xyz^
 ||zbl40hvzzy.com^
 ||zbmeerconq.com^
