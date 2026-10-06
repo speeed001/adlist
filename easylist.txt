@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-10-05
-! 规则数量: 5844
+! TimeUpdated: 2026-10-06
+! 规则数量: 5856
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -30,6 +30,7 @@
 ||0bb8jytek.com^
 ||0bhl1k9hi.com^
 ||0c484j022z.com^
+||0cvo4ebbpk.com^
 ||0d1oo8jp69.com^
 ||0dy3evz6x.com^
 ||0e1y8x7ft.com^
@@ -385,6 +386,7 @@
 ||3x8zapzon.com^
 ||3xeedcdci.com^
 ||3xeo00tqz.com^
+||3ylj411rdn.com^
 ||3yx95kv3at.com^
 ||40nao7anx6.com^
 ||40vhwswtr6.com^
@@ -628,6 +630,7 @@
 ||6w4ix4bxz1.com^
 ||6x59axt21.com^
 ||6xu7at70ok.com^
+||6y10di5jko.com^
 ||6zc7gvmavf.com^
 ||7011.stia.cn^
 ||70ba9ncke.com^
@@ -1378,6 +1381,7 @@
 ||borh1pxlp.com^
 ||bowo666.com^
 ||bp8mct71pn.com^
+||bpucmkg.com^
 ||bpuvuun0xg.com^
 ||bqloqigu.com^
 ||bqmbcznkaz.icu^
@@ -2014,6 +2018,7 @@
 ||egvhd2ggc1.com^
 ||egvnfpnb31.com^
 ||egxo.cn^
+||ehcecws.com^
 ||ehh91kb6ic.com^
 ||ehsf5afviv.com^
 ||ehvkaakviw.com^
@@ -2317,6 +2322,7 @@
 ||gcgcvbr52.com^
 ||gchk5bcnaz.com^
 ||gcjg3ry7m.com^
+||gcqgmgq.com^
 ||gcvns12jp.com^
 ||gcw*.2liang.cn^
 ||gdbegok47.com^
@@ -2894,6 +2900,7 @@
 ||j3fvhzit0.com^
 ||j3gkwzt7o.com^
 ||j3idyosut.com^
+||j3ossmqgmc.com^
 ||j4s12kfavg.com^
 ||j5sgdum5n4.com^
 ||j694fx3bp.com^
@@ -4495,6 +4502,7 @@
 ||stringent19.com^
 ||stubborn80.top^
 ||su0k43kcy.com^
+||su4wxsrtku.com^
 ||sub.powerapple.com^
 ||subtraction59.com^
 ||suhfnjm.com^
@@ -4602,6 +4610,7 @@
 ||thvptb.icu^
 ||ti1nmd09a.com^
 ||tigfvdr.com^
+||tightrope23.com^
 ||tikz.cn^
 ||tizdfz.icu^
 ||tjfskxz0t6.com^
@@ -5199,6 +5208,7 @@
 ||wj8i1rlp2b.com^
 ||wk5fo6pyf.com^
 ||wk70ccjk1a.com^
+||wkduza2x10.com^
 ||wkjwumtex3.com^
 ||wlemdl1yx.com^
 ||wlgjz02mo.com^
@@ -5441,6 +5451,7 @@
 ||xtfxjlpglilrdo.com^
 ||xtg5gdugqi.com^
 ||xtjgtbzugy.com^
+||xtorbk1g3f.com^
 ||xtxbemp.xyz^
 ||xu919zz2i.com^
 ||xue.zbyw.cn^
@@ -5737,6 +5748,7 @@
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||zhteknutoy.com^
 ||zhuqellv.com^
+||zhzrvjmyqvdhrc.com^
 ||zig1te84n.com^
 ||zigq.cn^
 ||zinoe.cn^
