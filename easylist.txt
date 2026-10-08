@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-10-07
-! 规则数量: 5865
+! TimeUpdated: 2026-10-08
+! 规则数量: 5873
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -493,6 +493,7 @@
 ||5b518c8he0.com^
 ||5bayjqsrgd.com^
 ||5bess6df0.com^
+||5bfjvunmrp.com^
 ||5bkhq0lwmq.com^
 ||5bpajgg436.com^
 ||5bybyqjzl.com^
@@ -1048,7 +1049,6 @@
 ||ads.sohu.com^
 ||ads.yeeyi.com^
 ||adsc.wasu.tv^
-||adsclick.yx.js.cn^
 ||adshows.21cn.com^
 ||adsmind.gdtimg.com^
 ||adt.xdrig.com^
@@ -1762,6 +1762,7 @@
 ||d9zx24n0d.com^
 ||da.daji.com^
 ||da.mgtv.com^
+||dabetlewtbdppi.com^
 ||daciuehpyf.com^
 ||dahaolong.top^
 ||dahrexmj.icu^
@@ -1908,6 +1909,7 @@
 ||dmym.fwol.cn^
 ||dmyzf4op0.com^
 ||dn*.ixinwei.com^
+||dn1pvim4v1.com^
 ||dneimig.com^
 ||dnminullwq.com^
 ||dnnxq2b16.com^
@@ -2299,6 +2301,7 @@
 ||g12tm6xl3.com^
 ||g15wt3ci68.com^
 ||g2afpbshj.com^
+||g2dgmgl9dy.com^
 ||g2w9awdq0.com^
 ||g2wg5308q.com^
 ||g3m92egwo.com^
@@ -2311,6 +2314,7 @@
 ||g6f0w30cze.com^
 ||g6ird1tez2.com^
 ||g6x2uvza37.com^
+||g86a0qbf1h.com^
 ||g89eyc8a1.com^
 ||g8nwdolod.com^
 ||g9cvic3khh.com^
@@ -3215,6 +3219,7 @@
 ||legislator85.top^
 ||lel704cjev.com^
 ||lelzbtm2o.com^
+||leotard54.com^
 ||letvdbrwhbnhrs.com^
 ||leue.cn^
 ||leyf5q4rk.com^
@@ -4097,7 +4102,6 @@
 ||qifake.com^
 ||qigreveth.com^
 ||qihang168.top^
-||qiji1.jdwx.info^
 ||qim0lvk6m.com^
 ||qirloith.com^
 ||qirqritp.com^
@@ -4987,6 +4991,7 @@
 ||vfie3ximi3elx4uw.cfd^
 ||vfnq.cn^
 ||vfpkraveam.com^
+||vfqhky3tos.com^
 ||vfymgla.com^
 ||vglkx9lick.com^
 ||vgovvoinf.com^
@@ -5127,6 +5132,7 @@
 ||w2qyyljk71.com^
 ||w3.ting55.com^
 ||w3fov7zal.com^
+||w4b52osbr5.com^
 ||w4nw434j7n.com^
 ||w505cb.cc^
 ||w505cb.com^
@@ -5157,6 +5163,7 @@
 ||w75zr9nfj.com^
 ||w766ewvx75.com^
 ||w7gx7y9wk.com^
+||w8n97pkzn6.com^
 ||w97nv5ibv4.com^
 ||w9cvyte89.com^
 ||w9p70nort.com^
@@ -5810,6 +5817,7 @@
 ||zqqwr9snx1.com^
 ||zqtdgsgkib.icu^
 ||zqy0jcfipu.com^
+||zr7f20uk8y.com^
 ||zrgnoey.icu^
 ||zri2wv8u1.com^
 ||zrjr81na94.com^
