@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-10-10
-! 规则数量: 5868
+! TimeUpdated: 2026-10-11
+! 规则数量: 5883
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -163,6 +163,7 @@
 ||16mzw9gff.com^
 ||16xxq8lb4g.com^
 ||17.huanqiu.com^
+||1736js66.com^
 ||177o.com^
 ||17ryi4j3qb.com^
 ||18532.org^
@@ -306,6 +307,7 @@
 ||2top98spp.shop^
 ||2u2wyftqmr.com^
 ||2vcb9onxjm.com^
+||2w7urj3f2.com^
 ||2wg8pp90e.com^
 ||2wqs6d2gp.com^
 ||2xi988xu22.com^
@@ -681,6 +683,7 @@
 ||7g761j2nc.com^
 ||7ho8oc3svg.com^
 ||7imz0d5nay.com^
+||7istqn6fh.com^
 ||7iwxojx1s.com^
 ||7jf3kxi6bq.com^
 ||7jqi6um1g.com^
@@ -1252,6 +1255,8 @@
 ||bbqy4ihvz9.com^
 ||bchina-1.xsfaya.com^
 ||bcjhlhuhq.icu^
+||bcmbmedbqx.icu^
+||bcmbmedbqx.top^
 ||bd-china-1.appmobile.cn^
 ||bd-js.duote.com^
 ||bd-js1.2345.com^
@@ -1648,6 +1653,7 @@
 ||considerice.com^
 ||contagion77.com^
 ||contemplate23.top^
+||contortionist08.com^
 ||contrive73.top^
 ||convergent16.top^
 ||corkscrew33.com^
@@ -2339,6 +2345,7 @@
 ||geav5man0.com^
 ||geecradv.com^
 ||gef153x1u.com^
+||gefxhyby9.com^
 ||generation456.com^
 ||generation74.com^
 ||geranium35.top^
@@ -3752,6 +3759,7 @@
 ||od6992uotl.com^
 ||odj3j8dsff.com^
 ||odmerorlzo.com^
+||odzfjvbsd.com^
 ||oe8mnxdtoi.com^
 ||oe9s24wy9.com^
 ||oeaznhm2wx.com^
@@ -3874,6 +3882,7 @@
 ||pavxtxikkjrdfy.com^
 ||pb.shuxigua.com^
 ||pb1b7cqwvs.com^
+||pbeldhnbk.com^
 ||pbo8y8igrp.com^
 ||pbuuzazvrw.com^
 ||pbwlwdzje.com^
@@ -4080,6 +4089,7 @@
 ||qd.x4399.com^
 ||qd32n9lpq.com^
 ||qd38xgoin9.com^
+||qddlm.com^
 ||qdqf7syrx0.com^
 ||qdzyspjx.com^
 ||qe9wckxig.com^
@@ -4111,6 +4121,7 @@
 ||qjiz.cn^
 ||qjqdkli0ag.com^
 ||qkdrsi4et.com^
+||qkfywghv.com^
 ||qkg7yplpfo.com^
 ||qkixeld.xyz^
 ||qkr4uac6tx.com^
@@ -4550,6 +4561,7 @@
 ||t1.xuefen.com.cn^
 ||t19olm6fd.com^
 ||t298jlqqf.com^
+||t2f3pqd40.com^
 ||t2q0gv7zjg.com^
 ||t4s8t6p39.com^
 ||t57u6anx2.com^
@@ -5086,6 +5098,7 @@
 ||vv1.pyhfxdm.cn^
 ||vvogrqq6r.com^
 ||vvqc95xhtx.com^
+||vvs0eu66z.com^
 ||vvtpftuiqrbdha.com^
 ||vvv.ieduw.com^
 ||vvzjhzccndbhva.com^
@@ -5180,6 +5193,7 @@
 ||wbraekvint.com^
 ||wc6y3nrv7g.com^
 ||wc74aa875.com^
+||wcu79k85a.com^
 ||wde0a1qrm.com^
 ||wdp5rczwlp.com^
 ||wdrn97z1o.com^
@@ -5475,6 +5489,7 @@
 ||xwafyzovqu.icu^
 ||xwddvfoasvtxjo.com^
 ||xwdsp.com^
+||xwpmbxdwlkrfzo.com^
 ||xxfjhbiuwyphdi.com^
 ||xxhfuaek.icu^
 ||xxp4802or.com^
