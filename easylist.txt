@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-10-14
-! 规则数量: 5530
+! TimeUpdated: 2026-10-15
+! 规则数量: 5532
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -710,7 +710,6 @@
 ||84v3xysu80.com^
 ||85270jylmzsym.top^
 ||86o5bui4n.com^
-||874547.men^
 ||876920.com^
 ||877mcpiom.com^
 ||87uq.com^
@@ -739,6 +738,7 @@
 ||8hvq8jskh.com^
 ||8hx7k0211.com^
 ||8iav2fuiy.com^
+||8icep0mqi.com^
 ||8j7tu8vtxx.com^
 ||8jkx.com^
 ||8k69vb6421.com^
@@ -852,7 +852,6 @@
 ||a.91zhongkao.com^
 ||a.armystar.com^
 ||a.baidinet.com^
-||a.bake818.cn^
 ||a.baomihua.com^
 ||a.bfking.cn^
 ||a.bxwblog.cn^
@@ -877,7 +876,6 @@
 ||a.qncye.net^
 ||a.qsjiajiao.com^
 ||a.qunzou.com^
-||a.rensheng5.com^
 ||a.shenchuang.com^
 ||a.tainengchong.com^
 ||a.thn21.com^
@@ -960,7 +958,6 @@
 ||abc.hkepc.net^
 ||abc.ruodian360.com^
 ||abc.yebaike.com^
-||abcd.5lu.com^
 ||abcd.cnhuoche.com^
 ||abcd.yiq.com^
 ||abcd.zle.com^
@@ -1097,11 +1094,11 @@
 ||aldehyde06.com^
 ||aleldrodm.com^
 ||alimama.alicdn.com^
-||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||alitui.weibo.com^
 ||alnhfq9ov4.com^
 ||altitude52.com^
 ||am.szhome.com^
+||am3ydgq1h.com^
 ||amcraahmou.com^
 ||amftsawknf.com^
 ||amlindred.com^
@@ -2105,6 +2102,7 @@
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||fitchpmsa.com^
 ||fittomniku.com^
+||fizmvbysarrvva.com^
 ||fjalsr83a6.com^
 ||fjpopxgyfrlxvc.com^
 ||fk0hwmdoh.com^
@@ -2125,10 +2123,10 @@
 ||fotao9.com^
 ||foxdfpbmignjdq.com^
 ||fp.nanrenwo.net^
+||fp0ao2bav.com^
 ||fp2nn4zxlp.com^
 ||fp9gvw5ber.com^
 ||fpb.sohu.com^
-||fpb*.51edu.com^
 ||fpb1.apple886.com^
 ||fpb1.chinacar.
 ||fpb1.jsq886.com^
@@ -2179,6 +2177,7 @@
 ||fxjs.2541.com^
 ||fy1vifdn5.com^
 ||fyosies.icu^
+||fz1j7l8n2.com^
 ||fz55vq.site^
 ||fz94px.site^
 ||fzavvanz.com^
@@ -2607,6 +2606,7 @@
 ||hweiopvvxd.icu^
 ||hwrzdbokzdttry.com^
 ||hxbt.alading123.com^
+||hxpfsdvfm.com^
 ||hy.huangye88.com.cn^
 ||hy.huangye88.net^
 ||hyaplnr.com^
@@ -2960,7 +2960,6 @@
 ||kgou4s5dz.com^
 ||kheejcqnll.com^
 ||kheivutb.com^
-||khrtac.xiangha.com^
 ||khutedov.com^
 ||kiuee8.com^
 ||kj4gddo30.com^
@@ -3159,6 +3158,7 @@
 ||lurhtbf.com^
 ||luujhia.com^
 ||lv.myapks.com^
+||lv3f2bqnb.com^
 ||lvdvltsid.com^
 ||lvykdmk.icu^
 ||lvzs619n1c.com^
@@ -3186,7 +3186,6 @@
 ||m1.jintang114.org^
 ||m1.kuanff.com^
 ||m1.nn670.com^
-||m1.vodjk.com^
 ||m1.we556.com^
 ||m11bkuusyb.com^
 ||m17d1e83q.com^
@@ -3219,6 +3218,7 @@
 ||m9ylqs5rn.com^
 ||ma1.meishij.net^
 ||ma9gqw1l4.com^
+||magician29.com^
 ||magnolia77.top^
 ||maideatp.com^
 ||main.jiukang.org^
@@ -3636,6 +3636,7 @@
 ||p4dc8ve6i.com^
 ||p4p.sina.com.cn^
 ||p5doaulee2.com^
+||p5jrngqnp.com^
 ||p5si0mu8u7.com^
 ||p66jed4iv.com^
 ||p6q6qpze3f.com^
@@ -4184,7 +4185,6 @@
 ||sirsplajp.com^
 ||siutaodka.com^
 ||sj2xvswu3r.com^
-||sjbaiduadv1.redou.com^
 ||sjbbsja.forum^
 ||sjujmxg6d.com^
 ||skirmish33.top^
@@ -4332,7 +4332,6 @@
 ||tempest22.top^
 ||tempest33.com^
 ||terndzbaritzpw.com^
-||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||tetiaetwg.com^
 ||tezeoddo.com^
 ||tf.360.cn^
@@ -4463,6 +4462,7 @@
 ||turcailnt.com^
 ||tva4k92u14.com^
 ||tvfvxr.icu^
+||tvhftcda.com^
 ||tvj8lylgv.com^
 ||tvlmzx.icu^
 ||tvqagropu.com^
@@ -4849,6 +4849,7 @@
 ||w5c6d9.cc^
 ||w5daa5.com^
 ||w5eep9esa.com^
+||w6n00vtw6.com^
 ||w75zr9nfj.com^
 ||w766ewvx75.com^
 ||w7gx7y9wk.com^
@@ -5116,6 +5117,7 @@
 ||xo60kab7yv.com^
 ||xommzrn.com^
 ||xopldz.icu^
+||xoqloz3tk.com^
 ||xoqsxdpx.xyz^
 ||xoxitt.icu^
 ||xpdgvlxwn.icu^
