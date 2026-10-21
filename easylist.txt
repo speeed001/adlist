@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-10-20
-! 规则数量: 5581
+! TimeUpdated: 2026-10-21
+! 规则数量: 5591
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -314,6 +314,7 @@
 ||2w7urj3f2.com^
 ||2wg8pp90e.com^
 ||2wqs6d2gp.com^
+||2x3le64mm.com^
 ||2xi988xu22.com^
 ||2xx63f0bfy.com^
 ||2y2lttjs.hair^
@@ -335,6 +336,7 @@
 ||33mp2fbrns.com^
 ||33o5sjd1ao.com^
 ||3400.org^
+||34148m9pq.com^
 ||34dcvgw197.com^
 ||34twscl0hl.com^
 ||354xxcdt1.com^
@@ -500,6 +502,7 @@
 ||5bkhq0lwmq.com^
 ||5bpajgg436.com^
 ||5bybyqjzl.com^
+||5cmog8sd8.com^
 ||5cyi6tp6h.com^
 ||5cyqzktkwh.com^
 ||5dfiuae82.com^
@@ -836,6 +839,7 @@
 ||9kqh3r24zv.com^
 ||9ma1sr1tb1.com^
 ||9mdg9cu59.com^
+||9mnmzh506.com^
 ||9nwplq7y2o.com^
 ||9nzrfglryy.com^
 ||9obmf866d.com^
@@ -1216,6 +1220,7 @@
 ||baifen.music.baidu.com^
 ||baj.fanwenzhan.com^
 ||bakrathtfa.com^
+||balcnzwmsjrbjs.com^
 ||ballast85.top^
 ||balsam18.com^
 ||balvehgmhw.com^
@@ -1960,6 +1965,7 @@
 ||efu871zc4.com^
 ||eghaailr.com^
 ||eglnktnqnz.com^
+||eguswp0mj.com^
 ||egvhd2ggc1.com^
 ||egvnfpnb31.com^
 ||ehcecws.com^
@@ -2498,6 +2504,7 @@
 ||h4htfgrei0.com^
 ||h4soqcsrp5.com^
 ||h4tmdz92jq.com^
+||h4z2ko7lb.com^
 ||h57vpulpu.com^
 ||h5o61akbx.com^
 ||h6dc4eiwjf.com^
@@ -2678,6 +2685,7 @@
 ||i7xkqmhjw.com^
 ||i96wgz4nmy.com^
 ||i97wqa881u.com^
+||i9oyj14fq.com^
 ||ia3lxhd539.com^
 ||iachpi.icu^
 ||iads.xinmin.cn^
@@ -2792,6 +2800,7 @@
 ||iy0keh7qj7.com^
 ||iyhaatedew.com^
 ||iyuedu.cn.com^
+||iyyfj0g7m.com^
 ||izkgl35mq.com^
 ||izrtyacymo.com^
 ||izzodzmuu.com^
@@ -4301,6 +4310,7 @@
 ||su4wxsrtku.com^
 ||sub.powerapple.com^
 ||subtraction59.com^
+||subtrahend70.com^
 ||suhfnjm.com^
 ||suitcase890.top^
 ||summit87.com^
