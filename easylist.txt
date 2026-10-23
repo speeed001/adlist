@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-10-22
-! 规则数量: 5602
+! TimeUpdated: 2026-10-23
+! 规则数量: 5611
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -174,6 +174,7 @@
 ||194.59.220.161^
 ||1999019.com^
 ||19dkfu1wg.com^
+||1a7pxa2r7.com^
 ||1aa0yygqst.com^
 ||1adi9wenq.com^
 ||1bsb5sic0.com^
@@ -418,6 +419,7 @@
 ||480ipil.com^
 ||48dswtxkw.com^
 ||48r3l2u5l2.com^
+||490i1rrbd.com^
 ||49dlt9myv.com^
 ||49ioqq6kt.com^
 ||49o4m4a5eo.com^
@@ -838,6 +840,7 @@
 ||9i5x05ovp7.com^
 ||9j9gc694o4.com^
 ||9jk7puqza.com^
+||9kos5nsw7.com^
 ||9kqh3r24zv.com^
 ||9ma1sr1tb1.com^
 ||9mdg9cu59.com^
@@ -2195,6 +2198,7 @@
 ||fsmnmorgb.com^
 ||fsnazsmk.icu^
 ||fsxqfjkg.com^
+||ftdpjbzkeprjhs.com^
 ||ftqn9wedv.com^
 ||ftrgpdecexhzto.com^
 ||fukzsbkp8.com^
@@ -2271,6 +2275,7 @@
 ||gcvns12jp.com^
 ||gcw*.2liang.cn^
 ||gdbegok47.com^
+||gdfzcez6q.com^
 ||gdqu.cn^
 ||gdt.qq.com^
 ||gdyjs.com^
@@ -2776,6 +2781,7 @@
 ||invocation22.com^
 ||invvuu9js.com^
 ||inzy3qq8q.com^
+||iowj5jof2.com^
 ||ipad.pc899.cn^
 ||ipssss.com^
 ||iqqwi8tyq1.com^
@@ -2825,6 +2831,7 @@
 ||j3idyosut.com^
 ||j3ossmqgmc.com^
 ||j4s12kfavg.com^
+||j59g6ff5k.com^
 ||j5sgdum5n4.com^
 ||j694fx3bp.com^
 ||j6gi9jgjpb.com^
@@ -3164,6 +3171,7 @@
 ||lm1.wkpcw.cn^
 ||lm1o9ejjs.com^
 ||lm4u6e80f.com^
+||lmbmr7zw3.com^
 ||lmd6dc1aq7.com^
 ||lmhrchi.com^
 ||lmlmvip.com^
@@ -3864,6 +3872,7 @@
 ||pvino9yhp3.com^
 ||pvjuzdikhrbblo.com^
 ||pvtd.cn^
+||pwdh28pof.com^
 ||pwk73hidf2.com^
 ||pwvlthpqzonnfe.com^
 ||pwzrfznosfblpi.com^
