@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-10-24
-! 规则数量: 5623
+! TimeUpdated: 2026-10-25
+! 规则数量: 5636
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -442,6 +442,7 @@
 ||4j7mf4mmx.com^
 ||4jh1le34m.com^
 ||4k3nzijpm0.com^
+||4k4zbfclm.com^
 ||4kngwxegq5.com^
 ||4l5bbkug99.com^
 ||4lqs5j3ckn.com^
@@ -551,6 +552,7 @@
 ||5vs7i3cuc.com^
 ||5vszw5ab2.com^
 ||5w31xv1a2.com^
+||5wczjm7h4.com^
 ||5wkni37mso.com^
 ||5wt390pvwz.com^
 ||5wv0y42ub.com^
@@ -1909,6 +1911,7 @@
 ||dup.baidustatic.com^
 ||duvm2tveip.com^
 ||dv4ku.icu^
+||dv4o54c8p.com^
 ||dvjxk947e.com^
 ||dvs.china.com^
 ||dvser.china.com^
@@ -2232,6 +2235,7 @@
 ||fz55vq.site^
 ||fz94px.site^
 ||fzavvanz.com^
+||fzbaqs9f1.com^
 ||fzczw7.site^
 ||fzddxwb7y3.com^
 ||fziydh0npy.com^
@@ -2504,6 +2508,7 @@
 ||gz93n2pkh.com^
 ||gzhkarwp9n.com^
 ||gzldas.icu^
+||gzq7cji8e.com^
 ||gzsy12348.com^
 ||gzx2d0jvwm.com^
 ||h1.cfxinxi.cn^
@@ -2786,6 +2791,7 @@
 ||invocation22.com^
 ||invvuu9js.com^
 ||inzy3qq8q.com^
+||iotj6oo90.com^
 ||iowj5jof2.com^
 ||ipad.pc899.cn^
 ||ipssss.com^
@@ -2886,6 +2892,7 @@
 ||jiaoben.jucanw.com^
 ||jiaopei.com^
 ||jibn12.jintang114.org^
+||jieshengsz.com^
 ||jigool.org^
 ||jiz4pa4hu.com^
 ||jj5zwmzcze.com^
@@ -2970,6 +2977,7 @@
 ||jyiwnb82b.com^
 ||jynv.cn^
 ||jywn7lkbdw.com^
+||jzvchdrihqrrfy.com^
 ||k06kldksi3.com^
 ||k08tn5uk9.com^
 ||k0b9nwt6d.com^
@@ -3140,6 +3148,7 @@
 ||lixiangmo.com^
 ||lj43bm3y8.com^
 ||ljvt4pnl9.com^
+||ljyzic8cr.com^
 ||lk0v8teerw.com^
 ||lk54dfg87.com^
 ||lkhmlx.icu^
@@ -4529,6 +4538,7 @@
 ||tt.biquge.la^
 ||tt123.eastday.com^
 ||tt144jrfu.com^
+||tt5omubqh.com^
 ||tthelitnfv.com^
 ||ttimhethzm.com^
 ||ttkxny.com^
@@ -4886,6 +4896,7 @@
 ||vxhpzrqgczxbzi.com^
 ||vxydbok.com^
 ||vyczp.cn^
+||vyq5segjv.com^
 ||vysr4o0eg.com^
 ||vytf0mqa0.com^
 ||vyxw.cn^
@@ -4981,6 +4992,7 @@
 ||whazrm9wa.com^
 ||wheelbarrow64.com^
 ||whfpbc.99.com.cn^
+||whistle88.com^
 ||whitening76.top^
 ||whkhct2lnf.com^
 ||whlwcahw1x.com^
@@ -5290,6 +5302,7 @@
 ||y2ej3xxfve.com^
 ||y2o57pzzx.com^
 ||y2vorexg2u.com^
+||y3yuih3s1.com^
 ||y40milgijh.com^
 ||y4g8fgj6ra.com^
 ||y55lspa2v6.com^
