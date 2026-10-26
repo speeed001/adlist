@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-10-25
-! 规则数量: 5636
+! TimeUpdated: 2026-10-26
+! 规则数量: 5647
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -59,6 +59,7 @@
 ||0l7t5qhb4.com^
 ||0lai5bvkg.com^
 ||0mkeb9vth.com^
+||0nh9bt6v6a.com^
 ||0nyzdw2maq.com^
 ||0oi1ej7mo.com^
 ||0oo9j37xp.com^
@@ -371,6 +372,7 @@
 ||3is34bpqs4.com^
 ||3iulae112b.com^
 ||3j4vjpx7k.com^
+||3jkb97w0tp.com^
 ||3k2frl8r79.com^
 ||3lbqpzrlmz.com^
 ||3llzzztmz.com^
@@ -1243,6 +1245,7 @@
 ||bb2k0pq1vf.com^
 ||bbepv.com^
 ||bbqy4ihvz9.com^
+||bc4zqavx5d.com^
 ||bchina-1.xsfaya.com^
 ||bcjhlhuhq.icu^
 ||bcmbmedbqx.icu^
@@ -2634,6 +2637,7 @@
 ||horribletrainer.com^
 ||houotgk3m.com^
 ||household35.top^
+||hpbxrvnentfrre.com^
 ||hpflxxdwnbvpda.com^
 ||hqeiwwnkce.icu^
 ||hqfhspz.com^
@@ -3117,6 +3121,7 @@
 ||lcrebbqmvlbtno.com^
 ||lctpvmaxz.icu^
 ||lcugzodfdo.com^
+||ld1qwww3kj.com^
 ||lddvxfmswnnxny.com^
 ||ldphrdhawfxhvc.com^
 ||ldyqwzfmd.com^
@@ -3609,6 +3614,7 @@
 ||o28wg9kq8i.com^
 ||o2x4h2txrc.com^
 ||o40d17vln.com^
+||o522zsxbgf.com^
 ||o5y2zd1lq8.com^
 ||o6oxvugdl.com^
 ||o8agbq0qwm.com^
@@ -3949,6 +3955,7 @@
 ||qemh16ihyw.com^
 ||qenb2pxx.xyz^
 ||qezkdby1jj.com^
+||qf21yrnmnk.com^
 ||qf51ho9qtz.com^
 ||qfc4ac1f6.com^
 ||qgckb3ov46.com^
@@ -4247,6 +4254,7 @@
 ||sdnc.top^
 ||seaquake54.com^
 ||secondly74.com^
+||secretaire97.com^
 ||seductive37.top^
 ||seijlfsx.com^
 ||senior82.com^
@@ -4316,6 +4324,7 @@
 ||ssb.ah499.com^
 ||ssc9v54oew.com^
 ||ssgg.chazidian.com^
+||ssi1gqcx0m.com^
 ||sskuwzv.com^
 ||ssp.21ic.com^
 ||ssp.hinet.net^
@@ -4696,6 +4705,7 @@
 ||uniway.cn.com^
 ||unjrkrxme.com^
 ||unknown47.top^
+||unqm8c9dfk.com^
 ||unqvaof.xyz^
 ||untitled.dwstatic.com^
 ||upk8rvnck.com^
@@ -4861,6 +4871,7 @@
 ||vpxyw6rbv3.com^
 ||vpy105341.com^
 ||vqbmxyzda.icu^
+||vqnvib2h7e.com^
 ||vrovadwd.com^
 ||vrtafd.icu^
 ||vrufe4ikql.com^
