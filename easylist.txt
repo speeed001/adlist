@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-10-29
-! 规则数量: 5674
+! TimeUpdated: 2026-10-30
+! 规则数量: 5683
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -66,6 +66,7 @@
 ||0otmh22aj2.com^
 ||0qry58i9es.com^
 ||0qxfxqif0.com^
+||0r5e0xvwes.com^
 ||0s1wclct6.com^
 ||0s5qb3rfz.com^
 ||0tc1bdbgsm.com^
@@ -214,6 +215,7 @@
 ||1nevsf92q.com^
 ||1nrgur4y43.com^
 ||1nvnkyg65.com^
+||1nvxl968le.com^
 ||1o0g85u7k1.com^
 ||1o1nuqbjea.com^
 ||1o23ptd0sv.com^
@@ -614,6 +616,7 @@
 ||6iejd9pk0.com^
 ||6ign0q6xb1.com^
 ||6iiz8ni96v.com^
+||6iwulft12t.com^
 ||6iyq4atled.com^
 ||6j7ywcn8sx.com^
 ||6jei0t6xp.com^
@@ -1243,6 +1246,7 @@
 ||bandages84.com^
 ||barqmajk.com^
 ||barrister85.top^
+||barstool59.com^
 ||bas.boshi.tv^
 ||basically97.top^
 ||bauddoih.com^
@@ -2648,6 +2652,7 @@
 ||hoamt60fa.com^
 ||hohmanrtit.com^
 ||holmesmind.com^
+||holxlriacffphq.com^
 ||horribletrainer.com^
 ||houotgk3m.com^
 ||household35.top^
@@ -3026,6 +3031,7 @@
 ||k9egtgh8v.com^
 ||k9x1d1uuj0.com^
 ||k9zxbudgix.com^
+||ka9gcc8ifd.com^
 ||kab201k0xs.com^
 ||kaboodle49.com^
 ||kacq.cn^
@@ -4035,6 +4041,7 @@
 ||qtozietgp.com^
 ||qtqv3cy43w.com^
 ||qttroiey.com^
+||qty00vcqh8.com^
 ||quarterdeck96.top^
 ||qucxwvt.com^
 ||quince22.top^
@@ -4984,6 +4991,7 @@
 ||w5daa5.com^
 ||w5eep9esa.com^
 ||w6n00vtw6.com^
+||w6v754e1uw.com^
 ||w75zr9nfj.com^
 ||w766ewvx75.com^
 ||w7gx7y9wk.com^
@@ -5430,6 +5438,7 @@
 ||yrwks6l3cy.com^
 ||ys2000.cdn.bcebos.com^
 ||ysdm*.ys137.com.cn^
+||ysy5uobifs.com^
 ||yt-adp.nosdn.127.net^
 ||yt-adp.ws.126.net^
 ||ytoontoteh.com^
