@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-11-02
-! 规则数量: 5716
+! TimeUpdated: 2026-11-03
+! 规则数量: 5722
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -78,6 +78,7 @@
 ||0wpfe0duo.com^
 ||0x79jjyph7.com^
 ||0xr7ii3df.com^
+||0xxbtt1ov.com^
 ||0xzxwnkqdu.com^
 ||0yfqg4qm0.com^
 ||0yjeii25x4.com^
@@ -981,6 +982,7 @@
 ||a6o69f9ky0.com^
 ||a78lx5fbd.com^
 ||a85t9mxnj.com^
+||a8ougj16a.com^
 ||a8qwjt7dwi.com^
 ||a8wqu3fbmk.com^
 ||aa.gushiwen.org^
@@ -2149,6 +2151,7 @@
 ||fdfjxhpqxxjdby.com^
 ||fdi1rg6ihs.com^
 ||fdk6z2l7jt.com^
+||fdseb8s0y.com^
 ||fdtarpaueilvrs.com^
 ||fe7xxmtg3.com^
 ||feeceeyf.com^
@@ -3058,6 +3061,7 @@
 ||kbkvmeg.com^
 ||kbr23k89xz.com^
 ||kc30leutua.top^
+||kca7afgqg.com^
 ||kd5anwumy.com^
 ||kdewa111.familydoctor.com.cn^
 ||kdiwpsdrk.com^
@@ -4198,6 +4202,7 @@
 ||rnvwzd0t9.com^
 ||rofnjd.icu^
 ||roj7ah16d.com^
+||romwdc1mv.com^
 ||ronfjvonmo.com^
 ||rorwdbuazjbxta.com^
 ||rotovator44.top^
@@ -4820,6 +4825,7 @@
 ||v4ox630nia.com^
 ||v53groc9v.com^
 ||v5rv8mnfk.com^
+||v62hjyw4o.com^
 ||v700rtlhd.com^
 ||v7mf6q1mx.com^
 ||v84tz11w7.com^
