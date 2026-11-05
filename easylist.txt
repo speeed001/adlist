@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-11-03
-! 规则数量: 5722
+! TimeUpdated: 2026-11-05
+! 规则数量: 5746
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -218,10 +218,12 @@
 ||1nrgur4y43.com^
 ||1nvnkyg65.com^
 ||1nvxl968le.com^
+||1ny5gaksj8.com^
 ||1o0g85u7k1.com^
 ||1o1nuqbjea.com^
 ||1o23ptd0sv.com^
 ||1ovzgs15u.com^
+||1p5j4qb3zc.com^
 ||1paujqtq9.com^
 ||1phyxws373.com^
 ||1pt7wq8di.com^
@@ -240,6 +242,7 @@
 ||1urjtp1t6.com^
 ||1vd2esrss.com^
 ||1wo2fytcws.com^
+||1wxj1q0wo5.com^
 ||1y55vfy87.com^
 ||1zdywcgmlt.com^
 ||1zw5kzrzjm.com^
@@ -391,6 +394,7 @@
 ||3q9j4w2r9d.com^
 ||3qtdjf4830.com^
 ||3qx0pnhyzi.com^
+||3r6fs2855.com^
 ||3rc04o1rmy.com^
 ||3rev8wh22y.com^
 ||3rs337ci4.com^
@@ -425,9 +429,11 @@
 ||4667gwyg1.com^
 ||46q8oxohlt.com^
 ||46y7erj0mw.com^
+||477d95h3tj.com^
 ||47c7zhqak.com^
 ||47f9jdixm7.com^
 ||480ipil.com^
+||487wlz7nbc.com^
 ||48dswtxkw.com^
 ||48r3l2u5l2.com^
 ||490i1rrbd.com^
@@ -552,6 +558,7 @@
 ||5n131lck8.com^
 ||5ntq14y5y.com^
 ||5p35xkp1p.com^
+||5p478n58i9.com^
 ||5qnyx6k5w.com^
 ||5sghirlr5b.com^
 ||5t5z6augl3.com^
@@ -807,6 +814,7 @@
 ||8wvb8xoqgq.com^
 ||8x919j7l2l.com^
 ||8ya9li3d2g.com^
+||8ybghd4zn.com^
 ||8yo772d29.com^
 ||8yuwd5lpj.com^
 ||8z1eg6o2j.com^
@@ -865,6 +873,7 @@
 ||9ma1sr1tb1.com^
 ||9mdg9cu59.com^
 ||9mnmzh506.com^
+||9nvj3swk9l.com^
 ||9nwplq7y2o.com^
 ||9nzrfglryy.com^
 ||9obmf866d.com^
@@ -1141,6 +1150,7 @@
 ||alcoholic56.top^
 ||aldehyde06.com^
 ||aleldrodm.com^
+||alhgxftiz.com^
 ||alimama.alicdn.com^
 ||alitui.weibo.com^
 ||alnhfq9ov4.com^
@@ -1419,6 +1429,7 @@
 ||briefcase95.com^
 ||brirriek.com^
 ||brnyzr.icu^
+||bshhyxoy62.com^
 ||bslbpb.icu^
 ||bt1.patexplorer.com^
 ||btfclfeqc9.com^
@@ -2619,6 +2630,7 @@
 ||heoddikvdm.com^
 ||herculean57.com^
 ||heuristic95.top^
+||hfparjrmndbvta.com^
 ||hfqarnolmm.com^
 ||hfr8l4ebdt.com^
 ||hfrkamhoz.com^
@@ -2814,8 +2826,10 @@
 ||impservice*.youdao.com^
 ||in5nx9xbd.com^
 ||incapacity75.top^
+||incenter12.com^
 ||inception27.com^
 ||incubation95.top^
+||inequation23.com^
 ||infamouscomer.com^
 ||information43.com^
 ||innveu2ji6.com^
@@ -2959,6 +2973,7 @@
 ||jozx7iukw8.com^
 ||jp532fdo5.com^
 ||jpg1.oss-cn-beijing.aliyuncs.com^
+||jptifzvqhanvha.com^
 ||jpzbjh.icu^
 ||jq5ls14m0.com^
 ||jqbhtv.icu^
@@ -3490,6 +3505,7 @@
 ||myunion1.tupians.com^
 ||mzb60mu3z7.com^
 ||mzuwfvo2e.com^
+||mzzueflt.com^
 ||n.baminw.com.cn^
 ||n01t94i6g.com^
 ||n0399.com^
@@ -3526,6 +3542,7 @@
 ||n8bpikx1mt.com^
 ||n8g1kvtmrf.com^
 ||n906n29tm.com^
+||na50e68jx.com^
 ||nahdlvqwqkzxby.com^
 ||nahg4lhbr.com^
 ||naivety48.com^
@@ -3672,6 +3689,7 @@
 ||o8agbq0qwm.com^
 ||o8u3n4q7fe.com^
 ||o9gvxuj9t6.com^
+||o9m5znv8ta.com^
 ||o9qdqbu6nu.com^
 ||oa83fs5udz.com^
 ||oagirlodug.com^
@@ -3801,6 +3819,7 @@
 ||pavxtxikkjrdfy.com^
 ||pb.shuxigua.com^
 ||pb1b7cqwvs.com^
+||pbe40xy8g.com^
 ||pbeldhnbk.com^
 ||pbo8y8igrp.com^
 ||pbuuzazvrw.com^
@@ -3982,6 +4001,7 @@
 ||q643s5wiiz.com^
 ||q6iw41lkk.com^
 ||q6zikgclq9.com^
+||q70t79hxor.com^
 ||q7vnwa1ma7.com^
 ||q8pmxabng9.com^
 ||q9cu7eok92.com^
@@ -4015,6 +4035,7 @@
 ||qgckb3ov46.com^
 ||qgreedreau.com^
 ||qgvvtce98.com^
+||qh7ptb6mc.com^
 ||qhaelqata.com^
 ||qhangrotl.com^
 ||qhirlilzda.com^
@@ -4215,6 +4236,7 @@
 ||rpjjpm.site^
 ||rpvkpz.icu^
 ||rqilioakof.icu^
+||rrd14g5o8n.com^
 ||rrpaafci9i.com^
 ||rrsxes4oy.com^
 ||rrxzhpheqaprva.com^
@@ -4870,6 +4892,7 @@
 ||vfbwcfej.icu^
 ||vfcv.cn^
 ||vfie3ximi3elx4uw.cfd^
+||vfmlgaxxc4.com^
 ||vfnq.cn^
 ||vfpkraveam.com^
 ||vfqhky3tos.com^
@@ -5121,6 +5144,7 @@
 ||wrestle22.top^
 ||wrksb2gt0.com^
 ||wrlhhgeyh.com^
+||wrsy5mdrj1.com^
 ||ws.wenshenxiu.com^
 ||ws9jdpz802.com^
 ||wsnxw6ihs.com^
