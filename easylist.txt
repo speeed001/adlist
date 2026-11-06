@@ -1,9 +1,10 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-11-05
-! 规则数量: 5750
+! TimeUpdated: 2026-11-06
+! 规则数量: 5759
 ! Description: easylistchina精简
 
 ||003store.com^
+||007bq3y7e5.com^
 ||00k456wyh.com^
 ||011qt7cln.com^
 ||0171pjx5q.com^
@@ -629,6 +630,7 @@
 ||6ggstcmglf.com^
 ||6grxxoqmpc.com^
 ||6h6pdph56.com^
+||6htu6jje0l.com^
 ||6iejd9pk0.com^
 ||6ign0q6xb1.com^
 ||6iiz8ni96v.com^
@@ -781,6 +783,7 @@
 ||8eo93qj18r.com^
 ||8fdmj67f5e.com^
 ||8feichai.com^
+||8fjklyd4os.com^
 ||8g2a7mifv.com^
 ||8gptk28oag.com^
 ||8h6oiw0uo.com^
@@ -1820,6 +1823,7 @@
 ||dd81bp3qbj.com^
 ||ddc888.com^
 ||ddckenbga.com^
+||ddft5oqi7q.com^
 ||ddhwxwi6h.com^
 ||ddpoupmu.icu^
 ||ddwododotg.com^
@@ -1827,7 +1831,6 @@
 ||dehua.ixinfan.com^
 ||dehudoz.com^
 ||deliver.ifeng.com^
-||delivery.playallvideos.com^
 ||delivery.wasu.cn^
 ||dependence39.com^
 ||derivative10.top^
@@ -1877,6 +1880,7 @@
 ||djx3um1my.com^
 ||dkaon1jjeo.com^
 ||dkc63u5su8.com^
+||dkkm83qokh.com^
 ||dkphbpakvgftxm.com^
 ||dlbefft.com^
 ||dldhulolw.com^
@@ -2199,6 +2203,7 @@
 ||fitchpmsa.com^
 ||fitment47.com^
 ||fittomniku.com^
+||fivvdbnotgndfg.com^
 ||fizmvbysarrvva.com^
 ||fjalsr83a6.com^
 ||fjpopxgyfrlxvc.com^
@@ -2631,6 +2636,7 @@
 ||heiw99ovji.com^
 ||heky0uxng.com^
 ||heoddikvdm.com^
+||heptagon54.com^
 ||herculean57.com^
 ||heuristic95.top^
 ||hfparjrmndbvta.com^
@@ -2745,6 +2751,7 @@
 ||i16vlgqdhh.com^
 ||i27jhc4ut0.com^
 ||i2fxsez4f0.com^
+||i2jmbz5ec0.com^
 ||i2t1zp6t2v.com^
 ||i2ye9dnle.com^
 ||i3j6h7j9cj.com^
@@ -3001,7 +3008,6 @@
 ||js.shunqi.com^
 ||js.ubaike.cn^
 ||js.yjbys.com^
-||js*.abolezi.com^
 ||js1.122cha.com^
 ||js1.dadiniu.cn^
 ||js1.haoge500.com^
@@ -3898,6 +3904,7 @@
 ||pn9f3utrxu.com^
 ||pnlx1ofua.com^
 ||pnpq9y4te.com^
+||po1c0tw4b2.com^
 ||po3x411qe3.com^
 ||podcxz.icu^
 ||polygon58.top^
@@ -4513,6 +4520,7 @@
 ||tdlqxdwwpptpli.com^
 ||tebv.cn^
 ||tech.jiukang.org^
+||tecraccimk.com^
 ||tek3shnfk.com^
 ||telphiruq.com^
 ||tempest22.top^
@@ -4901,6 +4909,7 @@
 ||vfpkraveam.com^
 ||vfqhky3tos.com^
 ||vfymgla.com^
+||vg3z87oecg.com^
 ||vglkx9lick.com^
 ||vgtmosn.com^
 ||vgzard.icu^
@@ -5018,6 +5027,7 @@
 ||w0057.com^
 ||w0079.com^
 ||w0082.com^
+||w0c42chjph.com^
 ||w0kaf7jjg.com^
 ||w11.zhongkaohelp.com^
 ||w18.9939.com^
@@ -5229,7 +5239,6 @@
 ||xdlipr.icu^
 ||xdnjqtn.com^
 ||xdxqw9nnr.com^
-||xdyjt.com^
 ||xdyn03010jy.com^
 ||xdyn03011jy.com^
 ||xdyn03021jy.com^
