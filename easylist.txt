@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-11-06
-! 规则数量: 5759
+! TimeUpdated: 2026-11-07
+! 规则数量: 5771
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -224,6 +224,7 @@
 ||1o0g85u7k1.com^
 ||1o1nuqbjea.com^
 ||1o23ptd0sv.com^
+||1okxxe67d.com^
 ||1ovzgs15u.com^
 ||1p5j4qb3zc.com^
 ||1paujqtq9.com^
@@ -268,6 +269,7 @@
 ||22svkcdbyp.com^
 ||22vie9ula.com^
 ||23.231.151.252^
+||23civw6cl.com^
 ||23cox7hu4.com^
 ||23dx6xe42.com^
 ||24jp8wjmho.com^
@@ -444,6 +446,7 @@
 ||49dlt9myv.com^
 ||49ioqq6kt.com^
 ||49o4m4a5eo.com^
+||4ad9bqnjb.com^
 ||4bo5t8fzd.com^
 ||4br824ktty.com^
 ||4c0wa2ml2f.com^
@@ -457,6 +460,7 @@
 ||4grqz7x6z3.com^
 ||4h87y9pc59.com^
 ||4hf2saujov.com^
+||4hfm8gfow.com^
 ||4i2q0y9wv.com^
 ||4ikj2pbeqb.com^
 ||4j7mf4mmx.com^
@@ -1681,6 +1685,7 @@
 ||contrive73.top^
 ||convergent16.top^
 ||corkscrew33.com^
+||cosecant36.com^
 ||cosiskkm.com^
 ||coywadlw9r.com^
 ||cp.7y7.com^
@@ -2575,6 +2580,7 @@
 ||h1cn8nwng.com^
 ||h1yfrt.com^
 ||h27aq0mc6.com^
+||h2m1op6zw.com^
 ||h32rbpk7ne.com^
 ||h40q9nv18.com^
 ||h4htfgrei0.com^
@@ -2611,6 +2617,7 @@
 ||hawsehole52.top^
 ||hawthorn33.top^
 ||hazardous58.top^
+||hb287nh0w.com^
 ||hbcjdwm.com^
 ||hbfpml.cn^
 ||hbiaz6xxya.com^
@@ -2754,6 +2761,7 @@
 ||i2jmbz5ec0.com^
 ||i2t1zp6t2v.com^
 ||i2ye9dnle.com^
+||i3594uli4.com^
 ||i3j6h7j9cj.com^
 ||i3l7wf.com^
 ||i4320rdrta.com^
@@ -3436,6 +3444,7 @@
 ||mip37c9nf.com^
 ||mixer.sina.cn^
 ||mj2fdb4kdq.com^
+||mjpauup21.com^
 ||mjursnb.com^
 ||mjvb60t4g.com^
 ||mk0d5qbdj.com^
@@ -3944,6 +3953,7 @@
 ||propeller73.com^
 ||property58.top^
 ||prosecute39.top^
+||ps2nsp6nz.com^
 ||psa1xoeve.com^
 ||psdovpvghfphju.com^
 ||psgpllf.com^
@@ -4033,6 +4043,7 @@
 ||qd32n9lpq.com^
 ||qd38xgoin9.com^
 ||qddlm.com^
+||qde87pge0.com^
 ||qdqf7syrx0.com^
 ||qdzyspjx.com^
 ||qe9wckxig.com^
@@ -5173,6 +5184,7 @@
 ||wuliao.chzsport.cn^
 ||wuliao.epro.sogou.com^
 ||wuliao.juqingba.cn^
+||wuos2fhox.com^
 ||wvepppysvo.com^
 ||wvrp.cn^
 ||wvuiaqx.com^
