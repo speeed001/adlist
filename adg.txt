@@ -1,5 +1,5 @@
 ! Title: My
-! TimeUpdated: 2026-02-05
+! TimeUpdated: 2026-11-09
 ! Title: shiyu
 
 
@@ -13,6 +13,7 @@
 /^[a-z]+(?:-[a-z]+)?-ad\.a\.yximgs\.com/
 
 
+||adx.halomobi.com^
 ||bd3rd.ifeng.com^
 ||bdmap1.ifeng.com^
 ||uww6.ifeng.com^
