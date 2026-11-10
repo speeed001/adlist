@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
 ! TimeUpdated: 2026-11-10
-! 规则数量: 5800
+! 规则数量: 5807
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -161,6 +161,7 @@
 ||12ypksztq.com^
 ||12yr3wkwi5.com^
 ||136ckqmwc.com^
+||137ioe2krr.com^
 ||13afemc28.com^
 ||148a0hqnen.com^
 ||151xrobgqz.com^
@@ -786,6 +787,7 @@
 ||89ga0evbha.com^
 ||89y84ta6xg.com^
 ||8al17kw6d.com^
+||8c2sxamc6w.com^
 ||8cj70f905.com^
 ||8cjk04e7sb.com^
 ||8csgiuclxz.com^
@@ -893,6 +895,7 @@
 ||9nvj3swk9l.com^
 ||9nwplq7y2o.com^
 ||9nzrfglryy.com^
+||9o2r9h0ket.com^
 ||9obmf866d.com^
 ||9oxhstb2m2.com^
 ||9p81m19kr.com^
@@ -3217,6 +3220,7 @@
 ||lctpvmaxz.icu^
 ||lcugzodfdo.com^
 ||ld1qwww3kj.com^
+||ld7v2xm6ti.com^
 ||lddvxfmswnnxny.com^
 ||ldphrdhawfxhvc.com^
 ||ldyqwzfmd.com^
@@ -3391,6 +3395,7 @@
 ||m6cx48b0e.com^
 ||m6qxdu6m6w.com^
 ||m78vxjm35d.com^
+||m7xud9jqpu.com^
 ||m81mfege2.com^
 ||m8h5qjmlb3.com^
 ||m8qk101065.com^
@@ -4163,6 +4168,7 @@
 ||r.99waiyu.com^
 ||r0d2dzltw7.com^
 ||r1jprcr42.com^
+||r1owcxiy50.com^
 ||r27y52dd7.com^
 ||r30vhf31sv.com^
 ||r40xff8q48.com^
@@ -5787,6 +5793,7 @@
 ||zvhtzl.icu^
 ||zvptrf.icu^
 ||zvrl.cn^
+||zw17ig1gnw.com^
 ||zwbngpnpa.com^
 ||zwfqxj.icu^
 ||zwg5j61a8.com^
