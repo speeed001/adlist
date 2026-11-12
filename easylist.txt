@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-11-11
-! 规则数量: 5821
+! TimeUpdated: 2026-11-12
+! 规则数量: 5826
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -454,6 +454,7 @@
 ||49ioqq6kt.com^
 ||49o4m4a5eo.com^
 ||4ad9bqnjb.com^
+||4ae8xsq18s.com^
 ||4bo5t8fzd.com^
 ||4br824ktty.com^
 ||4c0wa2ml2f.com^
@@ -1298,6 +1299,7 @@
 ||bauddoih.com^
 ||baztfhhqiuvttm.com^
 ||bb2k0pq1vf.com^
+||bb5uxk0dfa.com^
 ||bbepv.com^
 ||bbqy4ihvz9.com^
 ||bc4zqavx5d.com^
@@ -3235,6 +3237,7 @@
 ||ld7v2xm6ti.com^
 ||lddvxfmswnnxny.com^
 ||ldphrdhawfxhvc.com^
+||ldxxawzpy9.com^
 ||ldyqwzfmd.com^
 ||leabd.douguo.com^
 ||leektiylpi.com^
@@ -4186,6 +4189,7 @@
 ||r27y52dd7.com^
 ||r30vhf31sv.com^
 ||r40xff8q48.com^
+||r44r4l5na1.com^
 ||r4uws5iu3g.com^
 ||r5g13d8py3.com^
 ||r5gcp9.com^
@@ -5134,6 +5138,7 @@
 ||w9cvyte89.com^
 ||w9p70nort.com^
 ||waioidmwg.com^
+||waj301k9sb.com^
 ||waly7k3sg3.com^
 ||wap001.bytravel.cn^
 ||wap1.laogu.wang^
