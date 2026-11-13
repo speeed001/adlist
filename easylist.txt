@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-11-12
-! 规则数量: 5826
+! TimeUpdated: 2026-11-13
+! 规则数量: 5836
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -1223,6 +1223,7 @@
 ||at32jaers.com^
 ||atanx.alicdn.com^
 ||atiws.aipai.com^
+||atl0g02nj.com^
 ||atm.youku.com^
 ||ato.tooopen.com^
 ||atpm.cn^
@@ -2892,6 +2893,7 @@
 ||insurance55.top^
 ||inte.net^
 ||inte.sogou.com^
+||intercede77.com^
 ||interviewbq.com^
 ||invalidation93.com^
 ||invention66.com^
@@ -2981,6 +2983,7 @@
 ||jdjkljs.click^
 ||jdpbpd.icu^
 ||jds4i5gcfv.com^
+||jdzxdlmc3.com^
 ||je3zdrcua.com^
 ||jerhzr.icu^
 ||jfffe1o97b.com^
@@ -3336,6 +3339,7 @@
 ||lpdm1k14h.com^
 ||lpuqhego.com^
 ||lpxyrjholunvdk.com^
+||lq72mfje7.com^
 ||lqbe7i5gf.com^
 ||lqdhllq.com^
 ||lqvz7e4xa.com^
@@ -3374,10 +3378,12 @@
 ||lyk35otqfm.com^
 ||lymxj.com^
 ||lyz.radio366.com^
+||lzcr41vbp.com^
 ||lzdjxp.icu^
 ||lzu1ocasf.com^
 ||lzwdh6iwo.com^
 ||m.aty.sohu.com^
+||m0q6xvc7c.com^
 ||m1.27com.com^
 ||m1.51kaowang.com^
 ||m1.81312.com^
@@ -3480,6 +3486,7 @@
 ||microwave97.com^
 ||midship24.com^
 ||mihoutao1868.github.io^
+||mikasang.xyz^
 ||milk.yesky.com.cn^
 ||mini.hao123.com^
 ||miniye.xjts.cn^
@@ -3527,6 +3534,7 @@
 ||mqndhoceat.com^
 ||mqo60hadqz.com^
 ||mqondrun.com^
+||mqqj04eb0.com^
 ||mqrqtvzwdl.com^
 ||mqunqwsyrw.com^
 ||mr6c4eqmh.com^
@@ -3909,6 +3917,7 @@
 ||periscope73.com^
 ||periscope80.com^
 ||permissible67.com^
+||pfh01c50p.com^
 ||pfk94y5ke.com^
 ||pg-ad-b1.nosdn.127.net^
 ||pgiguiqult.com^
@@ -3965,6 +3974,7 @@
 ||porqbb.icu^
 ||porthole58.top^
 ||pos.baidu.com^
+||pos23t6jw.com^
 ||position66.top^
 ||poster.weather.com.cn^
 ||pow46ru6c.com^
