@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
 ! TimeUpdated: 2026-11-17
-! 规则数量: 5868
+! 规则数量: 5878
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -223,6 +223,7 @@
 ||1mb71rr5oo.com^
 ||1n4vrzxdms.com^
 ||1nevsf92q.com^
+||1nqv0i1kk.com^
 ||1nrgur4y43.com^
 ||1nvnkyg65.com^
 ||1nvxl968le.com^
@@ -1436,6 +1437,7 @@
 ||bmjs.xzw.com^
 ||bmjtlfhahyhhru.com^
 ||bmmpotgeaz.com^
+||bmznrj7oi.com^
 ||bmzzojmzu.com^
 ||bn067lnkrb.com^
 ||bnbklsss.homes^
@@ -2102,6 +2104,7 @@
 ||emdcadvertise.eastmoney.com^
 ||emjs.mkzhan.com^
 ||ems59cq77u.com^
+||enar18ahs1.com^
 ||enelveufry.com^
 ||enennsa.gushiwen.cn^
 ||enews10.yxlady.net^
@@ -2786,6 +2789,7 @@
 ||hxuxv7vx0.com^
 ||hy.huangye88.com.cn^
 ||hy.huangye88.net^
+||hy851xvexj.com^
 ||hyaplnr.com^
 ||hydrocarbon77.top^
 ||hygiene86.com^
@@ -2804,6 +2808,7 @@
 ||i12het785.com^
 ||i14laze0.xyz^
 ||i16vlgqdhh.com^
+||i20k3b5yi.com^
 ||i27jhc4ut0.com^
 ||i2fxsez4f0.com^
 ||i2jmbz5ec0.com^
@@ -2813,6 +2818,7 @@
 ||i3j6h7j9cj.com^
 ||i3l7wf.com^
 ||i4320rdrta.com^
+||i5dtd6dfl.com^
 ||i5le8m3qxs.com^
 ||i5qquywfz.com^
 ||i5rd6bukys.com^
@@ -3425,6 +3431,7 @@
 ||m3rsa3rnbm.com^
 ||m3v8x28jut.com^
 ||m43ocq1uoj.com^
+||m4820qu4n.com^
 ||m485oq2gym.top^
 ||m4dynuge4.com^
 ||m5.66077.cn^
@@ -4691,6 +4698,7 @@
 ||tmkfjbitxzlhijfcenxe.top^
 ||tmkhirkrol.com^
 ||tmlyhh.icu^
+||tmn70vp2u.com^
 ||tmpsdp.icu^
 ||tmtmkfjbitxzlhijfcen.top^
 ||tnwotuqey.com^
@@ -4968,6 +4976,7 @@
 ||v8j1rkai1.com^
 ||va3yq7si6w.com^
 ||vapvllaajrhhzc.com^
+||variance36.com^
 ||vaudeville44.top^
 ||vauu8z77p.com^
 ||vb5gi1zp5.com^
@@ -5467,6 +5476,7 @@
 ||xscp03121xq.com^
 ||xscp03130xq.com^
 ||xscp03131xq.com^
+||xsdnb.com^
 ||xspxdhkcaplhza.com^
 ||xssncc2tv.com^
 ||xsyhy.cn^
