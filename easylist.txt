@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-11-18
-! 规则数量: 5885
+! TimeUpdated: 2026-11-19
+! 规则数量: 5891
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -1066,6 +1066,7 @@
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac00qmnjz.com^
+||ac0vjhnpp.com^
 ||ac1.pingpingw.com^
 ||acc.3gbizhi.com^
 ||accommodate53.top^
@@ -3576,6 +3577,7 @@
 ||mrkjo1f9kz.com^
 ||mrko3xiug.com^
 ||ms.cnbanbao.com^
+||msg3zn5w9.com^
 ||msn5vg8em.com^
 ||mt1exxfnf.com^
 ||mtaitdupf.com^
@@ -3898,6 +3900,7 @@
 ||p1.zhongyoo.com^
 ||p1oo54kz6d.com^
 ||p2muoczf5.com^
+||p3bqgc0pi.com^
 ||p43c4oysmb.com^
 ||p4dc8ve6i.com^
 ||p4p.sina.com.cn^
@@ -3952,6 +3955,7 @@
 ||periscope73.com^
 ||periscope80.com^
 ||permissible67.com^
+||pfac2u4n5.com^
 ||pfh01c50p.com^
 ||pfk94y5ke.com^
 ||pg-ad-b1.nosdn.127.net^
@@ -4587,6 +4591,7 @@
 ||syncope12.top^
 ||synopsis95.com^
 ||szbnb3wmaj.com^
+||szhtkldy4.com^
 ||szjbo9a13.com^
 ||szqwzosxn3.com^
 ||t1.612.com^
@@ -4729,6 +4734,7 @@
 ||trammel74.top^
 ||trampoline12.com^
 ||trapezium69.top^
+||trapezoid76.com^
 ||travel44.top^
 ||treatment11.top^
 ||trepanation07.top^
