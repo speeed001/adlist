@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-11-19
-! 规则数量: 5891
+! TimeUpdated: 2026-11-20
+! 规则数量: 5899
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -691,6 +691,7 @@
 ||6tdz25urqj.com^
 ||6uliq2uive.com^
 ||6ulv19ce9.com^
+||6uw4lcf0qu.com^
 ||6v2wkfw6pc.com^
 ||6vspt720xf.com^
 ||6w4ix4bxz1.com^
@@ -1669,6 +1670,7 @@
 ||chunmiaosh.com^
 ||chushoushijian.cn^
 ||chwyt1hzb.com^
+||chxzsq0cu1.com^
 ||cidb5rr2t.com^
 ||cientch.360doc.cn^
 ||cj81gcvm2.com^
@@ -3026,6 +3028,7 @@
 ||jhhpvy7cp3.com^
 ||jhhv22erzs.com^
 ||jhpqntyyeezpds.com^
+||jhpt4yvqu4.com^
 ||jia183d6v.com^
 ||jiaoben.eastday.com^
 ||jiaoben.ganji.cn^
@@ -3121,6 +3124,7 @@
 ||jynv.cn^
 ||jywn7lkbdw.com^
 ||jzvchdrihqrrfy.com^
+||k04y9ezfjw.com^
 ||k06kldksi3.com^
 ||k08tn5uk9.com^
 ||k0b9nwt6d.com^
@@ -3915,6 +3919,7 @@
 ||p7w3bmhmns.com^
 ||p8u.hinet.net^
 ||p99c3kwxg.com^
+||pa4u6c6lqv.com^
 ||paintbrush27.top^
 ||paintbrush82.top^
 ||panda.kdnet.net^
@@ -4098,6 +4103,7 @@
 ||pyrfpb.icu^
 ||pytm26vg9v.com^
 ||pz0d6zc6n.com^
+||pzjgxlbejmhrli.com^
 ||pzkkot4kn.com^
 ||pzmu7go7i2.com^
 ||pzpcbt.icu^
@@ -4465,6 +4471,7 @@
 ||sentiment39.top^
 ||sf5yzh4yqz.com^
 ||sfzjk57ov.com^
+||sga2frwjjh.com^
 ||sgg.southcn.com^
 ||sgjewpnite.com^
 ||sh996.dftoutiao.com^
@@ -5134,6 +5141,7 @@
 ||vwtbrzymoz.com^
 ||vwvaddoet.com^
 ||vx2tbw9xin.com^
+||vx5l3i9l18.com^
 ||vxhpzrqgczxbzi.com^
 ||vxydbok.com^
 ||vyczp.cn^
