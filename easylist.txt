@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-11-21
-! 规则数量: 5598
+! TimeUpdated: 2026-11-22
+! 规则数量: 5607
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -558,6 +558,7 @@
 ||5qpogztzt.com^
 ||5sghirlr5b.com^
 ||5t5z6augl3.com^
+||5tei0pomwk.com^
 ||5tf1zp1jgb.com^
 ||5u1zleadi.com^
 ||5u6ku3n9k.com^
@@ -816,6 +817,7 @@
 ||91pz9so28w.com^
 ||92p3c8lgqt.com^
 ||93692zubo66936.com^
+||93cwt9hr8s.com^
 ||93gtx4pc2w.com^
 ||93txjw4rt2.com^
 ||94gjh3cedn.com^
@@ -1138,10 +1140,12 @@
 ||alhgxftiz.com^
 ||alimama.alicdn.com^
 ||alitui.weibo.com^
+||alizfv2ls3.com^
 ||alnhfq9ov4.com^
 ||altitude52.com^
 ||am.szhome.com^
 ||am3ydgq1h.com^
+||ambifpskje.com^
 ||amcraahmou.com^
 ||amftsawknf.com^
 ||amlindred.com^
@@ -1225,6 +1229,7 @@
 ||b47e82rmue.com^
 ||b4afsapz0.com^
 ||b56iy3m1jg.com^
+||b7f6867m0u.com^
 ||b7ijghyla1.com^
 ||b7pgs2ifvq.com^
 ||b7sw62.pingshu8.xyz^
@@ -1923,6 +1928,7 @@
 ||dvser.china.com^
 ||dvtkppqczzfhpk.com^
 ||dvvv9ld5b0.com^
+||dw3wytlo38.com^
 ||dwchovra.com^
 ||dwh3rjyzxj.com^
 ||dwjlxiuio.com^
@@ -4437,6 +4443,7 @@
 ||tawjmkk1p6.com^
 ||tb1mdkeni.com^
 ||tbthrfrgkqltpw.com^
+||tc7y2avdw2.com^
 ||tc911.vip^
 ||tcmxmlu.com^
 ||tcyudzjp.com^
@@ -4824,6 +4831,7 @@
 ||vfpkraveam.com^
 ||vfqhky3tos.com^
 ||vfymgla.com^
+||vfyz2jncwu.com^
 ||vg3z87oecg.com^
 ||vglkx9lick.com^
 ||vgtmosn.com^
@@ -5449,6 +5457,7 @@
 ||z2ke56999.com^
 ||z2ubj8bpk.com^
 ||z2uyyp069d.com^
+||z3uf7yie2f.com^
 ||z3vkcnj9f.com^
 ||z4tnhm97b.com^
 ||z5c4tnjw6p.com^
