@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-11-22
-! 规则数量: 5607
+! TimeUpdated: 2026-11-24
+! 规则数量: 5622
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -402,6 +402,7 @@
 ||3sd6w6oga9.com^
 ||3t4j5adg9x.com^
 ||3tv4botiq.com^
+||3twgodwqu.com^
 ||3vkgutjorg.com^
 ||3vvuu0z8ui.com^
 ||3wrv1uzotr.com^
@@ -446,6 +447,7 @@
 ||4d9f09z8c.com^
 ||4djkbk96r4.com^
 ||4e0jpheoi1.com^
+||4eyn3s9wj.com^
 ||4f8g9foqwy.com^
 ||4fd0jlybx.com^
 ||4grqz7x6z3.com^
@@ -473,10 +475,12 @@
 ||4ppj7n846t.com^
 ||4pyszxxaw.com^
 ||4q7unmlg5.com^
+||4rlqjv5c5.com^
 ||4ro76m7k2n.com^
 ||4rzph5ytr.com^
 ||4u079hpvl.com^
 ||4uitrrt700.com^
+||4vzi54g47.com^
 ||4w3ol467n.com^
 ||4w54d7rjg.com^
 ||4wbvq8yl2.com^
@@ -495,6 +499,7 @@
 ||51tongji.trafficmanager.net^
 ||51ympuu7y.com^
 ||52cg5n8jjd.com^
+||533upqfg6.com^
 ||54ad.net^
 ||54ads.com^
 ||54igqsjd9.com^
@@ -511,6 +516,7 @@
 ||588677.xyz^
 ||591520.xyz^
 ||595image.com^
+||59j22m33n.com^
 ||59ufs4hof5.com^
 ||59zzkdt8pj.com^
 ||5b0a1c63v9.com^
@@ -976,6 +982,7 @@
 ||a5wlr2yplf.com^
 ||a65vocvbfe.com^
 ||a6cfvavw1.xyz^
+||a6j9wqsyq6.com^
 ||a6o69f9ky0.com^
 ||a78lx5fbd.com^
 ||a85t9mxnj.com^
@@ -1938,6 +1945,7 @@
 ||dydab.com^
 ||dynamo57.com^
 ||dytuj6zs26.com^
+||dyv86qq19o.com^
 ||dz6xqe19d2.com^
 ||dzihsqn.icu^
 ||dzz8yyd41.com^
@@ -2527,6 +2535,7 @@
 ||h1.wk2.com^
 ||h1883c5wn.com^
 ||h1cn8nwng.com^
+||h1tv22icy.com^
 ||h1yfrt.com^
 ||h27aq0mc6.com^
 ||h2m1op6zw.com^
@@ -2853,6 +2862,7 @@
 ||j1bla75rck.com^
 ||j1s956aee8.com^
 ||j2fu64j4e.com^
+||j31pozck4v.com^
 ||j33xvvanl.com^
 ||j3fvhzit0.com^
 ||j3gkwzt7o.com^
@@ -3068,6 +3078,7 @@
 ||klljo2cp63.com^
 ||kls24qtvc.com^
 ||klt2ojvew1.com^
+||kmbvclcac.com^
 ||kmdjdu5cc.com^
 ||knie8wmsk.com^
 ||knnfkwf.com^
@@ -3213,6 +3224,7 @@
 ||lmbmr7zw3.com^
 ||lmd6dc1aq7.com^
 ||lmhrchi.com^
+||lmhx6w4tm.com^
 ||lmlmvip.com^
 ||lmtruueagl.com^
 ||lmxnthoobcznvu.com^
@@ -4111,6 +4123,7 @@
 ||reke.at.sohu.com^
 ||relapse37.com^
 ||reluctance58.com^
+||remainder22.com^
 ||remainder38.com^
 ||remedyy46.com^
 ||reo682syw4.com^
@@ -4282,6 +4295,7 @@
 ||secretaire97.com^
 ||seductive37.top^
 ||seijlfsx.com^
+||semicircle59.com^
 ||senior82.com^
 ||sentiment39.top^
 ||sf5yzh4yqz.com^
@@ -5005,6 +5019,7 @@
 ||wc6y3nrv7g.com^
 ||wc74aa875.com^
 ||wcu79k85a.com^
+||wcx3gf.site^
 ||wde0a1qrm.com^
 ||wdp5rczwlp.com^
 ||wdtuc.cn^
