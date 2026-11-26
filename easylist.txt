@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-11-25
-! 规则数量: 5629
+! TimeUpdated: 2026-11-26
+! 规则数量: 5641
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -54,6 +54,7 @@
 ||0hr4wyjfv3.com^
 ||0i2nax2di.com^
 ||0ihw4ipvm5.com^
+||0jbyj9d2l.com^
 ||0jghm60qg.com^
 ||0kl9n3q2b.com^
 ||0kplffrs42.com^
@@ -891,6 +892,7 @@
 ||9v7sbm9zc.com^
 ||9vmbje748.com^
 ||9wkvbvm90.com^
+||9xxne23lm.com^
 ||9yspkomgq.com^
 ||9z6p1shhsh.top^
 ||a.10tianqi.com^
@@ -2876,6 +2878,7 @@
 ||j3ossmqgmc.com^
 ||j4s12kfavg.com^
 ||j59g6ff5k.com^
+||j5gv7t9sv.com^
 ||j5sgdum5n4.com^
 ||j694fx3bp.com^
 ||j6gi9jgjpb.com^
@@ -2962,6 +2965,7 @@
 ||jqszhz7wo.com^
 ||jquery.envi-met.com.cn^
 ||jqz8z7gqxw.com^
+||jqzck6m0vv.com^
 ||jr9v5lx1ro.com^
 ||jrge.cn^
 ||js.263y.com^
@@ -3417,6 +3421,7 @@
 ||mm.jbzj.com^
 ||mm.nwell.net^
 ||mm.paizi.net^
+||mn3hdpe1y.com^
 ||mnnmnn.com^
 ||mnwor.xuanlishi.com^
 ||mo-tuo.com^
@@ -3517,6 +3522,7 @@
 ||n8g1kvtmrf.com^
 ||n906n29tm.com^
 ||na50e68jx.com^
+||nah9b3ag8.com^
 ||nahdlvqwqkzxby.com^
 ||nahg4lhbr.com^
 ||naivety48.com^
@@ -4057,6 +4063,7 @@
 ||qujishu.com^
 ||qunphoty.com^
 ||quoits96.top^
+||quotient68.com^
 ||quotient75.com^
 ||quu175kt3.com^
 ||quudraidfg.com^
@@ -4296,6 +4303,7 @@
 ||script-bd.baixing.net^
 ||sd0ycgs3n0.com^
 ||sdd.hi1718.com^
+||sdgugmgkcwtaij.com^
 ||sdnc.top^
 ||seaquake54.com^
 ||secondly74.com^
@@ -4606,6 +4614,7 @@
 ||tu3921276844.cc^
 ||tu4038097360.cc^
 ||tu6767109513.cc^
+||tu6boqunqq.com^
 ||tupmsen.com^
 ||turcailnt.com^
 ||tuxcpf6pq.com^
@@ -4678,6 +4687,7 @@
 ||u8jlui323.com^
 ||u8rnuky6e.com^
 ||u90p9zk9r7.com^
+||uaazwczowtfswj.com^
 ||ub1.job592.com^
 ||ub6weu52p.com^
 ||ubeeludrt.com^
@@ -4730,6 +4740,7 @@
 ||ulny.cn^
 ||ulpsd9qmja.com^
 ||ulx1cpf68.com^
+||umd8dz8x9.com^
 ||umhjh9rwe.com^
 ||umqigvethe.com^
 ||umrd62a7zy.com^
@@ -5545,6 +5556,7 @@
 ||zinoe.cn^
 ||zipobfrcbodrvq.com^
 ||zisu.cn.com^
+||zitdymshto.icu^
 ||zither89.com^
 ||ziwl05nrf1.com^
 ||zj5mqsb06x.com^
