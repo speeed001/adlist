@@ -1,6 +1,6 @@
 ! Title: easylistchinalite-dns
-! TimeUpdated: 2026-11-27
-! 规则数量: 5651
+! TimeUpdated: 2026-11-28
+! 规则数量: 5661
 ! Description: easylistchina精简
 
 ||003store.com^
@@ -312,6 +312,7 @@
 ||2mlt7jkbob.com^
 ||2nbg86d2x.com^
 ||2nl6sgd9c.com^
+||2nli0zswf.com^
 ||2nvd5j7iv0.com^
 ||2omfz9ygz2.com^
 ||2orln75bry.com^
@@ -655,6 +656,7 @@
 ||6o719vq4x.com^
 ||6ovzwbq4o.com^
 ||6p6vcukqz.com^
+||6pmdcigfjy.com^
 ||6px1vsaq0h.com^
 ||6q77vsjez1.com^
 ||6qcvth5fb.com^
@@ -2688,6 +2690,7 @@
 ||huqraedu.com^
 ||hurriedly18.com^
 ||huwgjgf.icu^
+||hv3lixzlc.com^
 ||hv7w3au49.com^
 ||hvqyf.cn^
 ||hweianpqxl.icu^
@@ -2934,6 +2937,7 @@
 ||jiaopei.com^
 ||jibn12.jintang114.org^
 ||jieshengsz.com^
+||jixgkxfhfp.icu^
 ||jiz4pa4hu.com^
 ||jj5zwmzcze.com^
 ||jjl4eob8mm.com^
@@ -3896,6 +3900,7 @@
 ||preuquqre.com^
 ||prndgif.com^
 ||pro.iweihai.cn^
+||probability31.com^
 ||probing34.com^
 ||proceedings33.top^
 ||product28.top^
@@ -4304,6 +4309,7 @@
 ||sbbd1.qulishi.com^
 ||sbpb1.chuiyue.com^
 ||sbpb1.qulishi.com^
+||sbvpsl7wxa.com^
 ||sc126.com^
 ||scb4tpwq40.com^
 ||schedule77.top^
@@ -4567,6 +4573,7 @@
 ||tmpsdp.icu^
 ||tmtmkfjbitxzlhijfcen.top^
 ||tnwotuqey.com^
+||tnz8mdste.com^
 ||tnze.cn^
 ||toaadwh.icu^
 ||toaster22.com^
@@ -4852,6 +4859,7 @@
 ||vdhatq0co.com^
 ||vdnh.cn^
 ||vdxu.cn^
+||ve9gs6j44.com^
 ||vegetation67.com^
 ||vegmiedd.com^
 ||veirkaey.com^
@@ -5221,6 +5229,7 @@
 ||xgsspao.com^
 ||xgsvpsz7f4.com^
 ||xgzxpdy.com^
+||xh2ei17sy.com^
 ||xh33g.net^
 ||xhayx4v25b.com^
 ||xhckbgvd0.com^
@@ -5404,6 +5413,7 @@
 ||yg0051thk.com^
 ||yg4j3py9b.com^
 ||yg6p1tskn.com^
+||ygcmsecmzzhaup.com^
 ||ygg1e0gmc.com^
 ||yghonola.com^
 ||ygx2myq993.com^
